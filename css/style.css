@@ -121,6 +121,13 @@ footer {
   vertical-align: top;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
 }
+#pricing table td {
+  vertical-align: middle;
+  font-weight: bold;
+}
+#price-row td {
+  padding: 15px 0;
+}
 #integration-partners img {
   margin: 10px auto;
   display: block;
