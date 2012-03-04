@@ -121,6 +121,15 @@ footer {
   vertical-align: top;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
 }
+#pricing table td.feat a,
+#pricing table td.feat a:visited,
+#pricing table td.feat a:hover,
+#pricing table td.feat a:active {
+  color: #444;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
+  cursor: help;
+}
 #pricing table td {
   vertical-align: middle;
   font-weight: bold;
