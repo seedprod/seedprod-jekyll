@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Controlling Sidebars in Thematic
+tags: 
+- code
+- thematic
+- theme
+- wordpress
+---
+I started using <a href="http://themeshaper.com/">Thematic</a> a couple of weeks ago and have absolutely fallen in love it with. Mucho hooks and filters, which is key to customizing just like WordPress.
+
+I needed a way to control the primary and secondary sidebar and which pages they would show up on without a plugin [<a style="text-decoration: none; color: #3478e3;" href="http://wordpress.org/extend/plugins/widget-logic/">Widget Logic</a>] . After digging through the Thematic code and finding this awesome <a href="http://bluemandala.com/thematic/thematic-structure.html">breakdown</a> of Thematic. I discovered that I could shove some logic code in the Thematic hook ‘thematic_abovemainasides’. In fact you can shove the code in other Thematic hooks to control any Thematic widgetized area.
+
+The code below shows the secondary sidebar only on the blog page and single pages, all other pages show the primary sidebar.
+
+<script src="https://gist.github.com/272626.js"> </script>

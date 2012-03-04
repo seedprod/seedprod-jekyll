@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title></title>
+ <link href="/atom.xml" rel="self"/>
+ <link href=""/>
+ <updated>2012-03-03T21:28:17-05:00</updated>
+ <id></id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Dynamically Resize WordPress Images On-the-Fly</title>
+   <link href="/dynamically-resize-wordpress-images-on-the-fly"/>
+   <updated>2011-11-15T00:00:00-05:00</updated>
+   <id>h/dynamically-resize-wordpress-images-on-the-fly</id>
+   <content type="html">&lt;p&gt;Creating multiple image sizes in WordPress is quite easy when the image is attached to a post or page. Theme.fm has an excellent &lt;a href=&quot;http://theme.fm/2011/08/images-image-sizes-and-post-thumbnails-in-wordpress-1385/&quot;&gt;write up&lt;/a&gt; on how to do this with the &lt;a href=&quot;http://codex.wordpress.org/Function_Reference/add_image_size&quot;&gt;add_image_size&lt;/a&gt; function. The problem with this method is that it creates a lot of bloat because for every image uploaded it's sized to this new size even if you're not going to use it. Also getting the different available sizes from just a url is a pain.&lt;/p&gt;
+
+&lt;p&gt;To side step this issue Theme and Plugin developers have resorted to using scripts like &lt;a href=&quot;http://code.google.com/p/timthumb/&quot;&gt;TimThumb&lt;/a&gt; , which recently have a &lt;a href=&quot;http://blog.vaultpress.com/2011/08/02/vulnerability-found-in-timthumb/&quot;&gt;major vulnerability&lt;/a&gt; discovered. Another script that can generate images on the fly is called &lt;a href=&quot;http://core.trac.wordpress.org/ticket/15311&quot;&gt;vt_resized&lt;/a&gt;. This script is nice because it uses native WordPress functions to generate the new image. The only is issue is that it does not support WordPress Multisite. Here's a modified version of the script with crude multisite support.&lt;/p&gt;
+&lt;p&gt;
+If you find a bug let me know. Hopefully WordPress will provide a similar function in the WP core in the future.&lt;/p&gt;
+&lt;p&gt;
+On &lt;a href=&quot;https://gist.github.com/1367237&quot;&gt;Github&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/1367237.js&quot;&gt; &lt;/script&gt;
+
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>WordPress Ultimate Coming Soon Page Plugin</title>
+   <link href="/wordpress-coming-soon-page-plugin"/>
+   <updated>2011-07-06T00:00:00-04:00</updated>
+   <id>h/wordpress-coming-soon-page-plugin</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Updated - Sept 14 2011&lt;/strong&gt;
+&lt;a href=&quot;http://seedprod.com/product/coming-soon-pro-plugin/&quot;&gt;Pro Version&lt;/a&gt; now available with MailChimp Integration, Mobile Support and more.&lt;/p&gt;
+
+I released a WordPress plugin a couple of weeks ago called the &quot;&lt;a href=&quot;http://wordpress.org/extend/plugins/ultimate-coming-soon-page/&quot;&gt;Ultimate Coming Soon Page&lt;/a&gt;&quot; plugin. My hopes with this plugin was to create an easy way for people to add a great looking coming soon page to their WordPress site as they built it out and to collect emails form their visitor.
+
+So far I've received excellent feedback from the user of it. I plan to release a pro version of the plugin in the next few weeks to be able to provide better features and support. If there's a feature you'd like to see in this plugin please leave feedback below.
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Welcome to SeedProd</title>
+   <link href="/welcome-to-seedprod"/>
+   <updated>2011-06-25T00:00:00-04:00</updated>
+   <id>h/welcome-to-seedprod</id>
+   <content type="html">My name is &lt;a href=&quot;/about/&quot;&gt;John Turner&lt;/a&gt; and I run SeedProd, a software company. I build simple and elegant solutions to common problems. I've been coding for over 10 years in languages like PHP, Javascript, Python, ASP.NET and Cold Fusion.
+
+Feel free to &lt;a title=&quot;Contact&quot; href=&quot;/contact/&quot;&gt;contact me&lt;/a&gt;.
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Startups - A brutally honest post and reality check</title>
+   <link href="/startups-a-brutally-honest-post-and-reality-check"/>
+   <updated>2011-05-20T00:00:00-04:00</updated>
+   <id>h/startups-a-brutally-honest-post-and-reality-check</id>
+   <content type="html">&lt;p&gt;It&amp;#8217;s been about a month since I launched &lt;a href='http://pagifyapp.com'&gt;Pagify&lt;/a&gt; and I&amp;#8217;m sort of in a rut. For some reason I&amp;#8217;ve completely lost interest in my project.&lt;/p&gt;
+
+&lt;p&gt;I joined the &lt;a href='http://www.micropreneur.com/'&gt;Micropreneur Academy&lt;/a&gt; well after I started working on my product (80% complete to be exact) and like most other developers who have no Marketing knowledge I started coding before doing any research. I went though the academy learning the principles while still pushing forward building Pagify. As I learned the approach for launching a successful product and launch, I think deep down I began to realize that my product was not unique and was in a highly competitive space. Still I keep coding heads down. My launch came and went in April. Out of around 150 trials I had 3 sign ups. Since then none, and I haven&amp;#8217;t had any trial sign up in about 15 day even though ad words is bring about 8 uniques a day.&lt;/p&gt;
+
+&lt;p&gt;After launch I put on my Marketing hat which had not been worn up until that point and is the exact opposite this curriculum teaches. As I started doing my keyword research and looking over the competition I realized organic ranking would be extremely hard to achieve. Competition in the space is extremely competitive and filled with some VC backed company along with lots of free solutions. Needless to say the more I research and the more depressed I got.&lt;/p&gt;
+
+&lt;p&gt;Since launch I have been slacking. I have written a few blog post, bought some SEO links and doing research. I feel like I might be fighting a bull with a toothpick. Instead of adding features to my site I have been building a custom WordPress theme. Sort of the ultimate sales site theme. Basically a WordPress theme that does all the stuff the academy teaches you. Coming Soon Page, Tons of 3rd Party Integrations, MailChimp, Analytics, automatic creation of the killer sales site main pages. I plan to use this on Pagify to replace my current sales site and sell it as well. &lt;a href='http://saastheme.com'&gt;http://saastheme.com&lt;/a&gt;. I&amp;#8217;m not sure if I&amp;#8217;m building this site for Pagify or as a diversion to not work on Pagify directly.&lt;/p&gt;
+
+&lt;p&gt;I know the launch is just the start of the quest and building your business. I know I could probably pivot my product and focus on a niche, but I feel like I need to start back at the beginning and cut my loses.&lt;/p&gt;
+
+&lt;p&gt;I was thinking I could even turn my new Custom Theme into a product. I actually turned down a position with Woo Themes this summer to continue working on my product.&lt;/p&gt;
+
+&lt;p&gt;Anyway would love to hear your feedback positive or negative. I&amp;#8217;m going to go get a beer.&lt;/p&gt;
+
+&lt;p&gt;Cheers&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Stuff I Use</title>
+   <link href="/stuff-i-use"/>
+   <updated>2011-04-10T00:00:00-04:00</updated>
+   <id>h/stuff-i-use</id>
+   <content type="html">&lt;p&gt;This is a list of apps, services, etc… of stuff I use.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mail.google.com&quot;&gt;Gmail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.google.com/apps/intl/en/group/index.html&quot;&gt;Google Apps for my Domain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.google.com/analytics/&quot;&gt;Google Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://feedburner.google.com&quot;&gt;Feedburner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.google.com/voice&quot;&gt;Google Voice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.google.com/reader&quot;&gt;Google Reader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://calendar.google.com&quot;&gt;Google Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://aws.amazon.com/s3/&quot;&gt;Amazon S3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/referrals/NTU1ODc5OTk&quot;&gt;Dropbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://crashplan.com&quot;&gt;CrashPlan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://flickr.com&quot;&gt;Flickr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wufoo.com&quot;&gt;WuFoo Forms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://eepurl.com/cacGL&quot;&gt;MailChimp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.linode.com/?r=c3098a14934921fc469444d70e139fb64774b0e3&quot;&gt;Linode VPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.dreamhost.com/r.cgi?1078223&quot;&gt;Dreamhost&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://posterous.com&quot;&gt;Posterous&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://code.google.com/appengine/&quot;&gt;Google App Engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/johnnytee&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;software&quot;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.apple.com/macosx/&quot;&gt;Mac OSX 10.6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wordpress.org/&quot;&gt;WordPress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Google Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://macromates.com/&quot;&gt;Textmate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.panic.com/transmit/&quot;&gt;Transmit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.adobe.com/products/fireworks/&quot;&gt;Fireworks CS5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.virtualbox.org/&quot;&gt;VirtualBox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://store.shinywhitebox.com/ishowuhd/main.html&quot;&gt;iShowU HD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jingproject.com&quot;&gt;Jing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.mamp.info/en/index.html&quot;&gt;MAMP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.apple.com/ilife/&quot;&gt;iLife&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.skype.com&quot;&gt;Skype&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;computer-setup&quot;&gt;Computer Setup&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.apple.com/macbookpro/&quot;&gt;13-inch MacBook Pro 2.26 GHz Intel Core 2 Duo 4 GB 1067 MHz DDR3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;gadgets&quot;&gt;Gadgets&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.google.com/phone&quot;&gt;Nexus One&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.roku.com/&quot;&gt;Roku Digital Video Player&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B0035FZJJE?ie=UTF8&amp;amp;tag=jodtu-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0035FZJJE&quot;&gt;Canon PowerShot SD1400IS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Free HTML5 Theme for Bloggart</title>
+   <link href="/free-html5-theme-for-bloggart"/>
+   <updated>2011-01-07T00:00:00-05:00</updated>
+   <id>h/free-html5-theme-for-bloggart</id>
+   <content type="html">&lt;a href=&quot;https://github.com/johnnytee/bloggart/zipball/master&quot;&gt;Download&lt;/a&gt; my theme I created for my Google App Engine Bloggart blog.
+&lt;a href=&quot;http://github.com/Arachnid/bloggart&quot;&gt;
+Bloggart&lt;/a&gt; is an awesome open source blog created by Nick Johnson.
+
+&lt;strong&gt;Features:&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;HTML5 tags&lt;/li&gt;
+	&lt;li&gt;Built on the &lt;a href=&quot;http://html5boilerplate.com/&quot;&gt;HTML5 Boiler Plate Framework&lt;/a&gt; by Paul Irish&lt;/li&gt;
+	&lt;li&gt;Mobile Layout using Media Queries&lt;/li&gt;
+	&lt;li&gt;Google Fonts&lt;/li&gt;
+	&lt;li&gt;Clean and Simple&lt;/li&gt;
+	&lt;li&gt;Canonical Urls's&lt;/li&gt;
+To use canonicals urls add the code below to generators in generators.py&lt;/ul&gt;
+[python]template_vals['canonical_url'] = 'http://' + config.host + post.path[/python]
+
+&lt;strong&gt;Front&lt;/strong&gt;
+&lt;a href=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-08-20_0905.jpeg&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-587&quot; title=&quot;2010-08-20_0905&quot; src=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-08-20_0905-300x243.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;243&quot; /&gt;&lt;/a&gt;
+
+&lt;strong&gt;Admin&lt;/strong&gt;
+&lt;a href=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-08-20_0906.jpeg&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-588&quot; title=&quot;2010-08-20_0906&quot; src=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-08-20_0906-300x247.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;247&quot; /&gt;&lt;/a&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hacker News Mobile Version (experimental)</title>
+   <link href="/hacker-news-mobile-version-experimental"/>
+   <updated>2010-06-21T00:00:00-04:00</updated>
+   <id>h/hacker-news-mobile-version-experimental</id>
+   <content type="html">Ok I admit it, I'm a Hacker Newsaholic! Over this weekend I decided to build a mobile version for my N1. It should try to automatically render a mobile version of the article using a modified version of Readability. You can it at @ &lt;a href=&quot;http://j.mp/mobilehn&quot; target=&quot;_blank&quot;&gt;http://j.mp/mobilehn&lt;/a&gt;. Let me know what you think.
+
+&lt;a href=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-06-21_1141.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-584&quot; title=&quot;2010-06-21_1141&quot; src=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-06-21_1141-215x300.png&quot; alt=&quot;&quot; width=&quot;215&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-06-21_1144.png&quot;&gt;&lt;img class=&quot;alignleft size-medium wp-image-585&quot; title=&quot;2010-06-21_1144&quot; src=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-06-21_1144-206x300.png&quot; alt=&quot;&quot; width=&quot;206&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My Posterous Theme for Free Download</title>
+   <link href="/my-posterous-theme-for-free-download"/>
+   <updated>2010-06-05T00:00:00-04:00</updated>
+   <id>h/my-posterous-theme-for-free-download</id>
+   <content type="html">I have been ask by several people for my Posterous theme. I have decided to release it for free under the GPL license.
+
+&lt;a href=&quot;https://gist.github.com/gists/370643/download&quot;&gt;Download&lt;/a&gt;
+
+It supports custom colors and pages.
+
+To install:
+
+&lt;ol&gt;
+    &lt;li&gt;Download and unzip page from link above.&lt;/li&gt;
+    &lt;li&gt;Open up&lt;strong&gt; twitter-sidebar.html&lt;/strong&gt; and replace line 41 with your Twitter username.&lt;/li&gt;
+    &lt;li&gt;You'll then need to upload this file to a webhost or to your &lt;a href=&quot;https://www.dropbox.com/referrals/NTU1ODc5OTk&quot;&gt;Dropbox&lt;/a&gt; public folder for hosting.&lt;/li&gt;
+    &lt;li&gt;Open up &lt;strong&gt;theme.html&lt;/strong&gt; and replace line 870 with the location to &lt;strong&gt;twitter-sidebar.html&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;Copy the contents of &lt;strong&gt;theme.htm&lt;/strong&gt;l into your Posterous Themes under &lt;strong&gt;Advanced&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;Then &lt;strong&gt;Save&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+Please let me know your feedback.
+
+&lt;a href=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-08-14_1522.jpeg&quot;&gt;&lt;img class=&quot;alignleft size-medium wp-image-586&quot; title=&quot;2010-08-14_1522&quot; src=&quot;http://seedprod.com/wp-content/uploads/2011/06/2010-08-14_1522-300x202.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;202&quot; /&gt;&lt;/a&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Moving johndturner.com to Posterous</title>
+   <link href="/moving-johndturner-com-to-posterous"/>
+   <updated>2010-06-05T00:00:00-04:00</updated>
+   <id>h/moving-johndturner-com-to-posterous</id>
+   <content type="html">&lt;strong&gt;Updated:&lt;/strong&gt; Back on WordPress as of 4/18/11
+
+&lt;a href=&quot;http://seedprod.com/wp-content/uploads/2011/06/4179375695_53a01ccecc.jpeg&quot;&gt;&lt;img class=&quot;alignleft size-thumbnail wp-image-589&quot; title=&quot;4179375695_53a01ccecc&quot; src=&quot;http://seedprod.com/wp-content/uploads/2011/06/4179375695_53a01ccecc-150x150.jpg&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;
+
+Posterous is a super easy way to post anything to the web. I've heard it described as a life streaming app, but I think it's much more than that.
+
+I signed up for Posterous back when it 1st came onto the scene. Back then it was most noted for the ability to post to multiple site like Facebook, Twitter, and Flickr, which was super cool but that's about all it did.
+
+I recently checked it out again a couple of weeks ago and noticed they had added tons of new features such as domain mapping, google analytics and feedburner integration, and the ability to create &lt;a href=&quot;http://blog.posterous.com/posterous-theming-its-here-its-live-and-its-t&quot;&gt;custom themes&lt;/a&gt;!
+
+I have been a long time WordPress guru and I still am. The majority of my time is spent developing for WordPress and I even run a &lt;a href=&quot;http://bandpress.org&quot;&gt;site builder for Bands&lt;/a&gt; using WordPress . But just because I'm a WordPress developer does not make me a hardcore blogger.  Developers usually spend more time coding than the do blogging. Which brings me to why I switched from WordPress to Posterous for my personal site.
+
+I love how super easy it is to post to Posterous. I can open up gmail, attach some images, video, url, map, text or whatever and Posterous deals with it. Posterous will post it correctly and it will go out to my other sites. I can even tag from email. It handles &lt;a href=&quot;http://news.ycombinator.com/item?id=366718#&quot;&gt;syntax highlighting&lt;/a&gt;. They also have a &lt;a href=&quot;http://posterous.com/help/bookmarklet&quot;&gt;smart bookmarklet&lt;/a&gt; that I can use to comment and post things from the Internet I find.
+
+This is perfect for me because I usually don't write long thought out post. They are usually done on the fly and less formal. And now with the theming feature I can customize the look and feel and even some of the functionality. As you can see on mine I using the &lt;a href=&quot;http://posterous.com/theming/reference#block_BodyExcerpt&quot;&gt;excerpt tag&lt;/a&gt; which is listed as experimental. I've also hacked it a bit to created faux pages with the help of iframes and the {tagsascss} theme tag.
+
+I have posted more in the last couple of weeks than I did the last 1 years using WordPress for &lt;a href=&quot;http://johndturner.com&quot;&gt;johndturner.com&lt;/a&gt; and it's sort of fun. Don't get me wrong though, I think WordPress is definitely the leader in full featured blogging platforms, but as I said earlier I just don't need all of that for my personal site. I also like fast and light weight nature of Posterous.
+
+I'm looking forward to seeing what Posterous will come out with next. They have been cranking through some feature request. I personally would like to see the ability to us JavaScript in themes and a sitemap.xml auto generated, but I'm sure what ever they do next will be cool.
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recursively set owner shell script -  GitHub</title>
+   <link href="/recursively-set-owner-shell-script-github"/>
+   <updated>2010-01-08T00:00:00-05:00</updated>
+   <id>h/recursively-set-owner-shell-script-github</id>
+   <content type="html">This a shell script to recursively set owner inside the home folder to be the home folders name. I used this during a restore process.
+
+&lt;script src=&quot;https://gist.github.com/272122.js&quot;&gt;&lt;/script&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Controlling Sidebars in Thematic - SeedProd</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+
+    <link rel="alternate" type="application/rss+xml" title="SeedProd &raquo; Feed" href="http://feeds.feedburner.com/seedprod"/>
+
+    <!-- Le styles -->
+    <link rel="stylesheet" href="/prettyphoto/css/prettyPhoto.css">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for le poo poo IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+  </head>
+
+  <body class="">
+    <div id="page-wrap">
+    <div id="header-wrap">
+    <div class="navbar">
+      <div>
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><img src="/images/seedprod-logo.png" alt="SeedProd Logo"></a>
+          <div class="nav-collapse">
+            <ul class="nav pull-right">
+              <li><a href="/">Home</a></li>
+              <li><a href="/plugins/">Plugins</a></li>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/support/">Support</a></li>
+            </ul>
+          </div><!-- .nav-collapse -->
+        </div>
+      </div>
+    </div>
+    
+  </div><!-- #header-wrap -->
+
+  <div id="bd">
+    <div class="container">
+      <div id="main" class="clearfix">
+<div class="row">
+	<div class="span8">
+		<h1>Controlling Sidebars in Thematic</h1>
+			<div class="meta-head">
+			Posted by <a href="/about/">John Turner</a> on July 01, 2009
+			</div>
+		<div class="entry clearfix">
+			I started using <a href="http://themeshaper.com/">Thematic</a> a couple of weeks ago and have absolutely fallen in love it with. Mucho hooks and filters, which is key to customizing just like WordPress.
+
+I needed a way to control the primary and secondary sidebar and which pages they would show up on without a plugin [<a style="text-decoration: none; color: #3478e3;" href="http://wordpress.org/extend/plugins/widget-logic/">Widget Logic</a>] . After digging through the Thematic code and finding this awesome <a href="http://bluemandala.com/thematic/thematic-structure.html">breakdown</a> of Thematic. I discovered that I could shove some logic code in the Thematic hook ‘thematic_abovemainasides’. In fact you can shove the code in other Thematic hooks to control any Thematic widgetized area.
+
+The code below shows the secondary sidebar only on the blog page and single pages, all other pages show the primary sidebar.
+
+<script src="https://gist.github.com/272626.js"> </script>
+
+		</div>
+		<h4>Related Posts</h4>
+		<div class="related-posts">
+			
+				<li><a href="/dynamically-resize-wordpress-images-on-the-fly">Dynamically Resize WordPress Images On-the-Fly</a></li>
+			
+				<li><a href="/wordpress-coming-soon-page-plugin">WordPress Ultimate Coming Soon Page Plugin</a></li>
+			
+				<li><a href="/welcome-to-seedprod">Welcome to SeedProd</a></li>
+			
+		</div>
+		  <div class="pagination">
+			<ul class="pager">
+		 	 
+			    <li class="previous">
+					<a href="/stockr" class="prev" title="Stockr">&larr; Older Post</a>
+				</li>
+			  
+
+			  
+				<li class="next">
+			    	<a href="/bandpress-org-sneak-peek" class="next" title="BandPress.org Sneak Peek">Newer Post &rarr;</a>
+				</li>
+			  
+			</ul>
+		  </div> <!-- pagination div -->
+		<div id="comments">
+			<div id="disqus_thread"></div>
+<script>
+    var disqus_shortname = 'seedprod'; 
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+		</div>
+	</div>
+	<div class="span4">
+		<div class="widget">
+<h3>Keep in Touch</h3>
+	<ul class="unstyled">
+		<li><a href="http://eepurl.com/jI_of"><i class="icon-envelope"></i> Get the Newsletter</a></li>
+		<li><a href="http://twitter.com/johnturner"><i class="icon-twitter2"></i> Follow Us on Twitter</a></li>
+
+	</ul>
+	<hr>
+</div>
+
+
+<div class="widget">
+<h3>Search</h3>
+<form id="quick-search" action="/search/" method="get">
+      <p>
+        <input type="hidden" name="cref" value="http://www.seedprod.com/cse.xml" />
+        <input type="hidden" name="cof" value="FORID:11" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="text" name="q" size="31" />
+        <input type="image" name="sa" id="goog-icon-search" value="Search" src="/images/icon-search.png" alt="Search" />
+      </p>
+    </form>
+    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=quick-search&lang=en"></script>
+    <hr>
+</div>
+
+<div class="widget">
+<h3>More</h3>
+	<ul class="unstyled">
+		<li><a href="/archive/"><i class="icon-list"></i> Archive</a></li>
+		<li><a href="http://feeds.feedburner.com/seedprod"><i class="icon-rss"></i> RSS</a></li>
+
+	</ul>
+	<hr>
+</div>
+
+<!--	<h3>Other Posts</h3>
+	<div class="related-posts">
+		
+			<li><a href="/dynamically-resize-wordpress-images-on-the-fly">Dynamically Resize WordPress Images On-the-Fly</a></li>
+		
+			<li><a href="/wordpress-coming-soon-page-plugin">WordPress Ultimate Coming Soon Page Plugin</a></li>
+		
+			<li><a href="/welcome-to-seedprod">Welcome to SeedProd</a></li>
+		
+	</div>
+</div>-->
+
+	</div>
+</div>
+</div>
+
+
+
+    </div> <!-- .container -->
+  </div>
+
+    
+    <footer>
+    <div class="container">
+    <div id="footer-wrap">
+      <div class="row">
+        <div class="span3">
+          <div id="footer-1">
+          <ul class="unstyled">
+            <li><a href="/about/">About Us</a></li>
+            <li><a href="/contact/">Contact Us</a></li>
+            <li><a href="/affiliates/">Affiliates</a></li>
+            <li><a href="/refunds/">Refund Policy</a></li>
+          </ul>
+          </div>
+        </div>
+        <div class="span6">
+          <div id="footer-2">
+          <a href="http://twitter.com/johnturner"><img id="twitter-icon" src="/images/icon-twitter.png"></a>
+          <a href="http://feeds.feedburner.com/seedprod"><img src="/images/icon-feed.png"></a>
+          <p>
+          <a href="/privacy/">Privacy</a> | <a href="/terms/">Terms</a>
+          </p>
+          </div>
+        </div> 
+        <div class="span3">
+          <div id="footer-3">
+          <img src="/images/logo-footer.png">
+          <p>
+          Copyright © 2012 SeedProd.<br>All rights reserved.
+          </p>
+        </div>
+        </div>
+      </div>
+      </div><!-- #footer-wrap -->
+      </div>
+    </footer>
+
+  
+  </div><!-- #page-wrap -->
+
+    
+    <script src="/prettyphoto/js/jquery.prettyPhoto.js"></script>
+    <script src="/bootstrap/js/bootstrap.min.js"></script>
+    <script>
+    $(document).ready(function(){
+      $("a[rel^='prettyPhoto']").prettyPhoto();
+    });
+    </script>
+
+
+  </body>
+</html>
