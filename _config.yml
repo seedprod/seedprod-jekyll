@@ -1,5 +1,6 @@
 permalink: /:title 
 
 exclude: ["Rakefile", "_less"]
+include: [".htaccess"]
 auto: true
 pygments: true

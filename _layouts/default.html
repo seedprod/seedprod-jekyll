@@ -85,7 +85,7 @@
           <div id="footer-3">
           <img src="/images/logo-footer.png">
           <p>
-          Copyright © 2012 SeedProd.<br>All rights reserved.
+          Copyright &copy; 2012 SeedProd.<br>All rights reserved.
           </p>
         </div>
         </div>
@@ -105,6 +105,11 @@
       $("a[rel^='prettyPhoto']").prettyPhoto();
     });
     </script>
+    {% if page.slug == 'product' %}
+      {% include ejunkie_analytics %}
+    {% else %}
+      {% include google_analytics %}
+    {% endif %}
 
 
   </body>
