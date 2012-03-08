@@ -1,0 +1,35 @@
+--- 
+layout: post
+title: Vulnerability discovered with BackupBuddy WordPress Plugin
+tags: []
+---
+
+<p>I have discovered that lots of people are not securing their wp-content or uploads directory from Apache Indexes, therefore browsable. In the process I also discovered plugins such as BackupBuddy and maybe other ones in the WP Repo are storing copies of the site in the wp-content/uploads folder. </p>
+<p>
+For example if I do a google search for 
+<a href="https://www.google.com/search?sourceid=chrome&ie=UTF-8&q=%22%2Fwp-content%2Fuploads%2Fbackupbuddy_backups%2F%22">"/wp-content/uploads/backupbuddy_backups/"</a>
+in the case of BackupBuddy I'm presented with all the listings where I can access this folder. 
+Some people use the option to store locally instead of a remote destination. I can then download an entire zip of the site including the database credentials. </p>
+<p>
+I have notified BackupBuddy and WordPress.org.</p>
+<p>
+If you have BackupBuddy installed you need to 1 of the 2 solutions listed below:</p>
+
+<ol>
+<li>Disable Apache Indexes. 
+<br>
+<code>
+&lt;Directory /www/somefolder&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Options -Indexes FollowSymLinks<br>
+&nbsp;&nbsp;&nbsp;&nbsp;AllowOverride None<br>
+&lt;/Directory&gt;
+</code><br><br>
+
+</li>
+<li>
+<p>
+Add a blank index.php to the wp-content/uploads folder and the wp-content/backupbuddy_backups and the wp-content/backupbuddy_temp folder.</p></li></ul>
+<p>
+I'm in the process of checking other backup plugins in the WordPress Repo.</p>
+<p>
+To test if your site is vulnerable just goto http://yoursite.com/wp-content/uploads/ If you see sensitive information you need to do one of the steps above.</p>
