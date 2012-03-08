@@ -8,6 +8,7 @@ RedirectPermanent /wordpress-coming-soon-plugin  http://www.seedprod.com/plugins
 RedirectPermanent /wordpress-coming-soon-plugin/  http://www.seedprod.com/plugins/wordpress-coming-soon-pro-plugin/
 RedirectPermanent /product/coming-soon-pro-plugin  http://www.seedprod.com/plugins/wordpress-coming-soon-pro-plugin
 RedirectPermanent /support http://seedprod.uservoice.com
+RedirectPermanent /support/ http://seedprod.uservoice.com
 RedirectPermanent /wordpress-stuff/themes/twordder/ http://www.seedprod.com/twordder/
 RedirectPermanent /pricing-products/ http://www.seedprod.com/plugins/
 RedirectPermanent /2009/09/17/wordpress-the-loop-shortcode/ http://www.seedprod.com/wordpress-the-loop-shortcode/
