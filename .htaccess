@@ -12,3 +12,5 @@ RedirectPermanent /pricing-products/ http://www.seedprod.com/plugins/
 RedirectPermanent /2009/09/17/wordpress-the-loop-shortcode/ http://www.seedprod.com/wordpress-the-loop-shortcode/
 RedirectPermanent /testimonials http://www.seedprod.com
 RedirectPermanent /refund-policy/ http://www.seedprod.com/refunds/
+
+#s3cmd sync --acl-public --delete-removed ~/Sites/seedprod-website/_site/ s3://www.seedprod.com
