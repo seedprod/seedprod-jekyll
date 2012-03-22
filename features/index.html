@@ -1,0 +1,102 @@
+---
+layout: page
+title: Features
+description: Check out all the great Features of SeedProd that help make your site launch a success.
+slug: features
+---
+<div class="well">
+<!-- Banner -->
+<div id="product-banner">
+    <img class="thumbnail" src="/images/products/banner-coming-soon-pro.jpg">
+    <!-- Buttons -->
+    <div class="product-btns">
+        <a href="http://www.youtube.com/watch?v=Be_cjRWJFmg" title="Coming Soon Pro v2" rel="prettyPhoto" class="btn btn-seedprod"><i class="icon-facetime-video icon-white"></i> Video Preview</a>
+
+    <!--     <a href="#" class="btn btn-seedprod"><i class="icon-picture icon-white"></i> Screenshots</a> -->
+        <a target="_blank" href="http://static.seedprod.com.s3.amazonaws.com/demo/index.html?demo=coming-soon-pro" class="btn btn-seedprod"><i class="icon-eye-open icon-white"></i> Coming Soon Demo</a>
+        <a target="_blank" href="http://static.seedprod.com.s3.amazonaws.com/demo/index.html?demo=coming-soon-pro-mm" class="btn btn-seedprod"><i class="icon-eye-open icon-white"></i> Maintenance Mode Demo</a>
+        <!-- <a target="_blank" href="http://saastheme.seedprod.com/?cs_preview=true" class="btn btn-seedprod"><i class="icon-file icon-white"></i> Documentation</a> -->
+    </div>
+</div>
+
+
+
+
+<!-- Feature List -->
+<br><br>
+<section>
+<h2>Feature List</h2>
+<div id="feature-list" class="row-fluid">
+  <div class="span4">
+    <ul>
+      <li><a href="#feature1">Works with any WordPress theme</a></li>
+    </ul>
+
+  </div>
+  <div class="span8">
+    <p><a name="feature1"></a> Test est Test est Test est Test est Test est Test est Test est Test est Test est 
+    <p>
+  </div>
+
+</div>
+</section>
+<br><br>
+
+<!-- Footer Action -->
+<div class="alert">
+<div id="footer-goto-features">
+    <h3>Buy Now and Increase Your Chance Of Launching A Successful WordPress Website</h3>
+    <a href="/pricing/" class="btn btn-large btn-seedprod"><i class="icon-shopping-cart icon-white"></i> See Pricing</a>
+</div>
+</div>
+
+
+<script>
+  function filterPath(string) {
+  return string
+    .replace(/^\//,'')
+    .replace(/(index|default).[a-zA-Z]{3,4}$/,'')
+    .replace(/\/$/,'');
+  }
+  var locationPath = filterPath(location.pathname);
+  var scrollElem = scrollableElement('html', 'body');
+
+  $('a[href*=#]').each(function() {
+    var thisPath = filterPath(this.pathname) || locationPath;
+    if (  locationPath == thisPath
+    && (location.hostname == this.hostname || !this.hostname)
+    && this.hash.replace(/#/,'') ) {
+      var $target = $(this.hash), target = this.hash;
+      if (target) {
+        var targetOffset = $target.offset().top;
+        $(this).click(function(event) {
+          event.preventDefault();
+          $(scrollElem).animate({scrollTop: targetOffset}, 400, function() {
+            location.hash = target;
+          });
+        });
+      }
+    }
+  });
+
+  // use the first element that is "scrollable"
+  function scrollableElement(els) {
+    for (var i = 0, argLength = arguments.length; i <argLength; i++) {
+      var el = arguments[i],
+          $scrollElement = $(el);
+      if ($scrollElement.scrollTop()> 0) {
+        return el;
+      } else {
+        $scrollElement.scrollTop(1);
+        var isScrollable = $scrollElement.scrollTop()> 0;
+        $scrollElement.scrollTop(0);
+        if (isScrollable) {
+          return el;
+        }
+      }
+    }
+    return [];
+  }
+
+});
+</script>
