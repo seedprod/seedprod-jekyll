@@ -2,7 +2,8 @@
 .clearfix {
   *zoom: 1;
 }
-.clearfix:before, .clearfix:after {
+.clearfix:before,
+.clearfix:after {
   display: table;
   content: "";
 }
@@ -189,7 +190,8 @@ footer {
   width: 90%;
   margin: 0 auto;
 }
-#pricing > div > table th, #pricing > div > table td {
+#pricing > div > table th,
+#pricing > div > table td {
   text-align: center;
 }
 #pricing > div > table th {
@@ -238,7 +240,8 @@ footer {
 #featured img {
   margin-top: 30px;
 }
-#featured h1, #featured p {
+#featured h1,
+#featured p {
   color: #fff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
 }
@@ -284,7 +287,8 @@ footer {
 .btn-seedprod[disabled] {
   background-color: #016519;
 }
-.btn-seedprod:active, .btn-seedprod.active {
+.btn-seedprod:active,
+.btn-seedprod.active {
   background-color: #01320c \9;
 }
 .btn-seedprod:hover,
@@ -295,7 +299,8 @@ footer {
   background-color: #016519;
   color: #ffffff;
 }
-.btn-seedprod:active, .btn-seedprod.active {
+.btn-seedprod:active,
+.btn-seedprod.active {
   background-color: #01320c \9;
   color: #ffffff;
 }
@@ -386,7 +391,8 @@ footer {
 .alignnone {
   margin: 5px 20px 20px 0;
 }
-.aligncenter, div.aligncenter {
+.aligncenter,
+div.aligncenter {
   display: block;
   margin: 5px auto 5px auto;
 }
