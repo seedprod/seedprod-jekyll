@@ -1,8 +1,8 @@
 <div id="featured" class="hero-unit">
 	<h1 style="font-size:48px">The Ultimate WordPress Coming Soon Plugin</h1>
 	<p>Easily create a custom Coming Soon Page in minutes that will help your Website Launch become a Success.<p>
-	<img src="/images/featured.png">
+	<a href="/features/"><img src="/images/featured.png"></a>
 	<p>
-	<a id="btn-action" href="/pricing/" class="btn btn-seedprod btn-large "><span class="thin">See</span> Licensing <span class="thin">&amp;</span> Pricing</a>
+	<a id="btn-action" href="/features/" class="btn btn-seedprod btn-large "><span class="thin">See</span> Features <span class="thin">&amp;</span> Pricing</a>
 	</p>  
 </div>
