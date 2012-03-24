@@ -5,7 +5,7 @@ tags:
 - coming-soon
 ---
 
-I am excited to announce SeedProd's <a href="/features/">Coming Soon Pro Version 2</a>. After the initial launch of the Coming Soon Pro WordPress plugin back in September of 2011, I have received tons of positive feedback and feature request. 
+I am excited to announce SeedProd's <a href="/pricing/">Coming Soon Pro Version 2</a>. After the initial launch of the Coming Soon Pro WordPress plugin back in September of 2011, I have received tons of positive feedback and feature request. 
 
 I started rebuilding the plugin at the 1st of the year and incorporated some of the features that had been suggested along with some ideas I had. Some of the new features include:
 
