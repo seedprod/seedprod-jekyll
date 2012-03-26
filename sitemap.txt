@@ -3,6 +3,6 @@
 title : Sitemap
 ---
 {% for page in site.pages %}
-http://seepdord.com{{ page.url }}{% endfor %}
+http://seedprod.com{{ page.url }}{% endfor %}
 {% for post in site.posts %}
-http://seepdord.com{{ post.url }}{% endfor %}
+http://seedprod.com{{ post.url }}{% endfor %}
