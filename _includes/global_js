@@ -21,3 +21,12 @@ if (typeof(Zenbox) !== "undefined") {
   });
 }
 </script>
+
+<script>
+ //    new HelloBar( '<span>Read my pitch and then click on my<\/span> <a href="#" class="button">Call to Action!</a>', {
+	// 	showWait: 1000,
+	// 	positioning: 'sticky',
+	// 	fonts: 'Arial, Helvetica, sans-serif',
+	// 	forgetful: true
+	// }, 1.0 );
+</script>
