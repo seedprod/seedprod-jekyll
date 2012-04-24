@@ -20,6 +20,7 @@
       <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    {% include google_analytics %}
 
   </head>
 
@@ -103,12 +104,6 @@
   </div><!-- #page-wrap -->
 
     
-
-    {% if page.slug == 'product' %}
-      {% include google_analytics %}
-    {% else %}
-      {% include google_analytics %}
-    {% endif %}
 
     {% include global_js %}
 
