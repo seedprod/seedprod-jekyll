@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Introducing Coming Soon Pro Version 2
+description: Under Construction WordPress plugin with Coming Soon and Maintenance Mode.
 tags: 
 - coming-soon
 ---

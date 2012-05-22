@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Coming Soon Pro Version 2.4.0 Released
+description: Coming Soon Pro 2.4.0 Released
 tags: 
 - coming-soon
 ---
