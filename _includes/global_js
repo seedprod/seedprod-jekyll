@@ -21,12 +21,13 @@ if (typeof(Zenbox) !== "undefined") {
   });
 }
 </script>
-
+<script type="text/javascript" src="/hellobar-solo/hellobar.js"></script>
 <script>
- //    new HelloBar( '<span>Read my pitch and then click on my<\/span> <a href="#" class="button">Call to Action!</a>', {
-	// 	showWait: 1000,
-	// 	positioning: 'sticky',
-	// 	fonts: 'Arial, Helvetica, sans-serif',
-	// 	forgetful: true
-	// }, 1.0 );
+    new HelloBar( '<span>Wanna try before you buy? Check out the new demo playground.</span> <a href="http://demo.seedprod.com/wp-signup.php" class="button">Go Play!</a>', {
+		showWait: 1000,
+   	positioning: 'sticky',
+    //barColor:'#cc0000',
+	 	fonts: 'Arial, Helvetica, sans-serif',
+    helloBarLogo: false
+	 }, 1.0 );
 </script>
