@@ -25,7 +25,7 @@ if (typeof(Zenbox) !== "undefined") {
 <script>
     new HelloBar( '<span>Wanna try before you buy? Check out the new demo playground.</span> <a href="http://demo.seedprod.com/wp-signup.php" class="button">Go Play!</a>', {
 		showWait: 1000,
-   	positioning: 'sticky',
+   	positioning: 'push',
     //barColor:'#cc0000',
 	 	fonts: 'Arial, Helvetica, sans-serif',
     helloBarLogo: false
