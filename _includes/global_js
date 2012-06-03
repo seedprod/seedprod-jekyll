@@ -1,11 +1,18 @@
+<!-- PrettyPhoto 
 <script src="/prettyphoto/js/jquery.prettyPhoto.js"></script>
 <script src="/bootstrap/js/bootstrap.min.js"></script>
 <script>
 $(document).ready(function(){
   $("a[rel^='prettyPhoto']").prettyPhoto();
 });
+</script>-->
+<!-- HitTail Code -->
+<script type="text/javascript">
+       (function(){ var ht = document.createElement('script');ht.async = true;
+         ht.type='text/javascript';ht.src = '//93222.hittail.com/mlt.js';
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ht, s);})();
 </script>
-
+<!-- Zendesk -->
 <script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.4/zenbox.js"></script>
 <style type="text/css" media="screen, projection">
 @import url(//asset0.zendesk.com/external/zenbox/v2.4/zenbox.css);
@@ -21,6 +28,7 @@ if (typeof(Zenbox) !== "undefined") {
   });
 }
 </script>
+<!-- HelloBar -->
 <script type="text/javascript" src="/hellobar-solo/hellobar.js"></script>
 <script>
     new HelloBar( '<span>Wanna try before you buy? Check out the new demo playground.</span> <a href="http://demo.seedprod.com/wp-signup.php" class="button">Go Play!</a>', {
