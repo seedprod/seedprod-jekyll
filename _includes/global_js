@@ -12,7 +12,7 @@ $(document).ready(function(){
          ht.type='text/javascript';ht.src = '//93222.hittail.com/mlt.js';
          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ht, s);})();
 </script>
-<!-- Zendesk -->
+<!-- Zendesk 
 <script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.4/zenbox.js"></script>
 <style type="text/css" media="screen, projection">
 @import url(//asset0.zendesk.com/external/zenbox/v2.4/zenbox.css);
@@ -27,6 +27,15 @@ if (typeof(Zenbox) !== "undefined") {
     tabPosition: "Right"
   });
 }
+</script>-->
+<!-- UserVoice -->
+<script type="text/javascript">
+  var uvOptions = {};
+  (function() {
+    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/u8XrjI1exaAMD3IsTsuCw.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+  })();
 </script>
 <!-- HelloBar -->
 <script type="text/javascript" src="/hellobar-solo/hellobar.js"></script>
