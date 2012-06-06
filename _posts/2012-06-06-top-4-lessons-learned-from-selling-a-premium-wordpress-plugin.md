@@ -26,7 +26,7 @@ I guess so many shops use them because WordPress provides supports this way. The
 
 I once posted a message in a support forum and I was then told expect a reply in 24-48 hrs. Are you kidding me, 24hrs to 48hrs. And if I have a follow up reply I have to potentially wait this out again... 
 
-From this experience alone I swore off forums as a tool to provide support to my customers. Plus forum offer no reports on response times, way to identify re-occurring questions, incidents per user, and all the other features I think that I should provide when providing smart customer support.
+From this experience alone I swore off forums as a tool to provide support to my customers. Plus forums offer no reports on response times, way to identify re-occurring questions, incidents per user, and all the other features I think that I should provide when providing smart customer support.
 
 There are many supports platforms out there and some starting at no cost. Using dedicated support software should be a no brainer.
 
@@ -53,7 +53,7 @@ Some of the issues with the OptionTree framework I've had after stepping away fo
 
 * It uses a round about method for escapeing quotes and other characters using addslashes and stripslashes as opposed to using WordPress's builtin [data validation](http://codex.wordpress.org/Data_Validation) functions. 
 
-The issues above account for more than 70% of my helpdesk request. Needless to says I'm switching back to the WordPress Settings API for Version 3.  I've also started a plugin starter framework project, '_wpseed', that wraps the Settings API for easier field and validation creation you can [check it out](https://github.com/seedprod/_wpseed) on Github.
+The issues above account for more than 50% of my helpdesk request. Needless to says I'm switching back to the WordPress Settings API for Version 3.  I've also started a plugin starter framework project, '_wpseed', that wraps the Settings API for easier field and validation creation you can [check it out](https://github.com/seedprod/_wpseed) on Github.
 
 <br>
 ### 4. Namespace everything and I mean everything
@@ -70,7 +70,7 @@ All your css classes should start with .my_plugin_prefix. For example:
 }
 </code>
 
-This way you are only targeting the elementss you need to style. You should properly [enqueue scripts](http://codex.wordpress.org/Function_Reference/wp_enqueue_script) so they only display on the page you need, but that's another post. And if you're using jQuery UI, please use their css scope function when building your theme.
+This way you are only targeting the elements you need to style. You should properly [enqueue scripts](http://codex.wordpress.org/Function_Reference/wp_enqueue_script) so they only display on the page you need, but that's another post. And if you're using jQuery UI, please use their css scope function when building your theme.
 
 Prefixing 3rd Party scripts is another gotcha. I use [lessphp](http://leafo.net/lessphp/) in my coming soon plugin to do color calculation which I found out that many others do as well. 
 
