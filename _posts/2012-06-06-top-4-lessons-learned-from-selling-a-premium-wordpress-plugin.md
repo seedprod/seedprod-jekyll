@@ -6,7 +6,7 @@ description: Lessons learned form building an maintenance mode WordPress plugin 
 
 I released my premium [maintenance mode](/features/) and [coming soon](/features/) plugin for WordPress late last year. Since that time I have have made several distinctions as to what is important when it comes to building and selling a premium WordPress plugins and what separates it from the thousands of other plugins out there.
 
-### 1. Custom support should be your top priority
+### 1. Customer support should be your top priority
 <br>
 When you sell a WordPress plugin you are really in the business of selling support since the software is open source. Therefore you should do everything in your power to make sure you offer the best customer support possible. 
 
