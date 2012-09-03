@@ -1,6 +1,2 @@
 User-agent: *
-Disallow: /thank-you.html
-Disallow: /conversion-tracking.html
-Disallow: /plugins/wordpress-coming-soon-pro-plugin/index2.html
-Disallow: /plugins/wordpress-coming-soon-pro-plugin/index3.html
-Disallow: /press-kit/index.html
+Disallow: /
