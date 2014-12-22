@@ -1,6 +1,7 @@
-permalink: /:title 
+# Site settings
+title: SeedProd
 
-exclude: ["Rakefile", "_less"]
-include: [".htaccess"]
-auto: true
-pygments: true
+# Build settings
+markdown: kramdown
+permalink: /:title 
+exclude: ["_less"]

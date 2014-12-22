@@ -1,5 +1,5 @@
 /* SeedProd Style */
-@import "mixins.less";
+@import "_less/bootstrap.less";
 
 body{
 	background:#f5f5f5;
@@ -44,18 +44,12 @@ body{
 background-image: none;
 border-bottom: 1px solid #E6E6E6;
 background-image: url(/images/black_linen.jpg);
-box-shadow: inset 0px 0px 150px 15px rgba(0,0,0,0.5);
--webkit-box-shadow: inset 0px 0px 150px 15px rgba(0,0,0,0.5);
--moz-box-shadow: inset 0px 0px 150px 15px rgba(0,0,0,0.5);
--o-box-shadow: inset 0px 0px 150px 15px rgba(0,0,0,0.5);
+
 }
 
 .home #header-wrap {
 	min-height: 400px;
-	box-shadow: inset 0px 0px 900px 35px rgba(0,0,0,0.5);
-	-webkit-box-shadow: inset 0px 0px 900px 35px rgba(0,0,0,0.5);
-	-moz-box-shadow: inset 0px 0px 900px 35px rgba(0,0,0,0.5);
-	-o-box-shadow: inset 0px 0px 900px 35px rgba(0,0,0,0.5);
+
 
 }
 
@@ -298,7 +292,7 @@ box-shadow: none;
 @actionButtonForeground:#ffffff;
 .buttonBackground(@startColor, @endColor) {
   // gradientBar will set the background to a pleasing blend of these, to support IE<=9
-  .gradientBar(@startColor, @endColor);
+  //.gradientBar(@startColor, @endColor);
   .reset-filter();
 
   // in these cases the gradient won't cover the background, so we override
