@@ -1,8 +1,0 @@
----
-# Remember to set production_url in your _config.yml file!
-title : Sitemap
----
-{% for page in site.pages %}
-http://seedprod.com{{ page.url }}{% endfor %}
-{% for post in site.posts %}
-http://seedprod.com{{ post.url }}{% endfor %}

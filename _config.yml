@@ -5,3 +5,7 @@ title: SeedProd
 markdown: kramdown
 permalink: /:title 
 exclude: ["_less"]
+
+
+gems:
+  - jekyll-sitemap
