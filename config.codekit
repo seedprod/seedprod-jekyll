@@ -1807,86 +1807,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/bootstrap\/css\/bootstrap-responsive.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bootstrap\/css\/bootstrap-responsive.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/bootstrap\/css\/bootstrap-responsive.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bootstrap\/css\/bootstrap-responsive.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/bootstrap\/css\/bootstrap.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bootstrap\/css\/bootstrap.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/bootstrap\/css\/bootstrap.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bootstrap\/css\/bootstrap.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/bootstrap\/img\/glyphicons-halflings-white.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4352,
-		"inputAbbreviatedPath": "\/_site\/bootstrap\/img\/glyphicons-halflings-white.png",
-		"outputAbbreviatedPath": "\/_site\/bootstrap\/img\/glyphicons-halflings-white.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/bootstrap\/img\/glyphicons-halflings.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4352,
-		"inputAbbreviatedPath": "\/_site\/bootstrap\/img\/glyphicons-halflings.png",
-		"outputAbbreviatedPath": "\/_site\/bootstrap\/img\/glyphicons-halflings.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/bootstrap\/js\/bootstrap.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bootstrap\/js\/bootstrap.js",
-		"outputAbbreviatedPath": "\/_site\/bootstrap\/js\/min\/bootstrap-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bootstrap\/js\/bootstrap.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bootstrap\/js\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/_site\/bootstrap\/js\/min\/bootstrap.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/campaign-monitor-integration-feature-spotlight\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2093,6 +2013,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/bestpluginsforwp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/bestpluginsforwp.png",
+		"outputAbbreviatedPath": "\/_site\/images\/bestpluginsforwp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/bg\/black_linen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59086,
+		"inputAbbreviatedPath": "\/_site\/images\/bg\/black_linen.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/bg\/black_linen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/bg\/grey.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45255,
+		"inputAbbreviatedPath": "\/_site\/images\/bg\/grey.png",
+		"outputAbbreviatedPath": "\/_site\/images\/bg\/grey.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/bg\/noise.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24406,
+		"inputAbbreviatedPath": "\/_site\/images\/bg\/noise.png",
+		"outputAbbreviatedPath": "\/_site\/images\/bg\/noise.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/bg\/whitey.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76886,
+		"inputAbbreviatedPath": "\/_site\/images\/bg\/whitey.png",
+		"outputAbbreviatedPath": "\/_site\/images\/bg\/whitey.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/bg\/whitey_@2X.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113618,
+		"inputAbbreviatedPath": "\/_site\/images\/bg\/whitey_@2X.png",
+		"outputAbbreviatedPath": "\/_site\/images\/bg\/whitey_@2X.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/black_linen.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2247,6 +2233,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/countdown.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/countdown.png",
+		"outputAbbreviatedPath": "\/_site\/images\/countdown.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/creative_suite_dreamweaver.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2287,6 +2284,17 @@
 		"initialSize": 202,
 		"inputAbbreviatedPath": "\/_site\/images\/display.png",
 		"outputAbbreviatedPath": "\/_site\/images\/display.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/doitwithwp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/doitwithwp.png",
+		"outputAbbreviatedPath": "\/_site\/images\/doitwithwp.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2390,6 +2398,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/glyphicons-halflings-gray.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/glyphicons-halflings-gray.png",
+		"outputAbbreviatedPath": "\/_site\/images\/glyphicons-halflings-gray.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/google-analytics.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2408,6 +2427,17 @@
 		"initialSize": 2530,
 		"inputAbbreviatedPath": "\/_site\/images\/gravity-forms.png",
 		"outputAbbreviatedPath": "\/_site\/images\/gravity-forms.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/grlogo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/grlogo.png",
+		"outputAbbreviatedPath": "\/_site\/images\/grlogo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2496,6 +2526,28 @@
 		"initialSize": 2837,
 		"inputAbbreviatedPath": "\/_site\/images\/icon-wordpress.png",
 		"outputAbbreviatedPath": "\/_site\/images\/icon-wordpress.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/integration-logos-color.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/integration-logos-color.png",
+		"outputAbbreviatedPath": "\/_site\/images\/integration-logos-color.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/integration-logos-gray.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/integration-logos-gray.png",
+		"outputAbbreviatedPath": "\/_site\/images\/integration-logos-gray.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2621,6 +2673,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/managewp_logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/managewp_logo.png",
+		"outputAbbreviatedPath": "\/_site\/images\/managewp_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/MC_MonkeyReward_06.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2672,6 +2735,17 @@
 		"initialSize": 813,
 		"inputAbbreviatedPath": "\/_site\/images\/ok.png",
 		"outputAbbreviatedPath": "\/_site\/images\/ok.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/podcast.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/podcast.png",
+		"outputAbbreviatedPath": "\/_site\/images\/podcast.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2742,6 +2816,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/seedprod-logo-black.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/seedprod-logo-black.png",
+		"outputAbbreviatedPath": "\/_site\/images\/seedprod-logo-black.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/seedprod-logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/seedprod-logo-white.png",
+		"outputAbbreviatedPath": "\/_site\/images\/seedprod-logo-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/seedprod-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2797,6 +2893,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/social_you_tube.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/social_you_tube.png",
+		"outputAbbreviatedPath": "\/_site\/images\/social_you_tube.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/splash_beta_orange.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2841,6 +2948,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/themes\/screenshot-another-side.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38184,
+		"inputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-another-side.png",
+		"outputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-another-side.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/themes\/screenshot-astroman.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32219,
+		"inputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-astroman.png",
+		"outputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-astroman.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/themes\/screenshot-eclipse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20609,
+		"inputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-eclipse.png",
+		"outputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-eclipse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/themes\/screenshot-gravity-boots.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29953,
+		"inputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-gravity-boots.png",
+		"outputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-gravity-boots.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/themes\/screenshot-not-dark-yet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38397,
+		"inputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-not-dark-yet.png",
+		"outputAbbreviatedPath": "\/_site\/images\/themes\/screenshot-not-dark-yet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/treks-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/treks-logo.png",
+		"outputAbbreviatedPath": "\/_site\/images\/treks-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/twitter.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2870,6 +3043,17 @@
 		"initialSize": 6251,
 		"inputAbbreviatedPath": "\/_site\/images\/user_group.png",
 		"outputAbbreviatedPath": "\/_site\/images\/user_group.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/vcard.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/vcard.png",
+		"outputAbbreviatedPath": "\/_site\/images\/vcard.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2925,6 +3109,17 @@
 		"initialSize": 7932,
 		"inputAbbreviatedPath": "\/_site\/images\/wpcandy-logo.png",
 		"outputAbbreviatedPath": "\/_site\/images\/wpcandy-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/wysija-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/images\/wysija-logo.png",
+		"outputAbbreviatedPath": "\/_site\/images\/wysija-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3021,506 +3216,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/prettyphoto\/css\/prettyPhoto.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/css\/prettyPhoto.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/prettyphoto\/images\/fullscreen\/1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 61896,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/1.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/fullscreen\/2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 84388,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/2.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/fullscreen\/3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 35502,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/3.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/fullscreen\/4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 98267,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/4.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/fullscreen\/5.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 44253,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/5.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/fullscreen\/6.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 933441,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/6.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/fullscreen\/6.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1307,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1327,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/contentPattern.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 125,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2971,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/sprite.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1307,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnNext.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1327,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/contentPattern.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 115,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/contentPattern.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/contentPattern.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2573,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/sprite.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/dark_square\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/default\/default_thumb.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1479,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/default_thumb.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/default_thumb.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5124,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_next.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1271,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_next.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_next.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_prev.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1261,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_prev.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_prev.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1095,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_x.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_y.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1158,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_y.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/default\/sprite_y.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 768,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/btnNext.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 595,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternBottom.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 135,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternBottom.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternBottom.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternLeft.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 131,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternLeft.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternLeft.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternRight.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 130,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternRight.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternRight.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternTop.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 135,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternTop.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternTop.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2739,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/sprite.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/facebook\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1307,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnNext.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1327,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/light_rounded\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2970,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_rounded\/sprite.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_rounded\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/light_square\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1307,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_square\/btnNext.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_square\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/light_square\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1327,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_square\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_square\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/prettyPhoto\/light_square\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2573,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_square\/sprite.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/prettyPhoto\/light_square\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/thumbnails\/flash-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5481,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/flash-logo.png",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/flash-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/thumbnails\/t_1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2984,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_1.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/thumbnails\/t_2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2361,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_2.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/thumbnails\/t_3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1918,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_3.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/thumbnails\/t_4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3326,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_4.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/images\/thumbnails\/t_5.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2511,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_5.jpg",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/images\/thumbnails\/t_5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/prettyphoto\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/prettyphoto\/js\/jquery-1.3.2.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/js\/jquery-1.3.2.min.js",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/js\/min\/jquery-1.3.2.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/prettyphoto\/js\/jquery-1.4.4.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/js\/jquery-1.4.4.min.js",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/js\/min\/jquery-1.4.4.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/prettyphoto\/js\/jquery-1.6.1.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/js\/jquery-1.6.1.min.js",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/js\/min\/jquery-1.6.1.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/prettyphoto\/js\/jquery.prettyPhoto.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/js\/jquery.prettyPhoto.js",
-		"outputAbbreviatedPath": "\/_site\/prettyphoto\/js\/min\/jquery.prettyPhoto-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/prettyphoto\/xhr_response.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/prettyphoto\/xhr_response.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/pricing\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3610,6 +3305,35 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/style.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/style.less",
+		"outputAbbreviatedPath": "\/css\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
 		},
 	"\/_site\/submit-site\/index.html": {
 		"fileType": 8192,
@@ -3781,86 +3505,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bootstrap\/css\/bootstrap-responsive.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bootstrap\/css\/bootstrap-responsive.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bootstrap\/css\/bootstrap-responsive.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bootstrap\/css\/bootstrap-responsive.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bootstrap\/css\/bootstrap.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bootstrap\/css\/bootstrap.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bootstrap\/css\/bootstrap.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bootstrap\/css\/bootstrap.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bootstrap\/img\/glyphicons-halflings-white.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4352,
-		"inputAbbreviatedPath": "\/bootstrap\/img\/glyphicons-halflings-white.png",
-		"outputAbbreviatedPath": "\/bootstrap\/img\/glyphicons-halflings-white.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/bootstrap\/img\/glyphicons-halflings.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4352,
-		"inputAbbreviatedPath": "\/bootstrap\/img\/glyphicons-halflings.png",
-		"outputAbbreviatedPath": "\/bootstrap\/img\/glyphicons-halflings.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/bootstrap\/js\/bootstrap.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bootstrap\/js\/bootstrap.js",
-		"outputAbbreviatedPath": "\/bootstrap\/js\/min\/bootstrap-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/bootstrap\/js\/bootstrap.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bootstrap\/js\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/bootstrap\/js\/min\/bootstrap.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/contact\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3937,6 +3581,72 @@
 		"initialSize": 1808,
 		"inputAbbreviatedPath": "\/images\/aweber-logo.png",
 		"outputAbbreviatedPath": "\/images\/aweber-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bestpluginsforwp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/bestpluginsforwp.png",
+		"outputAbbreviatedPath": "\/images\/bestpluginsforwp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bg\/black_linen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59086,
+		"inputAbbreviatedPath": "\/images\/bg\/black_linen.jpg",
+		"outputAbbreviatedPath": "\/images\/bg\/black_linen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bg\/grey.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45255,
+		"inputAbbreviatedPath": "\/images\/bg\/grey.png",
+		"outputAbbreviatedPath": "\/images\/bg\/grey.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bg\/noise.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24406,
+		"inputAbbreviatedPath": "\/images\/bg\/noise.png",
+		"outputAbbreviatedPath": "\/images\/bg\/noise.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bg\/whitey.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76886,
+		"inputAbbreviatedPath": "\/images\/bg\/whitey.png",
+		"outputAbbreviatedPath": "\/images\/bg\/whitey.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bg\/whitey_@2X.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113618,
+		"inputAbbreviatedPath": "\/images\/bg\/whitey_@2X.png",
+		"outputAbbreviatedPath": "\/images\/bg\/whitey_@2X.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4095,6 +3805,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/countdown.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/countdown.png",
+		"outputAbbreviatedPath": "\/images\/countdown.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/creative_suite_dreamweaver.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4135,6 +3856,17 @@
 		"initialSize": 202,
 		"inputAbbreviatedPath": "\/images\/display.png",
 		"outputAbbreviatedPath": "\/images\/display.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/doitwithwp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/doitwithwp.png",
+		"outputAbbreviatedPath": "\/images\/doitwithwp.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4238,6 +3970,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/glyphicons-halflings-gray.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/glyphicons-halflings-gray.png",
+		"outputAbbreviatedPath": "\/images\/glyphicons-halflings-gray.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/google-analytics.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4256,6 +3999,17 @@
 		"initialSize": 2530,
 		"inputAbbreviatedPath": "\/images\/gravity-forms.png",
 		"outputAbbreviatedPath": "\/images\/gravity-forms.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/grlogo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/grlogo.png",
+		"outputAbbreviatedPath": "\/images\/grlogo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4344,6 +4098,28 @@
 		"initialSize": 2837,
 		"inputAbbreviatedPath": "\/images\/icon-wordpress.png",
 		"outputAbbreviatedPath": "\/images\/icon-wordpress.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/integration-logos-color.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/integration-logos-color.png",
+		"outputAbbreviatedPath": "\/images\/integration-logos-color.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/integration-logos-gray.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/integration-logos-gray.png",
+		"outputAbbreviatedPath": "\/images\/integration-logos-gray.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4469,6 +4245,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/managewp_logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/managewp_logo.png",
+		"outputAbbreviatedPath": "\/images\/managewp_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/MC_MonkeyReward_06.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4520,6 +4307,17 @@
 		"initialSize": 813,
 		"inputAbbreviatedPath": "\/images\/ok.png",
 		"outputAbbreviatedPath": "\/images\/ok.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/podcast.png",
+		"outputAbbreviatedPath": "\/images\/podcast.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4590,6 +4388,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/seedprod-logo-black.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/seedprod-logo-black.png",
+		"outputAbbreviatedPath": "\/images\/seedprod-logo-black.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/seedprod-logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/seedprod-logo-white.png",
+		"outputAbbreviatedPath": "\/images\/seedprod-logo-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/seedprod-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4645,6 +4465,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/social_you_tube.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/social_you_tube.png",
+		"outputAbbreviatedPath": "\/images\/social_you_tube.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/splash_beta_orange.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4689,6 +4520,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/themes\/screenshot-another-side.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38184,
+		"inputAbbreviatedPath": "\/images\/themes\/screenshot-another-side.png",
+		"outputAbbreviatedPath": "\/images\/themes\/screenshot-another-side.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/themes\/screenshot-astroman.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32219,
+		"inputAbbreviatedPath": "\/images\/themes\/screenshot-astroman.png",
+		"outputAbbreviatedPath": "\/images\/themes\/screenshot-astroman.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/themes\/screenshot-eclipse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20609,
+		"inputAbbreviatedPath": "\/images\/themes\/screenshot-eclipse.png",
+		"outputAbbreviatedPath": "\/images\/themes\/screenshot-eclipse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/themes\/screenshot-gravity-boots.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29953,
+		"inputAbbreviatedPath": "\/images\/themes\/screenshot-gravity-boots.png",
+		"outputAbbreviatedPath": "\/images\/themes\/screenshot-gravity-boots.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/themes\/screenshot-not-dark-yet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38397,
+		"inputAbbreviatedPath": "\/images\/themes\/screenshot-not-dark-yet.png",
+		"outputAbbreviatedPath": "\/images\/themes\/screenshot-not-dark-yet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/treks-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/treks-logo.png",
+		"outputAbbreviatedPath": "\/images\/treks-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/twitter.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4718,6 +4615,17 @@
 		"initialSize": 6251,
 		"inputAbbreviatedPath": "\/images\/user_group.png",
 		"outputAbbreviatedPath": "\/images\/user_group.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/vcard.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/vcard.png",
+		"outputAbbreviatedPath": "\/images\/vcard.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4777,6 +4685,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/wysija-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/wysija-logo.png",
+		"outputAbbreviatedPath": "\/images\/wysija-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/zoom_original.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4820,506 +4739,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/press-kit\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/prettyphoto\/css\/prettyPhoto.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/prettyphoto\/css\/prettyPhoto.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/prettyphoto\/images\/fullscreen\/1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 61896,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/1.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/fullscreen\/2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 84388,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/2.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/fullscreen\/3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 35502,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/3.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/fullscreen\/4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 98267,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/4.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/fullscreen\/5.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 44253,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/5.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/fullscreen\/6.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 933441,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/6.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/fullscreen\/6.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1307,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1327,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/contentPattern.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 125,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2971,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/sprite.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_rounded\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1307,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnNext.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1327,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_square\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/dark_square\/contentPattern.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 115,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_square\/contentPattern.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_square\/contentPattern.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/dark_square\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2573,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_square\/sprite.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/dark_square\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/default\/default_thumb.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1479,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/default_thumb.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/default_thumb.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/default\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5124,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/default\/sprite_next.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1271,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite_next.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite_next.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/default\/sprite_prev.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1261,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite_prev.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite_prev.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/default\/sprite_x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1095,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite_x.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite_x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/default\/sprite_y.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1158,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite_y.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/default\/sprite_y.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/facebook\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 768,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/btnNext.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/facebook\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 595,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternBottom.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 135,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternBottom.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternBottom.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternLeft.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 131,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternLeft.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternLeft.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternRight.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 130,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternRight.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternRight.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternTop.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 135,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternTop.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/contentPatternTop.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/facebook\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2739,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/sprite.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/facebook\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1307,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnNext.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1327,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_rounded\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/light_rounded\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2970,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_rounded\/sprite.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_rounded\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/light_square\/btnNext.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1307,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_square\/btnNext.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_square\/btnNext.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/light_square\/btnPrevious.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1327,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_square\/btnPrevious.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_square\/btnPrevious.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/prettyPhoto\/light_square\/sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2573,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_square\/sprite.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/prettyPhoto\/light_square\/sprite.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/thumbnails\/flash-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5481,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/flash-logo.png",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/flash-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/thumbnails\/t_1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2984,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_1.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/thumbnails\/t_2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2361,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_2.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/thumbnails\/t_3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1918,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_3.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/thumbnails\/t_4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3326,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_4.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/images\/thumbnails\/t_5.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2511,
-		"inputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_5.jpg",
-		"outputAbbreviatedPath": "\/prettyphoto\/images\/thumbnails\/t_5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/prettyphoto\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/prettyphoto\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/prettyphoto\/js\/jquery-1.3.2.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/prettyphoto\/js\/jquery-1.3.2.min.js",
-		"outputAbbreviatedPath": "\/prettyphoto\/js\/min\/jquery-1.3.2.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/prettyphoto\/js\/jquery-1.4.4.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/prettyphoto\/js\/jquery-1.4.4.min.js",
-		"outputAbbreviatedPath": "\/prettyphoto\/js\/min\/jquery-1.4.4.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/prettyphoto\/js\/jquery-1.6.1.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/prettyphoto\/js\/jquery-1.6.1.min.js",
-		"outputAbbreviatedPath": "\/prettyphoto\/js\/min\/jquery-1.6.1.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/prettyphoto\/js\/jquery.prettyPhoto.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/prettyphoto\/js\/jquery.prettyPhoto.js",
-		"outputAbbreviatedPath": "\/prettyphoto\/js\/min\/jquery.prettyPhoto-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/prettyphoto\/xhr_response.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/prettyphoto\/xhr_response.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
