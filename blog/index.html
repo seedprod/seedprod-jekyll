@@ -7,7 +7,7 @@ slug: blog
 
 <div class="row">
   <div class="col-md-8">
-  	{% for post in site.posts limit:10 %}
+  	{% for post in paginator.posts %}
   	<div class="post well">
 	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 	<div class="meta-head">
