@@ -27,7 +27,21 @@ slug: blog
   </div>
 </div>
 <p> <a href="/archive/" class="btn"><i class="icon-list"></i> View the Archives</a> </p>
-<br><br>
+
+<!-- Pagination links -->
+<div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    {% else %}
+    <span class="previous">Previous</span>
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+    <span class="next ">Next</span>
+    {% endif %}
+</div>
 <!-- Goto Features -->
 <div class="alert">
 <div id="footer-goto-features">
@@ -35,4 +49,3 @@ slug: blog
     <a href="/features/" class="btn btn-large btn-seedprod"><i class="icon-star icon-white"></i> See the Features</a>
 </div>
 </div>
-
