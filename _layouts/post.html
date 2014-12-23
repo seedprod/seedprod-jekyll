@@ -25,13 +25,13 @@ layout: default
 			<ul class="pager">
 		 	 {% if page.previous %}
 			    <li class="previous">
-					<a href="{{ page.previous.url }}" class="prev" title="{{ page.previous.title }}">&larr; Older Post</a>
+					<a href="{{ page.previous.url }}" class="prev" title="{{ page.previous.title }}">&larr; Prev</a>
 				</li>
 			  {% endif %}
 
 			  {% if page.next %}
 				<li class="next">
-			    	<a href="{{ page.next.url }}" class="next" title="{{ page.next.title }}">Newer Post &rarr;</a>
+			    	<a href="{{ page.next.url }}" class="next" title="{{ page.next.title }}">Next &rarr;</a>
 				</li>
 			  {% endif %}
 			</ul>
@@ -53,4 +53,3 @@ layout: default
     <a href="/features/" class="btn btn-large btn-seedprod"><i class="icon-star icon-white"></i> See the Features</a>
 </div>
 </div>
-
