@@ -3,10 +3,6 @@ title: My First WordPress Plugin WP YUI Menu
 author: John Turner
 layout: post
 permalink: /my-first-wordpress-plugin-wp-yui-menu/
-dsq_thread_id:
-  - 602970291
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---
