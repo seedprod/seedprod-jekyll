@@ -3,10 +3,6 @@ title: The easiest way to add SSL to your WordPress Site
 author: John Turner
 layout: post
 permalink: /add-ssl-https-to-wordpress-site/
-dsq_thread_id:
-  - 2918099238
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---

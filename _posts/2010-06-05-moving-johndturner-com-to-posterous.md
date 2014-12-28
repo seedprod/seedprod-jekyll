@@ -3,8 +3,6 @@ title: Moving johndturner.com to Posterous
 author: John Turner
 layout: post
 permalink: /moving-johndturner-com-to-posterous/
-dsq_thread_id:
-  - 347189655
 categories:
   - Blog
 ---

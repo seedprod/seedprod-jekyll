@@ -3,8 +3,6 @@ title: Coming Soon Pro 3.12.0 Released with Sendy Integration
 author: John Turner
 layout: post
 permalink: /coming-soon-pro-3-12-0-released-with-sendy-integration/
-dsq_thread_id:
-  - 1724565718
 categories:
   - Release Notes
 tags:

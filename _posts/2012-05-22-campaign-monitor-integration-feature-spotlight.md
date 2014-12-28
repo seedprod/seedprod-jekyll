@@ -3,12 +3,6 @@ title: 'Campaign Monitor &#8211; Feature Spotlight'
 author: John Turner
 layout: post
 permalink: /campaign-monitor-integration-feature-spotlight/
-standard_seo_post_level_layout:
-  -
-standard_seo_post_meta_description:
-  -
-dsq_thread_id:
-  - 699965363
 categories:
   - Blog
 ---

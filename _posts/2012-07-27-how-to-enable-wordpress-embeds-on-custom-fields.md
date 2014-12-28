@@ -3,12 +3,6 @@ title: How to Enable WordPress Embeds on Custom Fields
 author: John Turner
 layout: post
 permalink: /how-to-enable-wordpress-embeds-on-custom-fields/
-standard_seo_post_level_layout:
-  - 
-dsq_thread_id:
-  - 808184485
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---
@@ -33,7 +27,7 @@ Starting in Version 2.9 WordPress added a super cool feature that lets you embe
 
 <!--more-->
 
-  
+
 You can add more sources <a href="http://codex.wordpress.org/Embeds#How_Can_I_Add_Support_For_More_Websites.3F" target="_blank">programmatically</a> or with a plugin called <a href="http://wordpress.org/extend/plugins/embedly/" target="_blank">Embedly</a>.
 
 I wanted to this feature to my[ Coming Soon plugin][18] but it was not obvious on how to do so. I started hunting down the function that enabled this functionality on the post by searching for all the filters that ran on the template tag &#8220;the_content&#8221;. I found that on line 1056 in the file /wp-includes/media.php the following code was called:

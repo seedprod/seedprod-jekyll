@@ -3,10 +3,6 @@ title: 'lesmainsdanslecambouis.com&#8217;s Coming Soon Page'
 author: John Turner
 layout: post
 permalink: /lesmainsdanslecambouis-coming-soon-page/
-dsq_thread_id:
-  - 2606221259
-dsq_needs_sync:
-  - 1
 categories:
   - Showcase
 tags:

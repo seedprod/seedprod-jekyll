@@ -3,12 +3,6 @@ title: 'Mad Mimi Integration &#8211; Feature Spotlight'
 author: John Turner
 layout: post
 permalink: /mad-mimi-integration-feature-spotlight/
-standard_seo_post_level_layout:
-  - 
-dsq_thread_id:
-  - 1501874852
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 tags:

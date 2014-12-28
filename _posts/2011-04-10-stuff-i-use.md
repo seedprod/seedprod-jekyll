@@ -3,8 +3,6 @@ title: Stuff I Use
 author: John Turner
 layout: post
 permalink: /stuff-i-use/
-dsq_thread_id:
-  - 347917135
 categories:
   - Blog
 ---

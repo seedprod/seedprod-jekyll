@@ -3,8 +3,6 @@ title: Hacker News Mobile Version (experimental)
 author: John Turner
 layout: post
 permalink: /hacker-news-mobile-version-experimental/
-dsq_thread_id:
-  - 349381200
 categories:
   - Blog
 ---

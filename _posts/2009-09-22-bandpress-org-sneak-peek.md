@@ -3,8 +3,6 @@ title: BandPress.org Sneak Peek
 author: John Turner
 layout: post
 permalink: /bandpress-org-sneak-peek/
-dsq_thread_id:
-  - 397191194
 categories:
   - Blog
 ---

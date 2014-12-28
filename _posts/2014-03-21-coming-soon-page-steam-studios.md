@@ -3,10 +3,6 @@ title: Coming Soon Pages by Steam Studios
 author: John Turner
 layout: post
 permalink: /coming-soon-page-steam-studios/
-dsq_thread_id:
-  - 2479796870
-dsq_needs_sync:
-  - 1
 categories:
   - Showcase
 ---

@@ -3,8 +3,6 @@ title: 'Constant Contact &#8211; Feature Spotlight'
 author: John Turner
 layout: post
 permalink: /constant-contact-integration-feature-spotlight/
-dsq_thread_id:
-  - 672891162
 categories:
   - Blog
 ---

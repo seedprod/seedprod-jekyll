@@ -3,10 +3,6 @@ title: 'SeedProd&#8217;s 1st Birthday &#8211; The Journey So Far'
 author: John Turner
 layout: post
 permalink: /seedprods-1st-birthday-the-journey-so-far/
-dsq_thread_id:
-  - 858043396
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---

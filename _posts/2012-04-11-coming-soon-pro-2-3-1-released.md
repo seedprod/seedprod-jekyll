@@ -3,8 +3,6 @@ title: Coming Soon Pro Version 2.3.1 Released
 author: John Turner
 layout: post
 permalink: /coming-soon-pro-2-3-1-released/
-dsq_thread_id:
-  - 810457201
 categories:
   - Release Notes
 ---

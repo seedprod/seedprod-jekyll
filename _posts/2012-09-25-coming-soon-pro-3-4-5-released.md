@@ -3,9 +3,6 @@ title: Coming Soon Pro 3.4.5 Released
 author: John Turner
 layout: post
 permalink: /coming-soon-pro-3-4-5-released/
-dsq_thread_id:
-  - 1319700111
-  - 1319700111
 categories:
   - Release Notes
 ---

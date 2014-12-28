@@ -3,8 +3,6 @@ title: Using CSS Frameworks with Thematic
 author: John Turner
 layout: post
 permalink: /using-css-frameworks-with-thematic/
-dsq_thread_id:
-  - 358380696
 categories:
   - Blog
 ---

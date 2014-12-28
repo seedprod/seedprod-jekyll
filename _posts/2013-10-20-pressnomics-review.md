@@ -3,8 +3,6 @@ title: 'Pressnomics 2 Review &#8211; Just Hit the Publish Button'
 author: John Turner
 layout: post
 permalink: /pressnomics-review/
-dsq_thread_id:
-  - 1880762610
 categories:
   - Blog
 tags:
@@ -12,7 +10,7 @@ tags:
 ---
 <div id="attachment_572" style="width: 310px" class="wp-caption alignright">
   <a href="/wp-content/uploads/2013/10/IMG_20131020_201538.jpg"><img class="size-medium wp-image-572" alt="Hand Made Mug given to each attendee. Attention to detail!" src="/wp-content/uploads/2013/10/IMG_20131020_201538-300x400.jpg" width="300" height="400" /></a>
-  
+
   <p class="wp-caption-text">
     Hand Made Mug given to each attendee. Attention to detail!
   </p>
@@ -30,7 +28,7 @@ My notes from the conference kinda suck so I refrain from posting them but <a hr
   <p>
     All of my sketchnotes from <a href="https://twitter.com/search?q=%23pressnomics&src=hash">#pressnomics</a> day 1 <a href="https://t.co/R315l2mgWp">https://t.co/R315l2mgWp</a> <a href="https://twitter.com/PressNomics">@PressNomics</a>
   </p>
-  
+
   <p>
     &mdash; Joe Casabona (@jcasabona) <a href="https://twitter.com/jcasabona/statuses/390986306286653440">October 17, 2013</a>
   </p>
@@ -42,7 +40,7 @@ My notes from the conference kinda suck so I refrain from posting them but <a hr
   <p>
     Here are all of my <a href="https://twitter.com/search?q=%23sketchnotes&src=hash">#sketchnotes</a> from <a href="https://twitter.com/search?q=%23pressnomics&src=hash">#pressnomics</a> Day 2: <a href="http://t.co/xYaBIKwKXw">http://t.co/xYaBIKwKXw</a>
   </p>
-  
+
   <p>
     &mdash; Joe Casabona (@jcasabona) <a href="https://twitter.com/jcasabona/statuses/391359429037137920">October 19, 2013</a>
   </p>

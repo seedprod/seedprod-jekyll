@@ -3,12 +3,6 @@ title: 'MailChimp Integration &#8211; Feature Spotlight'
 author: John Turner
 layout: post
 permalink: /mailchimp-integration-feature-spotlight/
-standard_seo_post_level_layout:
-  -
-dsq_thread_id:
-  - 654970363
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---

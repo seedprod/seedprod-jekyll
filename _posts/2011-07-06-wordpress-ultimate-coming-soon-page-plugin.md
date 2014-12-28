@@ -3,10 +3,6 @@ title: WordPress Ultimate Coming Soon Page Plugin
 author: John Turner
 layout: post
 permalink: /wordpress-ultimate-coming-soon-page-plugin/
-dsq_thread_id:
-  - 811995428
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---

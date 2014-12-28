@@ -3,10 +3,6 @@ title: WordPress The Loop Shortcode
 author: John Turner
 layout: post
 permalink: /wordpress-the-loop-shortcode/
-dsq_thread_id:
-  - 673132165
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---

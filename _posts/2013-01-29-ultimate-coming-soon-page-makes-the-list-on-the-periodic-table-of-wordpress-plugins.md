@@ -3,10 +3,6 @@ title: Ultimate Coming Soon Page makes the list on The Periodic Table of WordPre
 author: John Turner
 layout: post
 permalink: /ultimate-coming-soon-page-makes-the-list-on-the-periodic-table-of-wordpress-plugins/
-dsq_thread_id:
-  - 1053817873
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 tags:

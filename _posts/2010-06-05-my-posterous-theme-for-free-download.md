@@ -3,10 +3,6 @@ title: My Posterous Theme for Free Download
 author: John Turner
 layout: post
 permalink: /my-posterous-theme-for-free-download/
-dsq_thread_id:
-  - 347321543
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---

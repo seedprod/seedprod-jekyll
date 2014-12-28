@@ -3,8 +3,6 @@ title: Coming Soon Pro Version 2.6.1 Released
 author: John Turner
 layout: post
 permalink: /coming-soon-pro-version-2-6-1-released/
-dsq_thread_id:
-  - 830973055
 categories:
   - Release Notes
 ---

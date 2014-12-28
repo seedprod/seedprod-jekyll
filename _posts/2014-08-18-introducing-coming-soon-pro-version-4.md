@@ -3,10 +3,6 @@ title: Introducing Coming Soon Pro Version 4
 author: John Turner
 layout: post
 permalink: /introducing-coming-soon-pro-version-4/
-dsq_thread_id:
-  - 2938869904
-dsq_needs_sync:
-  - 1
 categories:
   - Release Notes
 ---

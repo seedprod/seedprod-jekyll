@@ -3,10 +3,6 @@ title: 'andrearobb.com&#8217;s Coming Soon Page'
 author: John Turner
 layout: post
 permalink: /andrearobbcoms-coming-page/
-dsq_thread_id:
-  - 2554830192
-dsq_needs_sync:
-  - 1
 categories:
   - Showcase
 ---

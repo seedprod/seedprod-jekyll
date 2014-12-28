@@ -3,8 +3,6 @@ title: Coming Soon Pro Version 3.5.0 Release with WYSIJA Integration
 author: John Turner
 layout: post
 permalink: /coming-soon-pro-version-3-5-0-release-with-wysija-integration/
-dsq_thread_id:
-  - 889752681
 categories:
   - Release Notes
 ---

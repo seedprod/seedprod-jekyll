@@ -3,12 +3,6 @@ title: Introducing Coming Soon Pro Version 3 plugin for WordPress
 author: John Turner
 layout: post
 permalink: /introducing-coming-soon-pro-version-3-plugin-for-wordpress/
-standard_seo_post_level_layout:
-  - 
-dsq_thread_id:
-  - 808185966
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---

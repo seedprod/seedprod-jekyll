@@ -3,10 +3,6 @@ title: Dynamically Resize WordPress Images On-the-Fly
 author: John Turner
 layout: post
 permalink: /dynamically-resize-wordpress-images-on-the-fly/
-dsq_thread_id:
-  - 472724680
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---

@@ -3,10 +3,6 @@ title: Coming Soon Page Inspiration
 author: John Turner
 layout: post
 permalink: /coming-soon-page-inspiration/
-dsq_thread_id:
-  - 2654073877
-dsq_needs_sync:
-  - 1
 categories:
   - Showcase
 tags:

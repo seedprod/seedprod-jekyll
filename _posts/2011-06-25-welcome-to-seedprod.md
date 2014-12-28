@@ -3,8 +3,6 @@ title: Welcome to SeedProd
 author: John Turner
 layout: post
 permalink: /welcome-to-seedprod/
-dsq_thread_id:
-  - 347167307
 categories:
   - Blog
 ---

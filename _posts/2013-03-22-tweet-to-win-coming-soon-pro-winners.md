@@ -3,8 +3,6 @@ title: Tweet to Win a Coming Soon Pro Developer License Winners
 author: John Turner
 layout: post
 permalink: /tweet-to-win-coming-soon-pro-winners/
-dsq_thread_id:
-  - 1156775394
 categories:
   - Promotions
 ---

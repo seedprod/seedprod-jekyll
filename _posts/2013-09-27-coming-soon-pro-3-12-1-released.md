@@ -3,8 +3,6 @@ title: Coming Soon Pro 3.12.1 Released
 author: John Turner
 layout: post
 permalink: /coming-soon-pro-3-12-1-released/
-dsq_thread_id:
-  - 1803064529
 categories:
   - Release Notes
 ---

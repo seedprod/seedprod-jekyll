@@ -3,8 +3,6 @@ title: Coming Soon Pro 3.13.0 Released
 author: John Turner
 layout: post
 permalink: /coming-soon-pro-3-13-0-released-with-icontact-integration/
-dsq_thread_id:
-  - 1818052868
 categories:
   - Release Notes
 tags:

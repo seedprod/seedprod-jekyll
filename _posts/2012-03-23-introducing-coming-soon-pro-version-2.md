@@ -3,8 +3,6 @@ title: Introducing Coming Soon Pro Version 2
 author: John Turner
 layout: post
 permalink: /introducing-coming-soon-pro-version-2/
-dsq_thread_id:
-  - 622451499
 categories:
   - Blog
 ---

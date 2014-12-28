@@ -3,8 +3,6 @@ title: Free HTML5 Theme for Bloggart
 author: John Turner
 layout: post
 permalink: /free-html5-theme-for-bloggart/
-dsq_thread_id:
-  - 347604976
 categories:
   - Blog
 ---

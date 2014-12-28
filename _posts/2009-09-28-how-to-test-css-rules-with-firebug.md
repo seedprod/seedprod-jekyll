@@ -3,10 +3,6 @@ title: How to test CSS rules with Firebug
 author: John Turner
 layout: post
 permalink: /how-to-test-css-rules-with-firebug/
-dsq_thread_id:
-  - 347324142
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---

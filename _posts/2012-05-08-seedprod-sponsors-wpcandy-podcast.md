@@ -3,10 +3,6 @@ title: 'SeedProd sponsors WPCandy&#8217;s Podcast'
 author: John Turner
 layout: post
 permalink: /seedprod-sponsors-wpcandy-podcast/
-standard_seo_post_level_layout:
-  - 
-dsq_thread_id:
-  - 701460145
 categories:
   - Blog
 ---

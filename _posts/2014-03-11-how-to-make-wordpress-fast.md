@@ -3,10 +3,6 @@ title: How to make your WordPress Site Super Fast with Cheap Hosting
 author: John Turner
 layout: post
 permalink: /how-to-make-wordpress-fast/
-dsq_thread_id:
-  - 2409394757
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
   - How To

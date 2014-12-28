@@ -3,10 +3,6 @@ title: Controlling Sidebars in Thematic
 author: John Turner
 layout: post
 permalink: /controlling-sidebars-in-thematic/
-dsq_thread_id:
-  - 347189608
-dsq_needs_sync:
-  - 1
 categories:
   - Blog
 ---
