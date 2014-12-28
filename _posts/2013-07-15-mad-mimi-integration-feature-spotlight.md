@@ -16,4 +16,6 @@ Coming Soon Pro is excited to be <a title="Features" href="/features/" target="_
 
 Now you can quickly collect emails while your WordPress website is under construction and have them sent directly to your Mad Mimi lists for future campaigns. To see how view this short video.
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/g7KqixEMSU0" frameborder="0" allowfullscreen></iframe>
+
  [1]: /wp-content/uploads/2013/07/34dc9c6.png
