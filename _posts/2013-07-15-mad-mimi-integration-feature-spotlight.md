@@ -18,7 +18,7 @@ tags:
 
 <a href="http://madmimi.com" target="_blank">Mad Mimi</a> is the easiest way to create, send, share and track email newsletters online. Mad Mimi is for people who want email marketing to be simple.
 
-Coming Soon Pro is excited to be <a title="Features" href="http://seedprod.dev:8000/features/" target="_blank">integrated with Mad Mimi</a> to make collecting emails for your website&#8217;s launch easier.
+Coming Soon Pro is excited to be <a title="Features" href="/features/" target="_blank">integrated with Mad Mimi</a> to make collecting emails for your website&#8217;s launch easier.
 
 Now you can quickly collect emails while your WordPress website is under construction and have them sent directly to your Mad Mimi lists for future campaigns. To see how view this short video.
 

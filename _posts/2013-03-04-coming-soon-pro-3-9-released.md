@@ -17,4 +17,4 @@ Coming Soon Pro 3.9.2 has been released.
 * Fixed bug that prevents all list updates from firing when doing ajax  
 * Trim api key when sending it to the server
 
-You’ll receive an autoupdate message soon if you have entered your license key. You can also download the plugin from <a href="http://seedprod.dev:8000/members" target="_blank">http://seedprod.dev:8000/members</a>
+You’ll receive an autoupdate message soon if you have entered your license key. You can also download the plugin from <a href="/members" target="_blank">/members</a>

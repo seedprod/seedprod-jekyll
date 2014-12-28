@@ -17,5 +17,5 @@ I released a WordPress plugin a couple of weeks ago called the &#8220;[Ultimate 
 
 So far I&#8217;ve received excellent feedback from the user of it. I plan to release a pro version of the plugin in the next few weeks to be able to provide better features and support. If there&#8217;s a feature you&#8217;d like to see in this plugin please leave feedback below.
 
- [1]: http://seedprod.com/product/coming-soon-pro-plugin/
+ [1]: http://seedprod.com/features/
  [2]: http://wordpress.org/extend/plugins/ultimate-coming-soon-page/

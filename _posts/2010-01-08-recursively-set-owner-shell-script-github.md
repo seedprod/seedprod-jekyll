@@ -9,3 +9,5 @@ categories:
   - Blog
 ---
 This a shell script to recursively set owner inside the home folder to be the home folders name. I used this during a restore process.
+
+<script src="https://gist.github.com/seedprod/837025.js"></script>

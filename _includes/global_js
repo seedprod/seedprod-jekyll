@@ -1,5 +1,12 @@
+
+<!-- Bootstrap -->
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
 <!-- Twitter -->
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+  {% if page.slug == 'pricing' %}
 
 <!-- begin olark code -->
 <script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
@@ -23,6 +30,8 @@ olark.identify('9920-195-10-4093');/*]]>*/</script><noscript><a href="https://ww
 <!-- end olark code -->
 
 
+  {% else %}
+
 <!-- Drip -->
 <script type="text/javascript">
 var _dcq = _dcq || [];
@@ -38,6 +47,8 @@ s.parentNode.insertBefore(dc, s);
 })();
 </script>
 <?php }; ?>
+
+  {% endif %}
 
 
 <!--  Ad Roll -->

@@ -4,9 +4,9 @@ author: John Turner
 layout: post
 permalink: /campaign-monitor-integration-feature-spotlight/
 standard_seo_post_level_layout:
-  - 
+  -
 standard_seo_post_meta_description:
-  - 
+  -
 dsq_thread_id:
   - 699965363
 categories:
@@ -17,5 +17,7 @@ categories:
 Coming Soon Pro is proud to be [integrated with Campaign Monitor][1].
 
 It never been easier to create a coming soon under construction page for your WordPress website and use Campaign Monitor to collect emails. To see how view this short video.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/-vyUCvaNwrc" frameborder="0" allowfullscreen></iframe>
 
  [1]: /features/#feature12

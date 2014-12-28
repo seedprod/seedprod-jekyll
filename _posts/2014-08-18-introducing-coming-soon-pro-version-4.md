@@ -16,7 +16,7 @@ I&#8217;m proud to announce the latest version the [Coming Soon Pro][2] plugin f
 
 One of our 1st mail provider add ons will be for MyMail and GetDrip.com available later this week. Many more to come.  We also will be releasing premium theme add ons. The plugin by default allows you to easily customize the look and feel. But we had many people who wanted pre-made themes to make it that much easier to get up and going. We&#8217;ll be releasing at least one new premium theme every week.
 
-Version 4 is still in beta but should be exiting beta by the end of this week or early next week. You can download it from <a href="http://seedprod.dev:8000/members" target="_blank">your account </a>dashboard.
+Version 4 is still in beta but should be exiting beta by the end of this week or early next week. You can download it from <a href="/members" target="_blank">your account </a>dashboard.
 
 Upgrading from 3 to 4 will be an optional manual process. [Read more about the migration process][3].
 

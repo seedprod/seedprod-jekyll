@@ -70,4 +70,4 @@ If anyone knows of a better way to do this please let me know in the comments.
  [15]: http://www.smugmug.com/ "http://www.smugmug.com/"
  [16]: http://www.funnyordie.com/ "http://www.funnyordie.com/"
  [17]: http://twitter.com/ "http://twitter.com"
- [18]: http://seedprod.dev:8000/features/ "Coming Soon Pro Features"
+ [18]: /features/ "Coming Soon Pro Features"

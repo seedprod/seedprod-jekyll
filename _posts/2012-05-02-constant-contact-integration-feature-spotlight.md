@@ -14,5 +14,7 @@ Coming Soon Pro is proud to be [integrated with Constant Contact][2].
 
 It never been easier to create a coming soon under construction page for your WordPress website and use Constant Contact to collect emails. To see how view this short video.
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/nSUDbWVFYsE" frameborder="0" allowfullscreen></iframe>
+
  [1]: http://www.constantcontact.com
  [2]: /features/#feature12

@@ -12,9 +12,11 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="canonical" href="https://www.seedprod.com{{ page.url | replace:'/index.html','' }}/"/>
     <link rel="alternate" type="application/rss+xml" title="SeedProd RSS" href="http://feeds.feedburner.com/seedprod"/>
-  
+
 
     {% include google_analytics %}
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    
 
   </head>
 
@@ -57,7 +59,7 @@
         </div>
     </div> <!-- /#hd -->
 
-    
+
     <div class="bt-header">
     </div>
 
@@ -109,10 +111,10 @@
         </div>
     </footer><!-- #ft -->
 
-  
-  </div><!-- #page-wrap -->
-    
 
+  </div><!-- #page-wrap -->
+
+  {% include global_js %}
 
   </body>
 </html>

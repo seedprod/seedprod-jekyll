@@ -16,7 +16,7 @@ I needed a way to control the primary and secondary sidebar and which pages they
 
 The code below shows the secondary sidebar only on the blog page and single pages, all other pages show the primary sidebar.
 
-https://gist.github.com/272626.js
+<script src="https://gist.github.com/272626.js"><script>
 
  [1]: http://themeshaper.com/
  [2]: http://wordpress.org/extend/plugins/widget-logic/

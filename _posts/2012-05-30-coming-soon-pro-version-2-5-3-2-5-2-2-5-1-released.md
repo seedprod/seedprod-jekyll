@@ -23,4 +23,4 @@ Coming Soon Pro Version 2.5.3, 2.5.2, 2.5.1 Released.
   * Moved CSS to bottom of head so it can override all styles
   * Don&#8217;t show email strings if using gravity forms
 
-You should receive an automatic upgrade notification within 12hrs. or download from <a href="http://app.seedprod.com" target="_blank">http://app.seedprod.com</a>
+You should receive an automatic upgrade notification within 12hrs. or download from <a href="https://www.seedprod.com/support/" target="_blank">https://www.seedprod.com/support/</a>

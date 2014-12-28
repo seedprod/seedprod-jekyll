@@ -16,4 +16,4 @@ Features and/or Fixes:
   * Fixed bug in client view that if client returned to client view url in the same session they would get a 404
   * Fixed bug in client view if category used as permalink
 
-You should receive an automatic upgrade notification within 12hrs. or download from <a href="http://app.seedprod.com" target="_blank">http://app.seedprod.com</a>
+You should receive an automatic upgrade notification within 12hrs. or download from <a href="https://www.seedprod.com/support/" target="_blank">https://www.seedprod.com/support/</a>

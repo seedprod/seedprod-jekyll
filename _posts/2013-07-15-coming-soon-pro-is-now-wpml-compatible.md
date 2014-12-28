@@ -3,8 +3,6 @@ title: Coming Soon Pro is now WPML Compatible
 author: John Turner
 layout: post
 permalink: /coming-soon-pro-is-now-wpml-compatible/
-dsq_thread_id:
-  - 1501851329
 categories:
   - Blog
 tags:
@@ -14,13 +12,7 @@ tags:
 
 Check out the video below on how simple it is to set up the Coming Soon Pro plugin with WPML plugin!
 
-&nbsp;
-
-&nbsp;
-
-
-
-&nbsp;
+<iframe width="560" height="315" src="//www.youtube.com/embed/UmabDh_ORcQ" frameborder="0" allowfullscreen></iframe>
 
  [1]: /wp-content/uploads/2013/07/wpml-ready-badge.png
- [2]: http://seedprod.dev:8000/features/ "Features"
+ [2]: /features/ "Features"

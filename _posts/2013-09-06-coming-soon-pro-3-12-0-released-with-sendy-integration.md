@@ -27,7 +27,7 @@ Check them out at [http://sendy.co][2]
 * Tweak: Load class only in admin for performance.  
 * Tweak: Make social follow icons in admin the same size as the value selected
 
-You’ll receive an autoupdate message soon if you have entered your license key. You can also download the plugin from <a href="http://seedprod.dev:8000/members" target="_blank">http://seedprod.dev:8000/members</a>
+You’ll receive an autoupdate message soon if you have entered your license key. You can also download the plugin from <a href="/members" target="_blank">/members</a>
 
  [1]: /wp-content/uploads/2013/09/sendy-logo.jpg
  [2]: http://sendy.co/?ref=W2BVJ

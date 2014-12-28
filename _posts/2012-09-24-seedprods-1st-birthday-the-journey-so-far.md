@@ -20,5 +20,5 @@ What&#8217;s next? SeedProd will continue to improve the [Coming Soon Pro][2] pl
 
 So cheers and here&#8217;s to another excellent year!
 
- [1]: http://seedprod.dev:8000/startups-a-brutally-honest-post-and-reality-check/ "Startups – A brutally honest post and reality check"
- [2]: http://seedprod.dev:8000/features/ "Features"
+ [1]: /startups-a-brutally-honest-post-and-reality-check/ "Startups – A brutally honest post and reality check"
+ [2]: /features/ "Features"

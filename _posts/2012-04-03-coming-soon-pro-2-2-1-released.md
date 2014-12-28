@@ -15,4 +15,4 @@ Fixes:
   * Fixed Database Counter Notification Bug
   * Fixed Constant Contact bug that only allow an email to be subscribe to one list.
 
-You should receive an automatic upgrade notification within 12hrs. or download from <a href="http://app.seedprod.com" target="_blank">http://app.seedprod.com</a>
+You should receive an automatic upgrade notification within 12hrs. or download from <a href="https://www.seedprod.com/support/" target="_blank">https://www.seedprod.com/support/</a>

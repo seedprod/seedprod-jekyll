@@ -18,4 +18,4 @@ If you already own a copy we&#8217;ll extend your license by 1 year.
 
 If you did not win continue to enter. I&#8217;m going to start announcing the winner each Friday via the <a href="http://twitter.com/seedprod" target="_blank">@seedprod</a> twitter account. Be sure to follow!
 
- [1]: http://seedprod.dev:8000/pricing/ "Pricing"
+ [1]: /pricing/ "Pricing"

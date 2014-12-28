@@ -12,7 +12,7 @@ dsq_needs_sync:
 categories:
   - Blog
 ---
-I&#8217;m happy to announce that Version 3 of the Coming Soon Pro plugin for WordPress is live and available for download. If you are a customer you will need to <a href="http://app.seedprod.com" target="_blank">login</a> and manually download the update since this is a complete rebuild from version 2. After you install Version 3 future updates will be automatic.
+I&#8217;m happy to announce that Version 3 of the Coming Soon Pro plugin for WordPress is live and available for download. If you are a customer you will need to <a href="https://www.seedprod.com/support/" target="_blank">login</a> and manually download the update since this is a complete rebuild from version 2. After you install Version 3 future updates will be automatic.
 
 If you&#8217;re not a customer now&#8217;s the perfect time purchase the [Coming Soon Pro plugin][1]!
 
@@ -44,4 +44,4 @@ If you&#8217;re not a customer now&#8217;s the perfect time purchase the [Coming
   * Inline Preview
   * Made maintenance mode easier to enable and added the ability to capture emails in maintenance mode.
 
- [1]: http://seedprod.dev:8000/pricing/ "Pricing"
+ [1]: /pricing/ "Pricing"

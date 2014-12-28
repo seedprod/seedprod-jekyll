@@ -17,6 +17,6 @@ tags:
 * Added: Infusionsoft Integration  
 * Added: HTML Forms Integration
 
-You’ll receive an autoupdate message soon if you have entered your license key. You can also download the plugin from <a href="http://seedprod.dev:8000/members" target="_blank">http://seedprod.dev:8000/members</a>
+You’ll receive an autoupdate message soon if you have entered your license key. You can also download the plugin from <a href="/members" target="_blank">/members</a>
 
  [1]: /wp-content/uploads/2013/10/infusionsoft-logo.png

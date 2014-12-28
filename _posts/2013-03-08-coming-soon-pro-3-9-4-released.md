@@ -15,4 +15,4 @@ Coming Soon Pro 3.9.4 has been released.
 * Tweak: Updated Facebook Like button code.  
 * Fix: Singular Countdown Translations not being displayed
 
-You’ll receive an autoupdate message soon if you have entered your license key. You can also download the plugin from <a href="http://seedprod.dev:8000/members" target="_blank">http://seedprod.dev:8000/members</a>
+You’ll receive an autoupdate message soon if you have entered your license key. You can also download the plugin from <a href="/members" target="_blank">/members</a>

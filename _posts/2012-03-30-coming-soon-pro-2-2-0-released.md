@@ -23,4 +23,4 @@ Fixes:
   * Added missing Gravity Forms js form multi-page forms.
   * Fixed all php notices
 
-You should receive an automatic upgrade notification soon or download from <a href="http://app.seedprod.com" target="_blank">http://app.seedprod.com</a>
+You should receive an automatic upgrade notification soon or download from <a href="https://www.seedprod.com/support/" target="_blank">https://www.seedprod.com/support/</a>

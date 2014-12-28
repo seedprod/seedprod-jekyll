@@ -16,7 +16,7 @@ tags:
 ---
 WordPress hosting comes in all shapes and sizes and there are lots of players in the market. Generally how things works is the more you pay for hosting the faster your site is. At least this has been my experience.
 
-So a WordPress site hosted on <a class="thirstylink" href="http://seedprod.dev:8000/go/godaddy/" target="_blank" rel="nofollow">GoDaddy</a> or some other shared host is typically super slow. Where as a site hosted on  <a class="thirstylink" href="http://seedprod.dev:8000/go/wp-engine/" target="_blank" rel="nofollow">WPEngine</a> or another managed host are super fast. I&#8217;m going to show you how to get those super fast speeds on a cheap WordPress hosting plan.
+So a WordPress site hosted on <a class="thirstylink" href="/go/godaddy/" target="_blank" rel="nofollow">GoDaddy</a> or some other shared host is typically super slow. Where as a site hosted on  <a class="thirstylink" href="/go/wp-engine/" target="_blank" rel="nofollow">WPEngine</a> or another managed host are super fast. I&#8217;m going to show you how to get those super fast speeds on a cheap WordPress hosting plan.
 
 ### I Feel the Need for Speed
 
@@ -73,7 +73,7 @@ http://youtu.be/TWpdlw0VOEk&rel=0
 
 As you can see the cheap GoDaddy hosting is now just as fast.
 
-Here&#8217;s a head to head comparison to <a class="thirstylink" href="http://seedprod.dev:8000/go/wp-engine/" target="_blank" rel="nofollow">WPEngine</a> against <a class="thirstylink" href="http://seedprod.dev:8000/go/godaddy/" target="_blank" rel="nofollow">GoDaddy</a> with <a href="http://cloudflare.com" target="_blank">CloudFlare</a> Cache Everything
+Here&#8217;s a head to head comparison to <a class="thirstylink" href="/go/wp-engine/" target="_blank" rel="nofollow">WPEngine</a> against <a class="thirstylink" href="/go/godaddy/" target="_blank" rel="nofollow">GoDaddy</a> with <a href="http://cloudflare.com" target="_blank">CloudFlare</a> Cache Everything
 
 http://youtu.be/ZCiCK2po1JM&rel=0
 

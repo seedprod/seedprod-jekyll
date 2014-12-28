@@ -16,6 +16,8 @@ To side step this issue Theme and Plugin developers have resorted to using scrip
 
 If you find a bug let me know. Hopefully WordPress will provide a similar function in the WP core in the future.
 
+<script src="https://gist.github.com/seedprod/1367237.js"></script>
+
  [1]: http://theme.fm/2011/08/images-image-sizes-and-post-thumbnails-in-wordpress-1385/
  [2]: http://codex.wordpress.org/Function_Reference/add_image_size
  [3]: http://code.google.com/p/timthumb/
