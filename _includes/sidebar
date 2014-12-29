@@ -1,8 +1,22 @@
 <div class="widget">
+<h3>Newsletter</h3>
+<div class="alert alert-warning">
+<p style="font-size:13px;">
+Subscribe to our newsletter and get <strong>10 FREE Hi-Res Background Images</strong> like the ones on our <a href="http://demo.seedprod.com/coming-soon-pro/" target="_blank">demo</a>.
+</p>
+<form action="http://seedprod.us2.list-manage2.com/subscribe/post?u=b917d2a79917ec125d6934c5b&amp;id=34383bb48a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+<div class="form-group">
+<input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email" style="width:100%">
+</div>
+<div style="position: absolute; left: -5000px;"><input type="text" name="b_b917d2a79917ec125d6934c5b_34383bb48a" value=""></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-info"></div>
+</form>
+</div>
+</div>
+<div class="widget">
 <h3>Keep in Touch</h3>
-	<ul class="unstyled">
-		<li><a href="http://eepurl.com/jI_of"><i class="icon-envelope"></i> Get the Newsletter</a></li>
-		<li><a href="http://twitter.com/seedprod"><i class="icon-twitter2"></i> Follow Us on Twitter</a></li>
+	<ul class="list-unstyled">
+		<li><a href="http://twitter.com/seedprod"><i class="fa fa-twitter"></i> Follow Us on Twitter</a></li>
 
 	</ul>
 	<hr>
@@ -26,10 +40,9 @@
 
 <div class="widget">
 <h3>More</h3>
-	<ul class="unstyled">
-		<li><a href="/archive/"><i class="icon-list"></i> Archive</a></li>
-		<li><a href="http://feeds.feedburner.com/seedprod"><i class="icon-rss"></i> RSS</a></li>
-
+	<ul class="list-unstyled">
+	<li><a href="/archive/"><i class="fa fa-list"></i> Archive</a></li>
+	<li><a href="http://feeds.feedburner.com/seedprod"><i class="fa fa-rss"></i> RSS</a></li>
 	</ul>
 	<hr>
 </div>
@@ -41,36 +54,3 @@
 		{% endfor %}
 	</div>
 </div>-->
-
-<a href="/pricing/"><img src="/images/seedprod-300x250-02.jpg" alt="Get the best Coming Soon and Maintenance Mode Plugin for WordPress"></a>
-<br><br>
-<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
-<script>
-new TWTR.Widget({
-  version: 2,
-  type: 'faves',
-  rpp: 10,
-  interval: 30000,
-  title: 'Tweets from @seedprod and @johnturner',
-  subject: '',
-  width: 'auto',
-  height: 300,
-  theme: {
-    shell: {
-      background: '#454545',
-      color: '#ffffff'
-    },
-    tweets: {
-      background: '#ffffff',
-      color: '#444444',
-      links: '#004D00'
-    }
-  },
-  features: {
-    scrollbar: true,
-    loop: false,
-    live: true,
-    behavior: 'all'
-  }
-}).render().setUser('johnturner').start();
-</script>
