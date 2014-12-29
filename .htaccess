@@ -1,1 +1,23 @@
-RedirectPermanent /feed/ http://feeds.feedburner.com/seedprod
+Options +FollowSymLinks
+RewriteEngine on
+
+ErrorDocument 404 /404.html
+
+RedirectPermanent /feed http://feeds.feedburner.com/seedprod
+RedirectPermanent /ticket https://app.sellwp.co/seedprod/ticket
+RedirectPermanent /ultimate-coming-soon-page-vs-coming-soon-pro https://www.seedprod.com/features
+RedirectPermanent /plugins/wordpress-coming-soon-pro-plugin https://www.seedprod.com
+RedirectPermanent /affiliates http://www.shareasale.com/shareasale.cfm?merchantID=51809
+RedirectPermanent /members https://app.sellwp.co/seedprod/login
+RedirectPermanent /product/coming-soon-pro-plugin https://www.seedprod.com
+RedirectPermanent /wordpress-coming-soon-plugin https://www.seedprod.com
+RedirectPermanent /knowledge-base http://support.seedprod.com
+RedirectPermanent /thank-you http://support.seedprod.com/article/10-how-do-i-re-download-a-plugin
+RedirectPermanent /support http://support.seedprod.com
+RedirectPermanent /contact-us https://www.seedprod.com/contact
+RedirectPermanent /pricing-products https://www.seedprod.com
+RedirectPermanent /wordpress-stuff/themes/twordder https://www.seedprod.com/twordder
+RedirectPermanent /make-wordpress-site-fast-cheap-hosting https://www.seedprod.comhow-to-make-wordpress-fast
+RedirectPermanent /knowledge-base/coming-soon-pro-changelog http://support.seedprod.com/article/21-coming-soon-pro-changelog
+RedirectPermanent /knowledgebase http://support.seedprod.com
+RedirectPermanent /knowledgebase_category http://support.seedprod.com

@@ -4,7 +4,7 @@
 <p style="font-size:13px;">
 Subscribe to our newsletter and get <strong>10 FREE Hi-Res Background Images</strong> like the ones on our <a href="http://demo.seedprod.com/coming-soon-pro/" target="_blank">demo</a>.
 </p>
-<form action="http://seedprod.us2.list-manage2.com/subscribe/post?u=b917d2a79917ec125d6934c5b&amp;id=34383bb48a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+<form action="//seedprod.us2.list-manage.com/subscribe/post?u=b917d2a79917ec125d6934c5b&amp;id=34383bb48a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
 <div class="form-group">
 <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email" style="width:100%">
 </div>
