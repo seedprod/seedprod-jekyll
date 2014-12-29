@@ -7,20 +7,21 @@ slug: showcase
 
 <p><span class="label label-success">New</span> We are just getting started with the Showcase and more featured designs are coming soon. Also checkout <a href="/testimonials/">what people are saying</a>.<p>
 <p><a href="/submit-site">Submit your site!</a></p>
+<link type="text/css" rel="stylesheet" href="/css/magnific-popup.css">
 
-
-<ul>
+<div class="gallery">
     {% for s in site.data.showcase %}
-    <li>
+    {% cycle 'open rows': '<div class="row">', nil, nil  %}
+    <div class="col-md-4">
         <a href="/images/showcase/{{ s.large }}">
             <img src="/images/showcase/{{ s.thumbnail }}" alt="{{ s.name }}" title="{{ s.name }}"><br>
             {{ s.name }}
         </a>
-    </li>
-    {% cycle 'close rows': '2', '3' %}
+    </div>
+    {% cycle 'close rows': nil, nil, '</div>' %}
     {% endfor %}
+</div>
 
-</ul>
 
 <br><br>
 <!-- Goto Features -->
@@ -30,3 +31,12 @@ slug: showcase
     <a href="/features/" class="btn btn-large btn-seedprod"><i class="icon-star icon-white"></i> See the Features</a>
 </div>
 </div>
+<script src="/js/magnify.js"></script>
+<script>
+$('.gallery a').magnificPopup({
+    type: 'image',
+    gallery:{
+        enabled:true
+    }
+});
+</script>
