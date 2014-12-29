@@ -34,7 +34,7 @@ Subscribe to our newsletter and get <strong>10 FREE Hi-Res Background Images</st
         <input type="image" name="sa" id="goog-icon-search" value="Search" src="/images/icon-search.png" alt="Search" />
       </p>
     </form>
-    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=quick-search&lang=en"></script>
+    <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=quick-search&lang=en"></script>
     <hr>
 </div>
 

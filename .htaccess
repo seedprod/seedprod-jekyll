@@ -1,14 +1,1 @@
-RewriteEngine on
-RewriteCond %{HTTP_HOST} !^www.seedprod.com$
-RewriteRule ^(.*)$ http://www.seedprod.com/$1 [R=301]
-
-RedirectPermanent /feed http://feeds.feedburner.com/seedprod
-RedirectPermanent /wordpress-coming-soon-pro-plugin http://www.seedprod.com/plugins/wordpress-coming-soon-pro-plugin
-RedirectPermanent /wordpress-coming-soon-plugin  http://www.seedprod.com/plugins/wordpress-coming-soon-pro-plugin
-RedirectPermanent /wordpress-coming-soon-plugin/  http://www.seedprod.com/plugins/wordpress-coming-soon-pro-plugin/
-RedirectPermanent /product/coming-soon-pro-plugin  http://www.seedprod.com/plugins/wordpress-coming-soon-pro-plugin
-RedirectPermanent /wordpress-stuff/themes/twordder/ http://www.seedprod.com/twordder/
-RedirectPermanent /pricing-products/ http://www.seedprod.com/plugins/
-RedirectPermanent /2009/09/17/wordpress-the-loop-shortcode/ http://www.seedprod.com/wordpress-the-loop-shortcode/
-RedirectPermanent /testimonials http://www.seedprod.com
-RedirectPermanent /refund-policy/ http://www.seedprod.com/refunds/
+RedirectPermanent /feed/ http://feeds.feedburner.com/seedprod
