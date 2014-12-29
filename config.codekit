@@ -2530,6 +2530,18 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_posts\/2014-12-05-copyright-infringement-lesson-learned.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2014-12-05-copyright-infringement-lesson-learned.md",
+		"outputAbbreviatedPath": "\/_posts\/2014-12-05-copyright-infringement-lesson-learned.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/404.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2598,6 +2610,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/10\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/10\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5279,6 +5300,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/submit-site\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -5392,6 +5422,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/woocommerce-mailchimp\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-copyright-infringement\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-copyright-infringement\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -8930,6 +8969,17 @@
 		"initialSize": 118686,
 		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon.png",
 		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23483,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14516,6 +14566,17 @@
 		"initialSize": 118686,
 		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon.png",
 		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23483,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
