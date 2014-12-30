@@ -6,7 +6,7 @@ paginate: 10
 paginate_path: "blog/page/:num/"
 markdown: kramdown
 permalink: /:title
-exclude: ["_less","config.codekit","style.less","README","Rakefile",".DS_Store"]
+exclude: ["_less","config.codekit","style.less","README","Rakefile",".DS_Store","deploy.sh"]
 include: [".htaccess"]
 
 # Gems
