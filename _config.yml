@@ -1,5 +1,6 @@
 # Site settings
 title: SeedProd
+url: https://www.seedprod.com
 
 # Build settings
 paginate: 10
