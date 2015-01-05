@@ -7,8 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ page.description }}">
 
-    <link rel="stylesheet" href="/style.css" >
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz" >
+    <link rel="stylesheet" href="/style-b.css" >
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" >
     {% if page.canonical == nil %}
     <link rel="canonical" href="{{site.url}}{{ page.url | replace:'/index.html','' }}/" >
@@ -17,8 +16,10 @@
     {% endif %}
     <link rel="alternate" type="application/rss+xml" title="SeedProd RSS" href="http://feeds.feedburner.com/seedprod" >
 
+    <script src="//use.typekit.net/sec8pvi.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
 
-    {% include google_analytics %}
+
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <!-- RUM Check -->
     <script>
@@ -50,20 +51,20 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                       </button>
-                      <a class="navbar-brand" href="/"><img src="/images/seedprod-logo-white.png" alt="SeedProd Logo"></a>
+                      <a class="navbar-brand" href="/"><img src="/images/seedprod-logo-black.png" alt="SeedProd Logo"></a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="topnav">
                       <ul class="nav navbar-nav">
-                        <li><a href="/features/"><i class="fa fa-star "></i> Features</a></li>
-                        <li><a href="/pricing/"><i class="fa fa-certificate "></i> Pricing</a></li>
-                        <li><a href="/showcase/"><i class="fa fa-photo "></i> Showcase</a></li>
-                        <li><a href="/blog/"><i class="fa fa-pencil "></i> Blog</a></li>
+                        <li><a href="/features/">Features</a></li>
+                        <li><a href="/pricing/">Pricing</a></li>
+                        <li><a href="/showcase/">Showcase</a></li>
+                        <li><a href="/blog/">Blog</a></li>
                       </ul>
                       <ul class="nav navbar-nav navbar-right">
-                        <li><a href="/support/"><i class="fa fa-support "></i> Support</a></li>
-                        <li><a href="https://www.seedprod.com/members"><i class="fa fa-user "></i> My Account</a></li>
+                        <li><a href="/support/">Support</a></li>
+                        <li><a href="https://www.seedprod.com/members">My Account</a></li>
                       </ul>
                     </div><!-- /.navbar-collapse -->
                   </div><!-- /.container-fluid -->
@@ -91,9 +92,17 @@
         <div class="container">
             <div id="footer-wrap">
                 <div class="row-fluid">
+                    <div class="col-md-8">
+                        <div id="footer-3">
+                            <img src="/images/logo-footer.png">
+                            <span>
+                                Copyright &copy; 2015 SeedProd LLC
+                            </span>
+                            <a href="https://twitter.com/seedprod" class="twitter-follow-button" data-show-count="false">Follow @seedprod</a>
+                        </div>
+                    </div>
                     <div class="col-md-2">
                         <div id="footer-1">
-                            <h5>SeedProd</h5>
                             <ul class="list-unstyled">
                                 <li><a href="/about/">About</a></li>
                                 <li><a href="/contact/">Contact</a></li>
@@ -113,15 +122,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-8">
-                        <div id="footer-3">
-                            <img src="/images/logo-footer.png">
-                            <span>
-                                Copyright &copy; 2015 SeedProd LLC
-                            </span>
-                            <a href="https://twitter.com/seedprod" class="twitter-follow-button" data-show-count="false">Follow @seedprod</a>
-                        </div>
-                    </div>
+
                 </div>
             </div><!-- #footer-wrap -->
         </div>
@@ -130,7 +131,7 @@
 
   </div><!-- #page-wrap -->
 
-  {% include global_js %}
+
 
   </body>
 </html>

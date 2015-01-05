@@ -11,7 +11,7 @@
 		</a>
 		<br>
 		<a id="btn-action" href="/features/" class="btn btn-seedprod">
-			<span class="thin">See</span> Features <span class="thin">&amp;</span> Pricing
+			<i class="fa fa-wordpress"></i> <span class="thin">See</span> Features <span class="thin">&amp;</span> Pricing
 		</a>
 	</div>
 </div>
