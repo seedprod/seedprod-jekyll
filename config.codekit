@@ -4797,6 +4797,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/showcase\/miabellaocchi-coming-soon-page-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9588,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/miabellaocchi-coming-soon-page-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/miabellaocchi-coming-soon-page-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/miabellaocchi-coming-soon-page.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.47614e+06,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/miabellaocchi-coming-soon-page.png",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/miabellaocchi-coming-soon-page.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/showcase\/pitchstock.com_-150x150.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5633,6 +5655,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/wordpress-the-loop-shortcode\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-theme-plugin-download-button\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-theme-plugin-download-button\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
