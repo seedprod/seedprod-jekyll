@@ -1,14 +1,6 @@
-- name: miabellaocchi.com Coming Soon Page
-  thumbnail: miabellaocchi-coming-soon-page-tn.jpg
-  large: miabellaocchi-coming-soon-page.png
-
-- name: Not Dark Yet Coming Soon Page
+- name: lesmainsdanslecambouis.com Coming Soon Page
   thumbnail: 2014-08-18_17-15-44-tn.png
-  large: 2014-08-18_17-15-44.png
-
-- name: pitchstock.com Coming Soon Page
-  thumbnail: pitchstock.com_-150x150.png
-  large: pitchstock.com_.png
+  large: lesmainsdanslecambouis.com_.jpg
 
 - name: pitchstock.com Coming Soon Page
   thumbnail: pitchstock.com_-150x150.png
@@ -17,6 +9,27 @@
 - name: theastonishingpost.com Coming Soon Page
   thumbnail: theastonishingpost.com_-150x150.png
   large: theastonishingpost.com_.png
+
+- name: miabellaocchi.com Coming Soon Page
+  thumbnail: miabellaocchi-coming-soon-page-tn.jpg
+  large: miabellaocchi-coming-soon-page.png
+
+- name: Not Dark Yet Coming Soon Page
+  thumbnail: 2014-08-18_17-15-44-tn.png
+  large: 2014-08-18_17-15-44.png
+
+- name: Heart of a Women Spa Coming Soon Page
+  thumbnail: pitchstock.com_-150x150.png
+  large: 2014-03-21_19-55-12.jpg
+
+- name: andrearobb.com Coming Soon Page
+  thumbnail: miabellaocchi-coming-soon-page-tn.jpg
+  large: andrearobb.com-coming-soon-page.jpg
+
+
+- name: juloot.co Coming Soon Page
+  thumbnail: pitchstock.com_-150x150.png
+  large: juloot.co_.png
 
 - name: iyp.fm Coming Soon Page
   thumbnail: iyp.fm_-150x150.png

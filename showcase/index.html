@@ -10,14 +10,13 @@ slug: showcase
 <h1>Showcase</h1>
 <div class="gallery">
     {% for s in site.data.showcase %}
-    {% cycle 'open rows': '<div class="row">', nil, nil  %}
-    <div class="col-md-4">
-        <a href="/images/showcase/{{ s.large }}">
-            <img class="img-thumbnail" src="/images/showcase/{{ s.thumbnail }}" alt="{{ s.name }}" title="{{ s.name }}"><br>
-        
-        </a>
+    <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <img class="img-thumbnail" src="/images/showcase/{{ s.large }}" alt="{{ s.name }}" title="{{ s.name }}"><br>
+        {{ s.name }}
+
     </div>
-    {% cycle 'close rows': nil, nil, '</div>' %}
+    </div>
     {% endfor %}
 </div>
 
