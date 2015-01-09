@@ -3,6 +3,8 @@ layout: post
 title: "Download Button for your free WordPress.org Themes & Plugins"
 description: "Get a free download button for your WordPress Themes and Plugins"
 date: "2015-01-09"
+image: /images/wordpress-download-btn.png
+permalink: /wordpress-theme-plugin-download-button/
 ---
 
 

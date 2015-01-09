@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz" >
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" >
     {% if page.canonical == nil %}
-    <link rel="canonical" href="{{site.url}}{{ page.url | replace:'/index.html','' }}/" >
+    <link rel="canonical" href="{{site.url}}{{ page.url | replace:'/index.html','' }}" >
     {% else %}
     <link rel="canonical" href="{{site.url}}{{ page.canonical }}" >
     {% endif %}
@@ -32,6 +32,69 @@
         s.parentNode.insertBefore(p, s);
     })();
     </script>
+
+
+    <meta content="{{ site.title }}" property="og:site_name">
+    {% if page.title %}
+    <meta content="{{ page.title }}" property="og:title">
+    {% else %}
+    <meta content="{{ site.title }}" property="og:title">
+    {% endif %}
+    {% if page.title %}
+    <meta content="article" property="og:type">
+    {% else %}
+    <meta content="website" property="og:type">
+    {% endif %}
+    {% if page.description %}
+    <meta content="{{ page.description }}" property="og:description">
+    {% else %}
+    <meta content="{{ site.description }}" property="og:description">
+    {% endif %}
+    {% if page.url %}
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {% endif %}
+    {% if page.date %}
+    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+    <meta content="{{ site.url }}/about/" property="article:author">
+    {% endif %}
+    {% if page.image %}
+    <meta content="{{ site.url }}{{ page.image }}" property="og:image">
+    {% else %}
+    <meta content="https://s3.amazonaws.com/static.seedprod.com/press-kit/seedprod-logo-267x88.png" property="og:image">
+    {% endif %}
+    {% if page.categories %}
+    {% for category in page.categories limit:1 %}
+    <meta content="{{ category }}" property="article:section">
+    {% endfor %}
+    {% endif %}
+    {% if page.tags %}
+    {% for tag in page.tags %}
+    <meta content="{{ tag }}" property="article:tag">
+    {% endfor %}
+    {% endif %}
+
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@seedprod">
+    <meta name="twitter:creator" content="@johnturner">
+    {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}">
+    {% else %}
+    <meta name="twitter:title" content="{{ site.title }}">
+    {% endif %}
+    {% if page.url %}
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% endif %}
+    {% if page.description %}
+    <meta name="twitter:description" content="{{ page.description }}">
+    {% else %}
+    <meta name="twitter:description" content="{{ site.description }}">
+    {% endif %}
+    {% if page.image %}
+    <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+    <meta name="twitter:image:src" content="https://s3.amazonaws.com/static.seedprod.com/press-kit/seedprod-logo-267x88.png">
+    {% endif %}
 
 
   </head>
