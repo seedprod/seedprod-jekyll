@@ -12,7 +12,7 @@ slug: showcase
     {% for s in site.data.showcase %}
     <div class="row">
     <div class="col-md-8 col-md-offset-2">
-        <img class="img-thumbnail" src="/images/showcase/{{ s.large }}" alt="{{ s.name }}" title="{{ s.name }}"><br>
+        <img class="img-thumbnail lazy" data-original="/images/showcase/{{ s.large }}" alt="{{ s.name }}" title="{{ s.name }}"><br>
         {{ s.name }}
 
     </div>
@@ -30,12 +30,9 @@ slug: showcase
 </div>
 </div>
 </div>
-<script src="/js/magnify.js"></script>
+<script src="/js/jquery.lazyload.min.js"></script>
 <script>
-$('.gallery a').magnificPopup({
-    type: 'image',
-    gallery:{
-        enabled:true
-    }
+$(function() {
+    $("img.lazy").lazyload();
 });
 </script>
