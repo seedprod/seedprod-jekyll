@@ -128,15 +128,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/default.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/default.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_layouts\/page.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -4445,6 +4436,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/showcase\/2014-03-21_19-55-12-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12966,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/2014-03-21_19-55-12-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/2014-03-21_19-55-12-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/2014-03-21_19-55-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206605,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/2014-03-21_19-55-12.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/2014-03-21_19-55-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/2014-08-18_17-15-44-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10716,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/2014-08-18_17-15-44-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/2014-08-18_17-15-44-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/2014-08-18_17-15-44-tn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44021,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/2014-08-18_17-15-44-tn.png",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/2014-08-18_17-15-44-tn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/2014-08-18_17-15-44.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 501810,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/2014-08-18_17-15-44.png",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/2014-08-18_17-15-44.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/showcase\/6922289042_eaffcb33f3_b-150x150.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4621,6 +4667,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/showcase\/andrearobb.com-coming-soon-page-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10315,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/andrearobb.com-coming-soon-page-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/andrearobb.com-coming-soon-page-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/andrearobb.com-coming-soon-page.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119314,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/andrearobb.com-coming-soon-page.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/andrearobb.com-coming-soon-page.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/showcase\/atominx.com_-150x150.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4749,6 +4817,50 @@
 		"initialSize": 828518,
 		"inputAbbreviatedPath": "\/_site\/images\/showcase\/iyp.fm_.png",
 		"outputAbbreviatedPath": "\/_site\/images\/showcase\/iyp.fm_.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/juloot.co_-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11431,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/juloot.co_-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/juloot.co_-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/juloot.co_.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.38829e+06,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/juloot.co_.png",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/juloot.co_.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/lesmainsdanslecambouis.com_-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11473,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/lesmainsdanslecambouis.com_-tn.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/lesmainsdanslecambouis.com_-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/showcase\/lesmainsdanslecambouis.com_.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300193,
+		"inputAbbreviatedPath": "\/_site\/images\/showcase\/lesmainsdanslecambouis.com_.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/showcase\/lesmainsdanslecambouis.com_.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5193,6 +5305,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/js\/jquery.lazyload.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/jquery.lazyload.min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/jquery.lazyload.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/_site\/js\/magnify.js": {
 		"fileType": 64,
@@ -10363,6 +10486,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/showcase\/2014-03-21_19-55-12-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12966,
+		"inputAbbreviatedPath": "\/images\/showcase\/2014-03-21_19-55-12-tn.jpg",
+		"outputAbbreviatedPath": "\/images\/showcase\/2014-03-21_19-55-12-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/2014-03-21_19-55-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206605,
+		"inputAbbreviatedPath": "\/images\/showcase\/2014-03-21_19-55-12.jpg",
+		"outputAbbreviatedPath": "\/images\/showcase\/2014-03-21_19-55-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/2014-08-18_17-15-44-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10716,
+		"inputAbbreviatedPath": "\/images\/showcase\/2014-08-18_17-15-44-tn.jpg",
+		"outputAbbreviatedPath": "\/images\/showcase\/2014-08-18_17-15-44-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/2014-08-18_17-15-44-tn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44021,
+		"inputAbbreviatedPath": "\/images\/showcase\/2014-08-18_17-15-44-tn.png",
+		"outputAbbreviatedPath": "\/images\/showcase\/2014-08-18_17-15-44-tn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/2014-08-18_17-15-44.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 501810,
+		"inputAbbreviatedPath": "\/images\/showcase\/2014-08-18_17-15-44.png",
+		"outputAbbreviatedPath": "\/images\/showcase\/2014-08-18_17-15-44.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/showcase\/6922289042_eaffcb33f3_b-150x150.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10539,6 +10717,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/showcase\/andrearobb.com-coming-soon-page-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10315,
+		"inputAbbreviatedPath": "\/images\/showcase\/andrearobb.com-coming-soon-page-tn.jpg",
+		"outputAbbreviatedPath": "\/images\/showcase\/andrearobb.com-coming-soon-page-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/andrearobb.com-coming-soon-page.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119314,
+		"inputAbbreviatedPath": "\/images\/showcase\/andrearobb.com-coming-soon-page.jpg",
+		"outputAbbreviatedPath": "\/images\/showcase\/andrearobb.com-coming-soon-page.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/showcase\/atominx.com_-150x150.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -10671,6 +10871,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/showcase\/juloot.co_-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11431,
+		"inputAbbreviatedPath": "\/images\/showcase\/juloot.co_-tn.jpg",
+		"outputAbbreviatedPath": "\/images\/showcase\/juloot.co_-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/juloot.co_.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.38829e+06,
+		"inputAbbreviatedPath": "\/images\/showcase\/juloot.co_.png",
+		"outputAbbreviatedPath": "\/images\/showcase\/juloot.co_.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/lesmainsdanslecambouis.com_-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11473,
+		"inputAbbreviatedPath": "\/images\/showcase\/lesmainsdanslecambouis.com_-tn.jpg",
+		"outputAbbreviatedPath": "\/images\/showcase\/lesmainsdanslecambouis.com_-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/lesmainsdanslecambouis.com_.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300193,
+		"inputAbbreviatedPath": "\/images\/showcase\/lesmainsdanslecambouis.com_.jpg",
+		"outputAbbreviatedPath": "\/images\/showcase\/lesmainsdanslecambouis.com_.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/showcase\/lot17studios.com_-150x150.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -10711,6 +10955,28 @@
 		"initialSize": 1.22877e+06,
 		"inputAbbreviatedPath": "\/images\/showcase\/menscooking.png",
 		"outputAbbreviatedPath": "\/images\/showcase\/menscooking.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/miabellaocchi-coming-soon-page-tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9588,
+		"inputAbbreviatedPath": "\/images\/showcase\/miabellaocchi-coming-soon-page-tn.jpg",
+		"outputAbbreviatedPath": "\/images\/showcase\/miabellaocchi-coming-soon-page-tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/showcase\/miabellaocchi-coming-soon-page.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.47614e+06,
+		"inputAbbreviatedPath": "\/images\/showcase\/miabellaocchi-coming-soon-page.png",
+		"outputAbbreviatedPath": "\/images\/showcase\/miabellaocchi-coming-soon-page.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11062,6 +11328,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/js\/jquery.lazyload.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.lazyload.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.lazyload.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/js\/magnify.js": {
 		"fileType": 64,

@@ -11,7 +11,7 @@ Have you ever wondered what the difference is between Coming Soon and Maintenanc
 
 ## When to use a Coming Soon Plugin (or mode)
 
-A [Coming Soon Plugin]("/") should be used when a domain is new and you are building out the site. Believe it or not, the head of Google’s anti-SPAM team has specifically suggested a “coming soon” page is a good idea. See for yourself.
+A [Coming Soon Plugin](/) should be used when a domain is new and you are building out the site. Believe it or not, the head of Google’s anti-SPAM team has specifically suggested a “coming soon” page is a good idea. See for yourself.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/R9JvBLjLrUI" frameborder="0" allowfullscreen></iframe>
 
@@ -19,7 +19,7 @@ Adding a Coming Soon page gives you a head start on getting indexed by Google. P
 
 ## When to use a Maintenance Mode Plugin (or Maintenance Mode)
 
-[Maintenance Mode]("/features/") should only be used when your established site is truly down for maintenance. Maintenance Mode returns a special header code (503) to notify search engines that your site is currently down so it does not negatively affect your site's reputation. Typically you also set a time for the planned maintenance so the Google Bot knows when to return to your site.
+[Maintenance Mode](/features/) should only be used when your established site is truly down for maintenance. Maintenance Mode returns a special header code (503) to notify search engines that your site is currently down so it does not negatively affect your site's reputation. Typically you also set a time for the planned maintenance so the Google Bot knows when to return to your site.
 
 Google also stresses that your Maintenance Mode page needs to be useful to users. So you'll want to communicate why you are down and when you'll be back up. It's also a great place to put an opt-in form so you can collect email from users and notify them when you are back up.
 
@@ -37,4 +37,4 @@ I typically only use Maintenance Mode for a day or two at the most.
 
 ## Final Thoughts
 
-Be sure to use a plugin like [SeedProd Coming Soon Pro]("/") which has both a [coming soon and maintenance mode]("/features/") when you are launching a website or going down for maintenance respectively. Using the wrong mode could have a major impact on your SEO efforts and cause major headaches for you and/or your client.
+Be sure to use a plugin like [SeedProd Coming Soon Pro](/) which has both a [coming soon and maintenance mode](/features/) when you are launching a website or going down for maintenance respectively. Using the wrong mode could have a major impact on your SEO efforts and cause major headaches for you and/or your client.
