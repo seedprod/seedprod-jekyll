@@ -128,6 +128,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/default.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/default.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/page.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2635,18 +2644,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_posts\/2014-12-05-copyright-infringement-lesson-learned.md",
 		"outputAbbreviatedPath": "\/_posts\/2014-12-05-copyright-infringement-lesson-learned.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_posts\/2015-01-05-whats-difference-coming-soon-vs-maintenance-mode.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_posts\/2015-01-05-whats-difference-coming-soon-vs-maintenance-mode.md",
-		"outputAbbreviatedPath": "\/_posts\/2015-01-05-whats-difference-coming-soon-vs-maintenance-mode.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -5195,6 +5192,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/wordpress-download-btn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10505,
+		"inputAbbreviatedPath": "\/_site\/images\/wordpress-download-btn.png",
+		"outputAbbreviatedPath": "\/_site\/images\/wordpress-download-btn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/wordpress-mods.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5323,6 +5331,28 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/magnify.js",
 		"outputAbbreviatedPath": "\/_site\/js\/min\/magnify-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/min\/show_afs_search-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/min\/show_afs_search-min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/min\/show_afs_search-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/show_afs_search.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/show_afs_search.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/show_afs_search-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -11245,6 +11275,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/wordpress-download-btn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10505,
+		"inputAbbreviatedPath": "\/images\/wordpress-download-btn.png",
+		"outputAbbreviatedPath": "\/images\/wordpress-download-btn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/wordpress-mods.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -11346,6 +11387,28 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/magnify.js",
 		"outputAbbreviatedPath": "\/js\/min\/magnify-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/min\/show_afs_search-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/show_afs_search-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/show_afs_search-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/show_afs_search.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/show_afs_search.js",
+		"outputAbbreviatedPath": "\/js\/min\/show_afs_search-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
