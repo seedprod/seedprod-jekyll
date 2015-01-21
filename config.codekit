@@ -15237,6 +15237,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/wp-content\/uploads\/2015\/01\/drip-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12076,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/01\/drip-logo.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/01\/drip-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png": {
 		"fileType": 32768,
 		"ignore": 0,
