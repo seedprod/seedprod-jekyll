@@ -47,18 +47,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_drafts\/drip-integration.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_drafts\/drip-integration.md",
-		"outputAbbreviatedPath": "\/_drafts\/drip-integration.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_drafts\/how-to-increase-your-email-sign-ups-by-600-on-your-comig-soon-page.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -71,18 +59,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_drafts\/mymail-integration.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_drafts\/mymail-integration.md",
-		"outputAbbreviatedPath": "\/_drafts\/mymail-integration.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_drafts\/not-all-premium-wordpress-product-are-equal.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -92,30 +68,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_drafts\/not-all-premium-wordpress-product-are-equal.md",
 		"outputAbbreviatedPath": "\/_drafts\/not-all-premium-wordpress-product-are-equal.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_drafts\/top-3-hidden-features-of-wordPress.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_drafts\/top-3-hidden-features-of-wordPress.md",
-		"outputAbbreviatedPath": "\/_drafts\/top-3-hidden-features-of-wordPress.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_drafts\/YYYY-MM-DD-slug.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 1,
-		"expandTabs": 1,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_drafts\/YYYY-MM-DD-slug.md",
-		"outputAbbreviatedPath": "\/_drafts\/YYYY-MM-DD-slug.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -2814,6 +2766,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/colourlovers-rss-widget\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-page-drip-integration\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-page-drip-integration\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5799,6 +5760,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/wordpress-copyright-infringement\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-jetpack-features\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-jetpack-features\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -9357,6 +9327,50 @@
 		"initialSize": 23483,
 		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
 		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2015\/01\/drip-integration-screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88377,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/drip-integration-screenshot.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/drip-integration-screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2015\/01\/drip-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24875,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/drip-logo.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/drip-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61066,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2015\/01\/mymail-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25129,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/mymail-logo.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/mymail-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15208,6 +15222,39 @@
 		"initialSize": 23483,
 		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
 		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/01\/drip-integration-screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88377,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/01\/drip-integration-screenshot.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/01\/drip-integration-screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61066,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/01\/mymail-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25129,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/01\/mymail-logo.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/01\/mymail-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
