@@ -135,6 +135,10 @@
                 {% if page.slug == 'home' %}
                   {% include home %}
                 {% endif %}
+
+                {% if page.slug == '404' %}
+                    {% include 404 %}
+                {% endif %}
         </div>
     </div> <!-- /#hd -->
 
