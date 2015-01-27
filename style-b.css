@@ -6440,8 +6440,8 @@ body {
   border-radius: 0px;
 }
 .navbar-default .navbar-nav > li > a {
-  font-size: 12px;
-  font-weight: 700;
+  font-size: 14px;
+  font-weight: 400;
   -webkit-font-smoothing: auto;
   color: #444;
 }
