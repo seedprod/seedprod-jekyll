@@ -2,8 +2,9 @@
 
 <div id="featured">
 	<div class="container">
-		<h1 style="font-size:38px;margin-bottom:15px">The Ultimate Coming Soon &amp; Maintenance Mode
-			<br>Plugin for WordPress
+		<h1 style="font-size:38px;margin-bottom:15px">
+			<span class="normal">The Ultimate </span>Coming Soon <span class="normal">&amp;</span> Maintenance Mode
+			<br><span class="normal">Plugin for WordPress
 		</h1>
 		<p>Work on your site behind the scenes while you collect valuable email addresses.<p>
 		<a href="/features/">
