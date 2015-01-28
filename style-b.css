@@ -6331,24 +6331,24 @@ h6 {
 	GLOBAL
 \*------------------------------------*/
 html {
-  background: #fafafa;
+  background: #f7f7f7;
 }
 body {
-  background: #fafafa;
+  background: #f7f7f7;
   -webkit-font-smoothing: antialiased;
   background: #ffffff;
   /* Old browsers */
-  background: -moz-linear-gradient(top, #ffffff 0%, #fafafa 100%);
+  background: -moz-linear-gradient(top, #ffffff 0%, #f7f7f7 100%);
   /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #fafafa));
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #f7f7f7));
   /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top, #ffffff 0%, #fafafa 100%);
+  background: -webkit-linear-gradient(top, #ffffff 0%, #f7f7f7 100%);
   /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top, #ffffff 0%, #fafafa 100%);
+  background: -o-linear-gradient(top, #ffffff 0%, #f7f7f7 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #ffffff 0%, #fafafa 100%);
+  background: -ms-linear-gradient(top, #ffffff 0%, #f7f7f7 100%);
   /* IE10+ */
-  background: linear-gradient(to bottom, #ffffff 0%, #fafafa 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #f7f7f7 100%);
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='@bg-color', GradientType=0);
   /* IE6-9 */
@@ -6357,6 +6357,21 @@ body {
 }
 #bd {
   padding: 40px 0 40px;
+}
+.well {
+  min-height: 20px;
+  padding: 40px;
+  margin-bottom: 20px;
+  background: #fff;
+  background-image: none !important;
+  border: #DDD 1px solid;
+  border-top-color: #EEE;
+  border-bottom-color: #BBB;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.09);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.09);
 }
 .page-title-header {
   text-align: center;
