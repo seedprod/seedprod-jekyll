@@ -7,18 +7,29 @@ categories:
   - Blog
 ---
 
+<style>
+pre {
+    white-space: pre-wrap;       /* CSS 3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: normal;       /* Internet Explorer 5.5+ */\
+    word-break: normal;
+}
+</style>
+
 > You can please some of the people all of the time, you can please all of the people some of the time, but you can’t please all of the people all of the time. - John Lydgate
 
 
 
-I have been solo entrepreneur for the past four years with my [Coming Soon Page and Maintenance Mode](http://www.seedprod.com) plugin for WordPress and that means I wear many hats. One of those hats being 'the' customer service rep. With that experience I have some insight that I'd like to share with you and some things I wish I had know before I got start.
+I have been solo entrepreneur for the past four years with my [Coming Soon Page and Maintenance Mode](http://www.seedprod.com) plugin for WordPress and that means I wear many hats. One of those hats being 'the' customer service rep. With that experience I have some insight that I'd like to share with you and some things I wish I had known before I got start.
 
 ## Expectations
 When you provide a WordPress product or service, customer service should be one of your main priorities. This should be a no brainer right? But I have dealt with many 'Premium' WordPress themes, plugins and other service shops where customer service was severely lacking.
 
-When I buy a plugin I expect friendly, accurate and prompt customer service, these are the same principle I apply to my customer service.
+When I buy a plugin I expect friendly, accurate and prompt customer service, these are the same principles I apply to my customer service.
 
-# The Basics
+## The Basics
 When dealing with customers or potential customers here are a few basic guidlines.
 
 * Always use a friendly greeting and call the person by name on the first response. For example:
@@ -29,7 +40,7 @@ Hi Jane,
 Disable all plugins and see if the problem still exist.
 </pre>
 
-When you skip calling a person by their name sometimes the tone can sound like your barking orders and unfriendly. Plus people love hearing their name.
+When you skip calling a person by their name sometimes the tone can sound like you're barking orders and unfriendly. Plus people love hearing their name.
 
 * Leave the conversation open to follow ups. I typically end all my conversation with
 
@@ -44,7 +55,7 @@ Founder
 
 I want to make it clear that we believe in our product and that we are always available if a problem occurs in the future. Also I want to make it clear who they are talking to. If you have multiple people providing support then this helps as they move up the support chain.
 
-* Respond within the first 12 hours. I typically aim for 2 hour response during business hours but some companies I have dealt with take 48 hours or longer. In my opinion this is unacceptable. If you can't respond within 2 days then it's time to hire help.
+* Respond within the first 12 hours. I typically aim for 2 hour response during business hours but some companies I have dealt will take 48 hours or longer. In my opinion this is unacceptable. If it take 2 days to respond then it's time to hire help.
 
 * Most customers just want a quick resolution to their issue. Try to be as to the point as possible with human tone. I typically include what is the source of the problem and the resolution.
 
@@ -84,7 +95,7 @@ If the customer is downright rude or insulting then I either ignore or send a ca
 Sorry you feel that way. If you would a refund let me know and I can process that right away for you.
 </pre>
 
-You are never going to be able to please everyone. Inevitability you are going to run into these situations. It's best to determine how to deal with these in advanced instead of sending an emotionally charged response.
+While these are rare, you are never going to be able to please everyone. Inevitability you are going to run into these situations. It's best to determine how to deal with these in advanced instead of sending an emotionally charged response.
 
 * Feature request just come with the territory when you have a product or service. My number one rule is never commit to a feature or give a specific date time for completion. Basically all my feature request replies go something like:
 
@@ -106,7 +117,7 @@ I typically leave marketing out of my customer responses but in my case I have a
 For examples I have a few free plugins in the WordPress.org repo. After answering a suport request by a non customer I include at the end of my response:
 
 <pre>
-If you are interested in the Pro Version use coupon code xxxx to save xx off. While the free verison works great I think Pro Version will blow your mind.
+By the way we have a Pro Version. If you are interested in it use coupon code xxxx to save xx off. While the free version works great I think Pro Version will blow your mind. http://www.seedprod.com
 </pre>
 
 or request a review:
@@ -138,8 +149,8 @@ So this my brain dump on my customer service journey so far. If you have any oth
 
 ### How to replace the Contact Us link in [HelpScout Docs](http://www.helpscout.net/features/docs/) with your own custom link.
 
-As I said above I use HelpScou for my support system. They have an excellent integrated Knowledge base software called Docs.
-By default the have a 'Contact Us' link on each article that pops a contact forms. Since I have to ensure my user have a valid licesne before I provide support this does not work for me. Helpscout allows you to add javascript in the docs. So what I did is replaced the default 'Contact Us' link with my custom link that goes to an authenticate contact form.
+As I said above I use HelpScout for my support system. They have an excellent integrated knowledge base software called Docs.
+By default the have a 'Contact Us' link on each article that pops a contact forms. Since I have to ensure my users have a valid license before I provide support this does not work for me. HelpScout allows you to add javascript in the docs. So what I did is replaced the default 'Contact Us' link with my custom link that goes to an authenticate contact form.
 
 You can see it in action at [http:support.seedprod.com](http:support.seedprod.com)
 
