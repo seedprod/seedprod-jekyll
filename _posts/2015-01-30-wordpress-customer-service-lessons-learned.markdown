@@ -22,7 +22,7 @@ pre {
 
 
 
-I have been solo entrepreneur for the past four years with my [Coming Soon Page and Maintenance Mode](http://www.seedprod.com) plugin for WordPress and that means I wear many hats. One of those hats being 'the' customer service rep. With that experience I have some insight that I'd like to share with you and some things I wish I had known before I got start.
+I have been solo entrepreneur for the past four years with my [Coming Soon Page and Maintenance Mode](http://www.seedprod.com) plugin for WordPress and that means I wear many hats. One of those hats being 'the' customer service rep. With that experience I have some insight that I'd like to share with you and some things I wish I had known before I got started.
 
 ## Expectations
 When you provide a WordPress product or service, customer service should be one of your main priorities. This should be a no brainer right? But I have dealt with many 'Premium' WordPress themes, plugins and other service shops where customer service was severely lacking.
