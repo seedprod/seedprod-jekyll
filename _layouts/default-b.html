@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ page.description }}">
 
+    <link rel="stylesheet" href="/uikit/css/uikit.custom.css" >
     <link rel="stylesheet" href="/style-b.css" >
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" >
     {% if page.canonical == nil %}
@@ -16,10 +17,9 @@
     {% endif %}
     <link rel="alternate" type="application/rss+xml" title="SeedProd RSS" href="http://feeds.feedburner.com/seedprod" >
 
-    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
-
-
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//use.typekit.net/sec8pvi.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
     <!-- RUM Check -->
     <script>
     var _prum = [['id', '5175cfcbabe53d7e26000000'],
@@ -39,73 +39,48 @@
   <body class="{{ page.slug }}">
     <div id="pg">
         <div id="hd">
-            <div id="shadow">
-                <nav class="navbar navbar-default navbar-inverse" role="navigation">
-                  <div class="container">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#topnav">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                      </button>
-                      <a class="navbar-brand" href="/"><img src="/images/seedprod-logo-black.png" alt="SeedProd Logo"></a>
-                    </div>
-
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="topnav">
-                      <ul class="nav navbar-nav">
-                        <li><a href="/features/">Features</a></li>
-                        <li><a href="/pricing/">Pricing</a></li>
-                        <li><a href="/showcase/">Showcase</a></li>
-                        <li><a href="/blog/">Blog</a></li>
-                      </ul>
-                      <ul class="nav navbar-nav navbar-right">
-                        <li><a href="/support/">Support</a></li>
-                        <li><a href="https://www.seedprod.com/members">My Account</a></li>
-                      </ul>
-                    </div><!-- /.navbar-collapse -->
-                  </div><!-- /.container-fluid -->
-                </nav>
+            <nav class="seed-navbar uk-navbar uk-margin-large-bottom">
+                <div class="uk-container uk-container-center">
+                <a class="uk-navbar-brand" href="/"><img class="uk-responsive-height" src="/images/seedprod-logo-black.png" alt="SeedProd Logo"></a>
+                <ul class="uk-navbar-nav">
+                    <li><a href="/features/">Features</a></li>
+                    <li><a href="/pricing/">Pricing</a></li>
+                    <li><a href="/showcase/">Showcase</a></li>
+                    <li><a href="/blog/">Blog</a></li>
+                </ul>
+                <div class="uk-navbar-flip">
+                <ul class="uk-navbar-nav">
+                  <li><a href="/support/">Support</a></li>
+                  <li><a href="https://www.seedprod.com/members">My Account</a></li>
+                </ul>
+                </div>
+            </div>
+            </nav>
 
                 {% if page.slug == 'home-b' %}
                     {% include home-b %}
                 {% endif %}
-        </div>
     </div> <!-- /#hd -->
 
-
-    <div class="bt-header">
-    </div>
-
     <div id="bd">
-        <div class="container">
+        <div class="uk-container uk-container-center">
 
           {{ content }}
 
         </div> <!-- .container -->
     </div>
 
-    <footer id="ft">
-        <div class="container">
-            <div id="footer-wrap">
-                <div class="row-fluid">
-                    <div class="col-md-12">
-                        <div id="footer-1">
-                            <ul class="list-unstyled list-inline">
-                                <li><a href="/about/">About</a></li>
-                                <li><a href="http://www.shareasale.com/shareasale.cfm?merchantID=51809">Affiliates</a></li>
-                                <li><a href="/contact/">Contact</a></li>
-                                <li><a href="/privacy/">Privacy Policy</a></li>
-                                <li><a href="/terms/">Terms &amp; Conditions</a></li>
-                                <li>&copy; SeedProd LLC</li>
-                            </ul>
-                            <img src="/images/logo-footer.png">
-                        </div>
-                    </div>
-                </div>
-            </div><!-- #footer-wrap -->
+    <footer id="ft" class="uk-margin-large">
+        <div class="uk-container uk-container-center uk-text-center">
+            <ul class="uk-subnav uk-subnav-line">
+                <li><a href="/about/">About</a></li>
+                <li><a href="http://www.shareasale.com/shareasale.cfm?merchantID=51809">Affiliates</a></li>
+                <li><a href="/contact/">Contact</a></li>
+                <li><a href="/privacy/">Privacy Policy</a></li>
+                <li><a href="/terms/">Terms &amp; Conditions</a></li>
+                <li>&copy; SeedProd LLC</li>
+            </ul>
+            <img src="/images/logo-footer.png">
         </div>
     </footer><!-- #ft -->
 

@@ -1,19 +1,21 @@
 <!-- Featured Content -->
 
 <div id="featured">
-	<div class="container">
-		<h1 style="font-size:38px;margin-bottom:15px">
-			<span class="normal">The Ultimate </span>Coming Soon <span class="normal">&amp;</span> Maintenance Mode
-			<br><span class="normal">Plugin for WordPress
+	<div class="uk-container uk-container-center uk-text-center">
+		<h1 class="class="uk-heading-large">
+			The Ultimate <span class="uk-text-bold">Coming Soon</span> &amp; <span class="uk-text-bold">Maintenance Mode</span>
+			<br>Plugin for WordPress
 		</h1>
-		<p>Work on your site behind the scenes while you collect valuable email addresses.<p>
+		<p class="uk-text-large uk-text-muted">Work on your site behind the scenes while you collect valuable email addresses.<p>
 		<a href="/features/">
 			<img src="/images/featured.png" class="img-responsive">
 		</a>
-		<br>
-		<a id="btn-action" href="/features/" class="btn btn-seedprod">
+
+		<a href="/features/" class="uk-button uk-button-success uk-button-large">
 			<i class="fa fa-wordpress"></i>&nbsp;&nbsp;Get the Plugin
-		</a><br>
-		or <a href="/features/">Learn More</a>
+		</a>
+		<br>
+		or <a href="/features/" >Learn More</a>
+
 	</div>
 </div>
