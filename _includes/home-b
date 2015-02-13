@@ -1,21 +1,42 @@
 <!-- Featured Content -->
 
-<div id="featured">
-	<div class="uk-container uk-container-center uk-text-center">
-		<h1 class="class="uk-heading-large">
+<div id="seed-featured">
+	<div class="uk-container uk-container-center uk-text-center uk-margin-large-bottom">
+		<h1>
 			The Ultimate <span class="uk-text-bold">Coming Soon</span> &amp; <span class="uk-text-bold">Maintenance Mode</span>
 			<br>Plugin for WordPress
 		</h1>
-		<p class="uk-text-large uk-text-muted">Work on your site behind the scenes while you collect valuable email addresses.<p>
-		<a href="/features/">
-			<img src="/images/featured.png" class="img-responsive">
-		</a>
+		<p class="uk-text-large uk-text-muted uk-margin-large-bottom">Allows you to work on your site while visitors see a coming soon or maintenance page.<p>
+		<div id="seed-featured-container">
+			<a href="/features/">
+				<img src="/images/featured-1.png" class="img-responsive uk-align-center uk-margin-large-bottom">
+			</a>
+			<div id="seed-feature-1" class="uk-hidden-small uk-text-small">
+				<p>
+					<i class="fa fa-picture-o"></i> <strong>Full Screen Backgrounds</strong> Use images, videos or slideshow to create a capitavating background.
+				</p>
+			</div>
+			<div id="seed-feature-2" class="uk-hidden-small uk-text-small">
+				<p>
+					<i class="fa fa-mobile"></i> <i class="fa fa-eye"></i> <strong>Responive &amp; Retina Ready</strong> Looks stunning on any device size or resolution.
+				</p>
+			</div>
+			<div id="seed-feature-3" class="uk-hidden-small uk-text-small">
+				<p>
+					<i class="fa fa-calendar"></i> <strong>Countdown and Progress Bar</strong> Keep your visitors in the loop while under construction or maintenance and let them know when to expect the site launch.
+				</p>
+			</div>
+		</div>
 
-		<a href="/features/" class="uk-button uk-button-success uk-button-large">
+		<a href="/features/" class="uk-button uk-button-primary uk-button-large">
 			<i class="fa fa-wordpress"></i>&nbsp;&nbsp;Get the Plugin
 		</a>
+
 		<br>
 		or <a href="/features/" >Learn More</a>
-
+		<br>
+		<br>
+		<hr>
 	</div>
+
 </div>
