@@ -24,12 +24,20 @@ body {
     background: linear-gradient(to bottom,  #ffffff 0%,#eee 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#eee',GradientType=0 ); /* IE6-9 */
     background-repeat:no-repeat;
-    background-size:100% 600px;
+    background-size:100% 400px;
 }
 
 .uk-text-small {
     font-size: 12px;
     line-height: 16px;
+}
+
+.seed-button-xlarge{
+    min-height: 40px;
+    padding: 10px 29px;
+    line-height: 38px;
+    font-size: 23px;
+    border-radius: 5px;
 }
 
 
@@ -70,11 +78,11 @@ body {
 
 #seed-feature-1{
     position: absolute;
-    top: 21px;
+    top: 68px;
     left: 20px;
     width: 180px;
     text-align: left;
-    padding-top:20px;
+    padding-top:10px;
 }
 
 #seed-feature-2:before{
@@ -84,34 +92,90 @@ body {
     right: 0;
     height: 1px;
     border-top: 1px #ddd solid;
-    width: 300px;
+    width: 325px;
 }
 
 #seed-feature-2{
     position: absolute;
-    top: 60px;
+    top: 90px;
     right: 20px;
     width: 180px;
     text-align: right;
-    padding-top:20px;
+    padding-top:10px;
 }
 
-#seed-feature-3:after{
+#seed-feature-3:before{
     content: '';
     position: absolute;
-    bottom: 0;
+    top: 0;
     height: 1px;
     border-top: 1px #ddd solid;
-    width: 300px;
+    width: 370px;
 }
 
 #seed-feature-3{
     position: absolute;
-    top: 123px;
+    top: 213px;
     left: 20px;
     width: 180px;
     text-align: left;
-    padding-top:20px;
+    padding-top:10px;
+}
+
+#seed-feature-4:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    height: 1px;
+    border-top: 1px #ddd solid;
+    width: 350px;
+}
+
+#seed-feature-4{
+    position: absolute;
+    top: 325px;
+    left: 20px;
+    width: 180px;
+    text-align: left;
+    padding-top:10px;
+}
+
+#seed-feature-5:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 1px;
+    border-top: 1px #ddd solid;
+    width: 320px;
+}
+
+#seed-feature-5{
+    position: absolute;
+    top: 272px;
+    right: 20px;
+    width: 180px;
+    text-align: right;
+    padding-top:10px;
+}
+
+#seed-feature-6:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 1px;
+    border-top: 1px #ddd solid;
+    width: 320px;
+}
+
+#seed-feature-6{
+    position: absolute;
+    top: 175px;
+    right: 20px;
+    width: 180px;
+    text-align: right;
+    padding-top:10px;
 }
 
 
@@ -120,4 +184,11 @@ body {
 \*------------------------------------*/
 #ft a {
     color: #444 !important;
+}
+
+#ft-logo{
+    width:90px;
+    opacity:0.8;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
