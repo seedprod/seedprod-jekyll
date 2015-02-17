@@ -24,7 +24,7 @@ body {
     background: linear-gradient(to bottom,  #ffffff 0%,#eee 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#eee',GradientType=0 ); /* IE6-9 */
     background-repeat:no-repeat;
-    background-size:100% 400px;
+    background-size:100% 800px;
 }
 
 .uk-text-small {
@@ -182,6 +182,14 @@ body {
     padding-top:10px;
 }
 
+#seed-trust{
+    width: 175px;
+    position: relative;
+    top: -151px;
+    left: 218px;
+    margin-bottom: -82px;
+}
+
 
 /*------------------------------------*\
     FOOTER
@@ -195,4 +203,17 @@ body {
     opacity:0.8;
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
+}
+
+/*------------------------------------*\
+    RESPONSIVE
+\*------------------------------------*/
+@media (max-width: 768px) {
+    #seed-trust{
+        width: 175px;
+        position: static;
+        top: 0;
+        left: 0;
+        margin: -20px 0 20px;
+    }
 }
