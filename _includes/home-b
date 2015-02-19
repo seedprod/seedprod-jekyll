@@ -13,32 +13,32 @@
 			</a>
 			<div id="seed-feature-1" class="uk-hidden-small uk-text-small uk-animation-fade" style="-webkit-animation-delay: 0.1s;">
 				<p>
-					<i class="fa fa-picture-o"></i> <strong>Full Screen Backgrounds</strong> Use images, videos or slideshow to create a capitavating background.
+					<i class="uk-icon-picture-o"></i> <strong>Full Screen Backgrounds</strong> Use images, videos or slideshow to create a capitavating background.
 				</p>
 			</div>
 			<div id="seed-feature-2" class="uk-hidden-small uk-text-small uk-animation-fade" style="-webkit-animation-delay: 0.4s;">
 				<p>
-					<i class="fa fa-mobile"></i> <i class="fa fa-eye"></i> <strong>Responsive &amp; Retina Ready</strong> Looks stunning on any device size or resolution.
+					<i class="uk-icon-mobile"></i> <i class="uk-icon-eye"></i> <strong>Responsive &amp; Retina Ready</strong> Looks stunning on any device size or resolution.
 				</p>
 			</div>
 			<div id="seed-feature-3" class="uk-hidden-small uk-text-small uk-animation-fade" style="-webkit-animation-delay: 0.3s;">
 				<p>
-					<i class="fa fa-calendar"></i> <strong>Countdown and Progress Bar</strong> Keep your visitors in the loop while under construction and let them know when to expect the site launch.
+					<i class="uk-icon-calendar"></i> <strong>Countdown and Progress Bar</strong> Keep your visitors in the loop while under construction and let them know when to expect the site launch.
 				</p>
 			</div>
 			<div id="seed-feature-4" class="uk-hidden-small uk-text-small uk-animation-fade" style="-webkit-animation-delay: 0.2s;">
 				<p>
-					<i class="fa fa-twitter"></i> <strong>Social Sharing and Profiles</strong> Easily allow your visitors to share your site on social media and display your social profiles.
+					<i class="uk-icon-twitter"></i> <strong>Social Sharing and Profiles</strong> Easily allow your visitors to share your site on social media and display your social profiles.
 				</p>
 			</div>
 			<div id="seed-feature-5" class="uk-hidden-small uk-text-small uk-animation-fade" style="-webkit-animation-delay: 0.6s;">
 				<p>
-					<i class="fa fa-envelope"></i> <strong>Capture Email Leads</strong> Make your site a success from day one. Integrated with MailChimp, Aweber &amp; many more.
+					<i class="uk-icon-envelope"></i> <strong>Capture Email Leads</strong> Make your site a success from day one. Integrated with MailChimp, Aweber &amp; many more.
 				</p>
 			</div>
 			<div id="seed-feature-6" class="uk-hidden-small uk-text-small uk-animation-fade" style="-webkit-animation-delay: 0.5s;">
 				<p>
-					<i class="fa fa-language"></i> <strong>Translation &amp; Multilingual</strong> Change any text string to your native language or works with plugins like WPML.
+					<i class="uk-icon-language"></i> <strong>Translation &amp; Multilingual</strong> Change any text string to your native language or works with plugins like WPML.
 				</p>
 			</div>
 		</div>
