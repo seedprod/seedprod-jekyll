@@ -27,10 +27,6 @@ body {
     background-size:100% 800px;
 }
 
-body, p, h1, h2, h3{
-    font-family: "proxima-nova-1","proxima-nova-2" !important;
-}
-
 .uk-text-small {
     font-size: 12px;
     line-height: 16px;
