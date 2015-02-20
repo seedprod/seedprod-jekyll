@@ -41,8 +41,9 @@ body {
 }
 
 .seed-margin-medium-bottom {
-    margin-bottom: 20px !important;
+    margin-bottom: 30px !important;
 }
+
 
 
 
@@ -192,6 +193,14 @@ body {
 
 #seed-logo-services{
     opacity: 0.6;
+}
+
+#seed-testimonials .uk-panel-box{
+    padding-bottom: 0;
+}
+
+#seed-testimonials i{
+    color: #55acee;
 }
 
 
