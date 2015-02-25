@@ -9,7 +9,7 @@
 		<p class="uk-text-large uk-text-muted uk-margin-small-bottom">Allows you to work on your site while visitors see a coming soon or maintenance page.<p>
 		<div id="seed-featured-container">
 			<a href="/features/">
-				<img src="/images/feadtured-browser-1.png" class="img-responsive uk-align-center uk-margin-small-bottom uk-animation-fade">
+				<img src="/images/feadtured-browser-1.png" class="img-responsive uk-align-center uk-margin-small-bottom">
 			</a>
 			<div id="seed-feature-1" class="uk-hidden-small uk-text-small uk-animation-fade" style="-webkit-animation-delay: 0.1s;">
 				<p>
@@ -48,7 +48,7 @@
 		</a>
 		</div>
 		<div class="uk-margin-large-bottom">
-		or <a href="/features/" >Learn More</a>
+		or <a href="/features/" >See Features</a>
 		</div>
 		<img id="seed-trust" src="/images/trust-icons.png">
 		<hr>
