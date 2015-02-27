@@ -13,3 +13,4 @@ include: [".htaccess"]
 # Gems
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
