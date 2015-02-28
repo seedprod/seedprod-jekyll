@@ -5,7 +5,7 @@
 	VARIBLES
 \*------------------------------------*/
 
-@brand-primary:  #009dd8;
+@brand-primary:  #82B355;
 @linkColor: @brand-primary;
 
 /*------------------------------------*\
@@ -395,26 +395,26 @@ font-size: 13px;
 }
 
 #package0{
-	background-color:#009dd8;
-	#gradient > .vertical(#009dd8, darken(#009dd8, -10%), 0%, 100%);
+	background-color:@brand-primary;
+	#gradient > .vertical(@brand-primary, darken(@brand-primary, -10%), 0%, 100%);
 	z-index: 99;
 }
 
 #package1{
-	background-color:#009dd8;
-	#gradient > .vertical(#009dd8, darken(#009dd8, 10%), 0%, 100%);
+	background-color:@brand-primary;
+	#gradient > .vertical(@brand-primary, darken(@brand-primary, 10%), 0%, 100%);
 	z-index: 99;
 }
 
 #package2{
-	background-color:darken(#009dd8, 10%);
-	#gradient > .vertical(darken(#009dd8, 10%), darken(#009dd8, 20%), 0%, 100%);
+	background-color:darken(@brand-primary, 10%);
+	#gradient > .vertical(darken(@brand-primary, 10%), darken(@brand-primary, 20%), 0%, 100%);
 }
 
 
 #package3{
-	background-color:darken(#009dd8, 20%);
-	#gradient > .vertical(darken(#009dd8, 20%), darken(#009dd8, 30%), 0%, 100%);
+	background-color:darken(@brand-primary, 20%);
+	#gradient > .vertical(darken(@brand-primary, 20%), darken(@brand-primary, 30%), 0%, 100%);
 }
 
 
