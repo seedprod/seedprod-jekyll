@@ -2587,6 +2587,3027 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/404.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/404.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/about\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/about\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/add-ssl-https-to-wordpress-site\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/add-ssl-https-to-wordpress-site\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/affiliates\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/affiliates\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/andrearobbcoms-coming-page\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/andrearobbcoms-coming-page\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/archive\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/archive\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/bandpress-org-sneak-peek\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bandpress-org-sneak-peek\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/10\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/10\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/3\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/3\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/4\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/4\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/5\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/5\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/6\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/6\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/7\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/7\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/8\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/8\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/page\/9\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page\/9\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/campaign-monitor-integration-feature-spotlight\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/campaign-monitor-integration-feature-spotlight\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/colourlovers-rss-widget\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/colourlovers-rss-widget\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-page-drip-integration\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-page-drip-integration\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-page-inspiration\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-page-inspiration\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-page-mymail-integration\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-page-mymail-integration\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-page-steam-studios\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-page-steam-studios\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-2-2-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-2-2-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-2-2-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-2-2-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-2-3-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-2-3-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-2-3-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-2-3-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-2-4-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-2-4-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-2-5-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-2-5-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-0-10-3-0-9-3-0-8-3-0-7-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-0-10-3-0-9-3-0-8-3-0-7-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-1-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-1-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-1-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-1-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-1-2-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-1-2-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-10-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-10-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-10-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-10-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-10-released-2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-10-released-2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-11-0-and-3-11-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-11-0-and-3-11-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-12-0-released-with-sendy-integration\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-12-0-released-with-sendy-integration\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-12-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-12-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-13-0-released-with-icontact-integration\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-13-0-released-with-icontact-integration\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-14-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-14-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-14-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-14-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-15-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-15-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-15-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-15-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-15-2-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-15-2-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-15-3-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-15-3-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-3-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-3-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-4-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-4-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-4-3-3-4-2-3-4-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-4-3-3-4-2-3-4-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-4-4-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-4-4-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-4-5-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-4-5-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-6-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-6-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-6-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-6-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-6-3-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-6-3-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-7-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-7-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-8-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-8-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-8-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-8-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-9-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-9-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-9-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-9-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-9-3-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-9-3-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-9-4-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-9-4-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-3-9-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-3-9-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-is-now-wpml-compatible\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-is-now-wpml-compatible\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-version-2-5-3-2-5-2-2-5-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-version-2-5-3-2-5-2-2-5-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-version-2-6-0-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-version-2-6-0-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-version-2-6-1-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-version-2-6-1-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-version-2-6-2-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-version-2-6-2-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-version-2-6-3-released\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-version-2-6-3-released\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-version-2-video-walkthrough\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-version-2-video-walkthrough\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-version-3-3-0-release-with-countdown-timer\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-version-3-3-0-release-with-countdown-timer\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-version-3-5-0-release-with-wysija-integration\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-version-3-5-0-release-with-wysija-integration\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-pro-version-3-walkthrough\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-pro-version-3-walkthrough\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/coming-soon-vs-maintenance-mode\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/coming-soon-vs-maintenance-mode\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/constant-contact-integration-feature-spotlight\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/constant-contact-integration-feature-spotlight\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contact-thank-you\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contact-thank-you\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contact\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contact\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/controlling-sidebars-in-thematic\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/controlling-sidebars-in-thematic\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/dynamically-resize-wordpress-images-on-the-fly\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/dynamically-resize-wordpress-images-on-the-fly\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/features\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/features\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/free-html5-theme-for-bloggart\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/free-html5-theme-for-bloggart\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/hacker-news-mobile-version-experimental\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/hacker-news-mobile-version-experimental\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/how-to-enable-wordpress-embeds-on-custom-fields\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/how-to-enable-wordpress-embeds-on-custom-fields\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/how-to-make-wordpress-fast\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/how-to-make-wordpress-fast\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/how-to-test-css-rules-with-firebug\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/how-to-test-css-rules-with-firebug\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/index-b.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/index-b.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/introducing-coming-soon-pro-version-2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/introducing-coming-soon-pro-version-2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/introducing-coming-soon-pro-version-3-plugin-for-wordpress\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/introducing-coming-soon-pro-version-3-plugin-for-wordpress\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/introducing-coming-soon-pro-version-4\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/introducing-coming-soon-pro-version-4\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/knowledge-base\/coming-soon-pro-changelog\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/knowledge-base\/coming-soon-pro-changelog\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/knowledge-base\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/knowledge-base\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/knowledgebase\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/knowledgebase\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/knowledgebase_category\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/knowledgebase_category\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/launcheffect-alternative\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/launcheffect-alternative\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/launchrock-alternative\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/launchrock-alternative\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/lesmainsdanslecambouis-coming-soon-page\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/lesmainsdanslecambouis-coming-soon-page\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/mad-mimi-integration-feature-spotlight\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/mad-mimi-integration-feature-spotlight\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/mailchimp-integration-feature-spotlight\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/mailchimp-integration-feature-spotlight\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/managewp\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/managewp\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/members\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/members\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/mia-bella-occhis-coming-soon-page\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/mia-bella-occhis-coming-soon-page\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/moving-johndturner-com-to-posterous\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/moving-johndturner-com-to-posterous\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/my-first-wordpress-plugin-wp-yui-menu\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/my-first-wordpress-plugin-wp-yui-menu\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/my-posterous-theme-for-free-download\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/my-posterous-theme-for-free-download\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/perks\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/perks\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/plugins\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/plugins\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/plugins\/wordpress-coming-soon-pro-plugin\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/plugins\/wordpress-coming-soon-pro-plugin\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/press-kit\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/press-kit\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/pressnomics-review\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/pressnomics-review\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/pricing\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/pricing\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/privacy\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/privacy\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/recursively-set-owner-shell-script-github\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/recursively-set-owner-shell-script-github\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/refunds\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/refunds\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/search\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/search\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/seedprod-coupon-code\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/seedprod-coupon-code\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/seedprod-discount-code\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/seedprod-discount-code\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/seedprod-sponsors-wpcandy-podcast\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/seedprod-sponsors-wpcandy-podcast\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/seedprods-1st-birthday-the-journey-so-far\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/seedprods-1st-birthday-the-journey-so-far\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/showcase\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/showcase\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/soukly-coming-soon-page\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/soukly-coming-soon-page\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/startups-a-brutally-honest-post-and-reality-check\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/startups-a-brutally-honest-post-and-reality-check\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/stockr\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/stockr\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/stuff-i-use\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/stuff-i-use\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/submit-site\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/submit-site\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/support\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/support\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/terms\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/terms\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/testimonials\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/testimonials\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/thank-you\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/thank-you\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/themes\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/themes\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/ticket\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/ticket\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/top-4-lessons-learned-from-selling-a-premium-wordpress-plugin\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/top-4-lessons-learned-from-selling-a-premium-wordpress-plugin\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/tweet-to-win-coming-soon-pro-winners\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/tweet-to-win-coming-soon-pro-winners\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/twordder\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/twordder\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/ultimate-coming-soon-page-makes-the-list-on-the-periodic-table-of-wordpress-plugins\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/ultimate-coming-soon-page-makes-the-list-on-the-periodic-table-of-wordpress-plugins\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/using-css-frameworks-with-thematic\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/using-css-frameworks-with-thematic\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/welcome-to-seedprod\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/welcome-to-seedprod\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/woocommerce-aweber\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/woocommerce-aweber\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/woocommerce-mailchimp\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/woocommerce-mailchimp\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-404-page-pro\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-404-page-pro\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-copyright-infringement\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-copyright-infringement\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-customer-service-lessons-learned\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-customer-service-lessons-learned\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-jetpack-features\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-jetpack-features\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-the-loop-shortcode\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-the-loop-shortcode\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-theme-plugin-download-button\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-theme-plugin-download-button\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wordpress-ultimate-coming-soon-page-plugin\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/wordpress-ultimate-coming-soon-page-plugin\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/design.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 227172,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/design.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/design.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/forms-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40114,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/forms-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/forms-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/forms-300x253.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120362,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/forms-300x253.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/forms-300x253.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/forms-600x507.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384391,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/forms-600x507.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/forms-600x507.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/forms.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.08608e+06,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/forms.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/forms.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/screenshot1-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31865,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/screenshot1-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/screenshot1-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/screenshot1-300x192.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79883,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/screenshot1-300x192.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/screenshot1-300x192.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/screenshot1-600x384.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300396,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/screenshot1-600x384.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/screenshot1-600x384.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/screenshot1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 874929,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/screenshot1.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/screenshot1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/settings-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7353,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/settings-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/settings-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/settings-300x1330.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108523,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/settings-300x1330.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/settings-300x1330.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/settings-600x2660.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 453427,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/settings-600x2660.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/settings-600x2660.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/settings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 272984,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/settings.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/settings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/subscribers-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8816,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/subscribers-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/subscribers-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/subscribers-300x180.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22501,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/subscribers-300x180.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/subscribers-300x180.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/subscribers-600x360.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81260,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/subscribers-600x360.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/subscribers-600x360.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/subscribers.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60340,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/subscribers.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/subscribers.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37974,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage-300x182.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89424,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage-300x182.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage-300x182.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage-600x365.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 305462,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage-600x365.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage-600x365.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 920105,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/thankyoupage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/video-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22681,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/video-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/video-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/video-300x182.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47694,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/video-300x182.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/video-300x182.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/video-600x364.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160236,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/video-600x364.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/video-600x364.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2012\/11\/video.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 505705,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/video.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2012\/11\/video.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27287,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459-300x174.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64269,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459-300x174.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459-300x174.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459-600x348.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 259478,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459-600x348.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459-600x348.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 757086,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/01\/2013-01-29_1459.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6142,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6-300x103.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19625,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6-300x103.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6-300x103.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6-600x206.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63113,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6-600x206.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6-600x206.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73027,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/34dc9c6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/07\/wpml-ready-badge-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24292,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/wpml-ready-badge-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/wpml-ready-badge-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/07\/wpml-ready-badge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21077,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/wpml-ready-badge.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/07\/wpml-ready-badge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16255,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10-300x259.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41902,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10-300x259.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10-300x259.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10-600x518.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123341,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10-600x518.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10-600x518.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 320550,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/2013-09-13_08-42-10.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/09\/sendy-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3101,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/sendy-logo.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/09\/sendy-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/10\/icontact-150x77.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7184,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/icontact-150x77.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/icontact-150x77.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/10\/icontact.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8343,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/icontact.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/icontact.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7879,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538-150x150.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538-300x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28289,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538-300x400.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538-300x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538-600x800.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94483,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538-600x800.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538-600x800.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.41797e+06,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/IMG_20131020_201538.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/10\/infusionsoft-logo-150x54.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3875,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/infusionsoft-logo-150x54.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/infusionsoft-logo-150x54.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/10\/infusionsoft-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4621,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/infusionsoft-logo.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/10\/infusionsoft-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27563,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42-300x250.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73887,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42-300x250.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42-300x250.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42-600x500.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231929,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42-600x500.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42-600x500.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 594223,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2013\/11\/2013-11-20_15-07-42.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/00000390-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10651,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/00000390-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/00000390-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/00000390-300x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15973,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/00000390-300x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/00000390-300x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/00000390-600x301.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50877,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/00000390-600x301.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/00000390-600x301.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/00000390.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65628,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/00000390.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/00000390.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7867,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053-300x207.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14055,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053-300x207.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053-300x207.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053-600x415.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46243,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053-600x415.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053-600x415.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40152,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-08-28_2053.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11992,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903-300x151.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23497,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903-300x151.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903-300x151.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903-600x303.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75899,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903-600x303.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903-600x303.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80774,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-09-15_0903.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6324,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841-300x89.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6556,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841-300x89.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841-300x89.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841-600x178.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18685,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841-600x178.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841-600x178.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32998,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-14_0841.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9079,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135-300x189.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14186,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135-300x189.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135-300x189.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135-600x378.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45876,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135-600x378.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135-600x378.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64129,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/2012-11-27_1135.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3263,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image-150x150.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image-300x159.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7528,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image-300x159.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image-300x159.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image-600x319.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19485,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image-600x319.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image-600x319.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80783,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/01\/insert-full-size-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14380,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16-300x86.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11823,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16-300x86.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16-300x86.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16-600x172.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40907,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16-600x172.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16-600x172.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17795,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-23-16.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23299,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34-300x228.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56678,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34-300x228.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34-300x228.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34-600x457.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204481,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34-600x457.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34-600x457.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 682009,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-11_15-28-34.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8678,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17-150x150.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17-300x202.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19713,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17-300x202.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17-300x202.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17-600x404.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62067,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17-600x404.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17-600x404.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224590,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7804,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52-150x150.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52-300x202.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21250,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52-300x202.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52-300x202.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52-600x404.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65014,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52-600x404.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52-600x404.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231276,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-53-52.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8616,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17-150x150.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17-300x202.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18656,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17-300x202.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17-300x202.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17-600x404.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54180,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17-600x404.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17-600x404.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 174153,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-54-17.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9112,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12-150x150.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12-300x186.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18708,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12-300x186.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12-300x186.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12-600x372.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53096,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12-600x372.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12-600x372.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 197470,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/2014-03-21_19-55-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5784,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page-150x150.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page-300x189.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12237,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page-300x189.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page-300x189.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page-600x378.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32453,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page-600x378.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page-600x378.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109492,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/andrearobb.com-coming-soon-page.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1124,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent-300x142.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1883,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent-300x142.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent-300x142.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent-600x284.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5859,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent-600x284.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent-600x284.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2661,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/increase-mailchimp-subscribers-ny-600-percent.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22672,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page-300x216.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71195,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page-300x216.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page-300x216.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page-600x432.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 254590,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page-600x432.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page-600x432.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.1617e+06,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/miabellaocchi-coming-soon-page.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25499,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page-300x235.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86410,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page-300x235.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page-300x235.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page-600x470.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 310902,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page-600x470.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page-600x470.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.34036e+06,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/mis-bella-occhi-coming-soon-page.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/rule1-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6486,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/rule1-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/rule1-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/rule1-300x350.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24413,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/rule1-300x350.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/rule1-300x350.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/03\/rule1-600x700.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79256,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/rule1-600x700.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/03\/rule1-600x700.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-37-04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 228951,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-37-04.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-37-04.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10731,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35-300x174.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24808,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35-300x174.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35-300x174.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35-600x348.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101482,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35-600x348.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35-600x348.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 272822,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-10_09-41-35.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24426,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44-300x182.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49365,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44-300x182.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44-300x182.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44-600x364.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 155138,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44-600x364.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44-600x364.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300409,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/08\/2014-08-18_17-15-44.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4086,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1-300x117.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7820,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1-300x117.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1-300x117.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1-600x235.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18616,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1-600x235.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1-600x235.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16906,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/09\/managewp_logo-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-another-side-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22514,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-another-side-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-another-side-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-another-side.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33922,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-another-side.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-another-side.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-astroman-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19297,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-astroman-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-astroman-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-astroman.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28654,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-astroman.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-astroman.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-eclipse-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17216,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-eclipse-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-eclipse-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-eclipse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16508,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-eclipse.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-eclipse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-gravity-boots-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21668,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-gravity-boots-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-gravity-boots-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-gravity-boots.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26875,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-gravity-boots.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-gravity-boots.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-not-dark-yet-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24430,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-not-dark-yet-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-not-dark-yet-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/10\/screenshot-not-dark-yet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35181,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-not-dark-yet.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/10\/screenshot-not-dark-yet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/11\/site-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57984,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-128x128.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15483,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-128x128.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-128x128.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23933,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-150x150.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-16x16.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 889,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-16x16.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-16x16.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-256x256.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36361,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-256x256.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-256x256.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-32x32.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2536,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-32x32.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-32x32.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-64x64.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6698,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-64x64.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-64x64.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-80x80.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9789,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-80x80.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon-80x80.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92389,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/11\/site-icon1-5457a72e_site_icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22916,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2014\/12\/photo-1415356838286-df6fd593e8b3-600x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2015\/01\/drip-integration-screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60344,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/drip-integration-screenshot.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/drip-integration-screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2015\/01\/drip-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8964,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/drip-logo.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/drip-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41337,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/mymail-integration-screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/wp-content\/uploads\/2015\/01\/mymail-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22351,
+		"inputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/mymail-logo.jpg",
+		"outputAbbreviatedPath": "\/_site\/wp-content\/uploads\/2015\/01\/mymail-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_src\/banner-125x125-coming-soon-pro.src.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3676,6 +6697,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/seedprod-logo-all-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57164,
+		"inputAbbreviatedPath": "\/images\/seedprod-logo-all-white.png",
+		"outputAbbreviatedPath": "\/images\/seedprod-logo-all-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/seedprod-logo-black.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3683,6 +6715,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/seedprod-logo-black.png",
 		"outputAbbreviatedPath": "\/images\/seedprod-logo-black.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/seedprod-logo-white-letters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84538,
+		"inputAbbreviatedPath": "\/images\/seedprod-logo-white-letters.png",
+		"outputAbbreviatedPath": "\/images\/seedprod-logo-white-letters.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5085,6 +8128,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/themes\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ticket\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ticket\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
