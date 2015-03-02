@@ -5,42 +5,48 @@ description: The latest blog posts from SeedProd.com
 slug: blog
 ---
 
-<div class="row">
-  <div class="col-md-8">
+
+<div class="uk-grid">
+  <div class="uk-width-7-10">
   	{% for post in paginator.posts %}
-  	<div class="post well">
-	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-	<div class="meta-head">
-		Posted by <a href="/about/">John Turner</a> on {{ post.date | date:"%B %d, %Y"}}
-	</div>
-	<div class="content">
-		{{ post.content }}
-	</div>
-	<p class="more">
-		<a href="{{ post.url }}">Continue Reading &rarr;</a>
-	</p>
+    <div class="uk-panel uk-panel-box uk-panel-box-secondary seed-padding-large">
+        <article class="uk-article">
+            <h1 class="uk-article-title uk-text-bold"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        	<div class="uk-article-meta">
+        		Posted by <a href="/about/">John Turner</a> on {{ post.date | date:"%B %d, %Y"}}
+        	</div>
+            <hr class="uk-article-divider">
+        	<div class="content">
+        		{{ post.content }}
+        	</div>
+        	<p class="more">
+        		<a href="{{ post.url }}">Continue Reading &rarr;</a>
+        	</p>
+        </article>
 	</div>
 	{% endfor %}
   </div>
-  <div class="col-md-4">
+  <div class="uk-width-3-10">
   	{% include sidebar %}
   </div>
 </div>
 
+
 <!-- Pagination links -->
-<div class="pagination">
+<ul class="uk-pagination">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Prev</a>
+    <li class="uk-pagination-previous"><a href="{{ paginator.previous_page_path }}" class="previous">Prev</a></li>
     {% else %}
-    <span class="previous">Prev</span>
+
     {% endif %}
 
     {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <li class="uk-pagination-next"><a href="{{ paginator.next_page_path }}" class="next">Next</a></li>
     {% else %}
-    <span class="next ">Next</span>
     {% endif %}
-</div>
+</ul>
+
+
 <!-- Goto Features -->
 <div class="alert">
 <div id="footer-goto-features">
