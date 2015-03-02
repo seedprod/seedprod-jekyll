@@ -5,41 +5,44 @@ description: Archive of blog post from SeedProd.
 slug: archive
 ---
 
-<div class="row">
-  <div class="col-md-8">
-{% for post in site.posts  %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-    {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
-  
-    {% if forloop.first %}
-      <h2>{{this_year}}</h2>
-      <h3>{{this_month}}</h3>
-      <ul>
-    {% endif %}
-  
-    <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  
-    {% if forloop.last %}
-      </ul>
-    {% else %}
-      {% if this_year != next_year %}
-        </ul>
-        <h2>{{next_year}}</h2>
-        <h3>{{next_month}}</h3>
-        <ul>
-      {% else %}    
-        {% if this_month != next_month %}
-          </ul>
-          <h3>{{next_month}}</h3>
-          <ul>
-        {% endif %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-   </div>
-   <div class="col-md-4">
-   	{% include sidebar %}   
-  </div>
+
+<h1 class="uk-text-center uk-text-bold">Archives</h1>
+<div class="uk-grid">
+    <div class="uk-width-medium-2-3 uk-push-1-6 seed-margin-medium-bottom">
+        <div class="uk-panel uk-panel-box uk-panel-box-secondary seed-padding-large">
+
+            {% for post in site.posts  %}
+                {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+                {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+                {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+                {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
+
+                {% if forloop.first %}
+                  <h2>{{this_year}}</h2>
+                  <h3>{{this_month}}</h3>
+                  <ul>
+                {% endif %}
+
+                <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+
+                {% if forloop.last %}
+                  </ul>
+                {% else %}
+                  {% if this_year != next_year %}
+                    </ul>
+                    <h2>{{next_year}}</h2>
+                    <h3>{{next_month}}</h3>
+                    <ul>
+                  {% else %}
+                    {% if this_month != next_month %}
+                      </ul>
+                      <h3>{{next_month}}</h3>
+                      <ul>
+                    {% endif %}
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+
+        </div>
+    </div>
 </div>

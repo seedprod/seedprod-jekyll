@@ -44,6 +44,14 @@ body {
     margin-bottom: 30px !important;
 }
 
+.seed-padding-medium {
+    padding:30px;
+}
+
+.seed-padding-large {
+    padding:50px;
+}
+
 
 
 
