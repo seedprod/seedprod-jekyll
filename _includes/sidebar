@@ -1,22 +1,31 @@
-<div class="widget">
+<div class="widget uk-margin-bottom">
 <h3>Newsletter</h3>
-<div class="alert alert-warning">
+<div class="uk-panel uk-panel-box uk-panel-box-secondary uk-alert-warning">
 <p style="font-size:13px;">
 Subscribe to our newsletter and get <strong>10 FREE Hi-Res Background Images</strong> like the ones on our <a href="http://demo.seedprod.com/coming-soon-pro/" target="_blank">demo</a>.
 </p>
-<form action="//seedprod.us2.list-manage.com/subscribe/post?u=b917d2a79917ec125d6934c5b&amp;id=34383bb48a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-<div class="form-group">
-<input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email" style="width:100%">
-</div>
+<form action="//seedprod.us2.list-manage.com/subscribe/post?u=b917d2a79917ec125d6934c5b&amp;id=34383bb48a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="uk-form" target="_blank" novalidate="">
 <div style="position: absolute; left: -5000px;"><input type="text" name="b_b917d2a79917ec125d6934c5b_34383bb48a" value=""></div>
-<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary"></div>
+
+<div class="uk-form-row">
+<input type="email" value="" name="EMAIL" class="uk-form-controls id="mce-EMAIL" placeholder="Email" style="width:100%">
+</div>
+
+<div class="uk-form-row">
+	<button name="subscribe" type="submit" class="uk-button uk-button-success"><i class="uk-icon-envelope"></i> Subscribe</button>
+<div>
+
+</div>
 </form>
 </div>
 </div>
+</div>
+
+
 <div class="widget">
 <h3>Keep in Touch</h3>
-	<ul class="list-unstyled">
-		<li><a href="http://twitter.com/seedprod"><i class="fa fa-twitter"></i> Follow Us on Twitter</a></li>
+	<ul class="uk-list">
+		<li><a href="http://twitter.com/seedprod"><i class="uk-icon-twitter"></i> Follow Us on Twitter</a></li>
 
 	</ul>
 	<hr>
@@ -25,16 +34,19 @@ Subscribe to our newsletter and get <strong>10 FREE Hi-Res Background Images</st
 
 <div class="widget">
 <h3>Search</h3>
-<form id="quick-search" action="/search/" method="get">
-      <p>
-        <input type="hidden" name="cref" value="https://www.seedprod.com/cse.xml" />
-        <input type="hidden" name="cof" value="FORID:11" />
-        <input type="hidden" name="ie" value="UTF-8" />
-        <input type="text" name="q" size="31" />
-        <input type="image" name="sa" id="goog-icon-search" value="Search" src="/images/icon-search.png" alt="Search" />
-      </p>
-    </form>
-    <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=quick-search&lang=en"></script>
+<script>
+  (function() {
+    var cx = '003570872382702979469:iuwli13rheg';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
     <hr>
 </div>
 

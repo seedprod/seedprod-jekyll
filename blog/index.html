@@ -35,22 +35,26 @@ slug: blog
 <!-- Pagination links -->
 <ul class="uk-pagination">
     {% if paginator.previous_page %}
-    <li class="uk-pagination-previous"><a href="{{ paginator.previous_page_path }}" class="previous">Prev</a></li>
+    <li class="uk-pagination-previous"><a href="{{ paginator.previous_page_path }}" class="previous"><i class="uk-icon-angle-double-left"></i> Prev</a></li>
     {% else %}
 
     {% endif %}
 
     {% if paginator.next_page %}
-    <li class="uk-pagination-next"><a href="{{ paginator.next_page_path }}" class="next">Next</a></li>
+    <li class="uk-pagination-next"><a href="{{ paginator.next_page_path }}" class="next">Next <i class="uk-icon-angle-double-right"></i></a></li>
     {% else %}
     {% endif %}
 </ul>
 
 
 <!-- Goto Features -->
-<div class="alert">
-<div id="footer-goto-features">
-    <h3>See how SeedProd can make your Website Launch a Success!</h3>
-    <a href="/features/" class="btn btn-large btn-seedprod"><i class="icon-star icon-white"></i> See the Features</a>
-</div>
+<div class="uk-grid uk-text-center">
+    <div class="uk-width-1-1">
+        <div class="uk-panel uk-panel-box uk-panel-box-secondary">
+        <span class="uk-h3 uk-text-bold uk-margin-right">Make Your Site Launch a Success with the Coming Soon Pro Plugin</span>
+        <a href="/pricing/" class="uk-button uk-button-success seed-button-xlarge  uk-text-bold">
+        	<i class="uk-icon-wordpress"></i>&nbsp;&nbsp;Buy Now
+        </a>
+    </div>
+    </div>
 </div>
