@@ -10,9 +10,9 @@ slug: showcase
 <div class="uk-grid uk-text-center">
     <div class="uk-width-medium-2-3 uk-push-1-6 seed-margin-medium-bottom">
                 {% for s in site.data.showcase %}
-                <div class="uk-thumbnail seed-margin-medium-bottom">
+                <div class="uk-thumbnail uk-margin-large-bottom">
                     <img class="img-thumbnail lazy" style="width:600px;height:auto" data-original="/images/showcase/{{ s.large }}" alt="{{ s.name }}" title="{{ s.name }}"><br>
-                    <div class="uk-thumbnail-caption">{{ s.name }}</div>
+                    <div class="uk-thumbnail-caption">{{ s.name }}<br><a href="#">Back to Top <i class="uk-icon-arrow-up"></i></a> </div>
                 </div>
                 {% endfor %}
 
@@ -20,17 +20,7 @@ slug: showcase
 </div>
 
 
-<div class="uk-grid uk-text-center">
-    <div class="uk-width-1-1">
-        <div class="uk-panel uk-panel-box uk-panel-box-secondary">
-        <span class="uk-h3 uk-text-bold uk-margin-right">Make Your Site Launch a Success with the Coming Soon Pro Plugin</span>
-        <a href="/pricing/" class="uk-button uk-button-success seed-button-xlarge  uk-text-bold">
-        	<i class="uk-icon-wordpress"></i>&nbsp;&nbsp;Buy Now
-        </a>
-    </div>
-    </div>
-</div>
-
+{% include bottom_callout.html %}
 
 <script src="/js/jquery.lazyload.min.js"></script>
 <script>
