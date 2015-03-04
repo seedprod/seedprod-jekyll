@@ -59,6 +59,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/bottom_callout.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/bottom_callout.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/disqus.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2868,6 +2877,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/ribbons\/ribbon_style1_best.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1466,
+		"inputAbbreviatedPath": "\/_site\/images\/ribbons\/ribbon_style1_best.png",
+		"outputAbbreviatedPath": "\/_site\/images\/ribbons\/ribbon_style1_best.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/search.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4296,17 +4316,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/ribbons\/ribbon_style1_best.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1466,
-		"inputAbbreviatedPath": "\/_site\/ribbons\/ribbon_style1_best.png",
-		"outputAbbreviatedPath": "\/_site\/ribbons\/ribbon_style1_best.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/_site\/search\/index.html": {
 		"fileType": 8192,
@@ -11145,6 +11154,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/ribbons\/ribbon_style1_best.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1466,
+		"inputAbbreviatedPath": "\/images\/ribbons\/ribbon_style1_best.png",
+		"outputAbbreviatedPath": "\/images\/ribbons\/ribbon_style1_best.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/search.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -12429,17 +12449,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/ribbons\/ribbon_style1_best.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1466,
-		"inputAbbreviatedPath": "\/ribbons\/ribbon_style1_best.png",
-		"outputAbbreviatedPath": "\/ribbons\/ribbon_style1_best.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/search\/index.html": {
 		"fileType": 8192,

@@ -34,4 +34,4 @@ And one more from theknackcapecod.com
 
  [1]: /wp-content/uploads/2014/05/juloot.co_.png
  [2]: /wp-content/uploads/2014/05/theknackcapecod.com_.png
- [3]: /category/showcase/
+ [3]: /showcase/
