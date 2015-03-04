@@ -1,12 +1,8 @@
-
-<!-- Bootstrap -->
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-
 <!-- Twitter -->
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-  {% if page.slug == 'pricing' %}
+{% if page.slug == 'pricing' %}
 
 <!-- begin olark code -->
 <script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
@@ -29,8 +25,7 @@ loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure"
 olark.identify('9920-195-10-4093');/*]]>*/</script><noscript><a href="https://www.olark.com/site/9920-195-10-4093/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
 <!-- end olark code -->
 
-
-  {% else %}
+{% else %}
 
 <!-- Drip -->
 <script type="text/javascript">
@@ -46,9 +41,8 @@ var s = document.getElementsByTagName('script')[0];
 s.parentNode.insertBefore(dc, s);
 })();
 </script>
-<?php }; ?>
 
-  {% endif %}
+{% endif %}
 
 
 <!--  Ad Roll -->
