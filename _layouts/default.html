@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="/uikit/css/uikit.custom.css" >
     <link rel="stylesheet" href="/style.css" >
     {% if page.canonical == nil %}
-    <link rel="canonical" href="{{site.url}}{{ page.url | replace:'/index.html','' }}/" >
+    <link rel="canonical" href="{{site.url}}{{ page.url | replace:'/index.html','/'}}" >
     {% else %}
     <link rel="canonical" href="{{site.url}}{{ page.canonical }}" >
     {% endif %}

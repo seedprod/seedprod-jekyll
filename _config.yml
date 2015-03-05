@@ -10,7 +10,11 @@ permalink: /:title
 exclude: ["_less","config.codekit","style.less","README","Rakefile",".DS_Store","deploy.sh"]
 include: [".htaccess"]
 
-# Gems
+collections:
+  csp_themes:
+    output: true
+    permalink: /themes/:path/
+
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
