@@ -8,45 +8,19 @@ slug: themes
 
     <h1 class="uk-text-center">Premium Themes</h1>
     <p class="uk-text-center">While our included default theme is highly flexible and customizable, save time and get a jump start on your coming soon page's design with our premium themes. New themes added every week. The <a href="/pricing/">SeedProd Coming Soon Pro</a> plugin is required for themes to work.</p>
-sdsd
-    {% for csp_theme in  site.csp_themes  %}
-      <a href="{{csp_theme.url}}">{{ csp_theme.title }}</a>
-    {% endfor %}
-    yuyu
     <div class='uk-grid uk-text-center'>
-        <div class='uk-width-medium-1-3' >
-            <div class="uk-panel uk-panel-default">
-                    <h3 class="uk-panel-title">Not Dark Yet</h3>
-                    <img src="/images/themes/screenshot-not-dark-yet.png" alt="SeedProd Coming Soon Theme">
-                    <a href="https://app.sellwp.co/seedprod/cart/add/19" class="btn btn-seedprod btn-lg" style="margin-top:20px">Buy Now $15</a>
-            </div>
-        </div>
-        <div class='uk-width-medium-1-3' >
-            <div class="uk-panel uk-panel-default">
-                    <h3 class="uk-panel-title">Astroman</h3>
-                    <img src="/images/themes/screenshot-astroman.png" alt="SeedProd Coming Soon Theme">
-                    <a href="https://app.sellwp.co/seedprod/cart/add/20" class="btn btn-seedprod btn-lg" style="margin-top:20px">Buy Now $15</a>
-            </div>
-        </div>
-        <div class='uk-width-medium-1-3' >
-            <div class="uk-panel uk-panel-default">
-                    <h3 class="uk-panel-title">Gravity Boots</h3>
-                    <img src="/images/themes/screenshot-gravity-boots.png" alt="SeedProd Coming Soon Theme">
-                    <a href="https://app.sellwp.co/seedprod/cart/add/21" class="btn btn-seedprod btn-lg" style="margin-top:20px">Buy Now $15</a>
-            </div>
-        </div>
-        <div class='uk-width-medium-1-3' >
-            <div class="uk-panel uk-panel-default">
-                    <h3 class="uk-panel-title">Eclipse</h3>
-                    <img src="/images/themes/screenshot-eclipse.png" alt="SeedProd Coming Soon Theme">
-                    <a href="https://app.sellwp.co/seedprod/cart/add/22" class="btn btn-seedprod btn-lg" style="margin-top:20px">Buy Now $15</a>
-            </div>
-        </div>
-        <div class='uk-width-medium-1-3' >
-            <div class="uk-panel uk-panel-default">
-                    <h3 class="uk-panel-title">Another Side</h3>
-                    <img src="/images/themes/screenshot-another-side.png" alt="SeedProd Coming Soon Theme">
-                    <a href="https://app.sellwp.co/seedprod/cart/add/23" class="btn btn-seedprod btn-lg" style="margin-top:20px">Buy Now $15</a>
-            </div>
-        </div>
+    {% for csp_theme in  site.csp_themes  %}
+      <div class='uk-width-medium-1-2' >
+          <figure class="uk-overlay uk-overlay-hover">
+                <img src="{{csp_theme.thumbnail}}" class="uk-thumbnail">
+                <figcaption class="uk-overlay-panel uk-overlay-background">
+                    <div>
+                        <h3>{{ csp_theme.title }}</h3>
+                        <a href="{{csp_theme.buy_url}}" class="uk-button uk-button-success uk-margin-bottom uk-text-bold">Buy {{csp_theme.price}}</a>
+                        <a href="{{csp_theme.url}}" class="uk-button uk-button-success uk-margin-bottom uk-text-bold">Features</a>
+                    </div>
+                </figcaption>
+          </figure>
+      </div>
+    {% endfor %}
     </div>

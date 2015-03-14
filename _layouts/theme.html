@@ -1,6 +1,20 @@
 ---
 layout: default
 ---
-
-{{page.title}}
-{{ content }}
+<div class="uk-grid uk-margin-large-bottom">
+	<div class="uk-width-7-10">
+		<h1 class="uk-article-title uk-text-bold">{{ page.title }}</h1>
+		<hr class="uk-article-divider">
+        <img src="{{page.thumbnail}}" class="uk-thumbnail">
+	</div>
+	<div class="uk-width-3-10">
+        <div class="uk-panel uk-panel-box uk-panel-box-secondary">
+            <a href="{{page.buy_url}}" class="uk-button uk-button-success uk-text-bold uk-margin-bottom uk-width-1-1 uk-text-bold">Buy {{page.price}}</a>
+            <a href="{{page.demo_url}}" class="uk-button uk-button-success uk-text-bold uk-width-1-1 uk-text-bold">Live Demo</a>
+            <h3>Features</h3>
+            <div class="uk-clearfix">
+                {{ content }}
+            </div>
+        </div>
+	</div>
+</div>
