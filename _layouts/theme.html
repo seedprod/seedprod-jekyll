@@ -10,7 +10,7 @@ layout: default
 	<div class="uk-width-3-10">
         <div class="uk-panel uk-panel-box uk-panel-box-secondary">
             <a href="{{page.buy_url}}" class="uk-button uk-button-success uk-text-bold uk-margin-bottom uk-width-1-1 uk-text-bold">Buy {{page.price}}</a>
-            <a href="{{page.demo_url}}" class="uk-button uk-text-bold uk-width-1-1 uk-text-bold">Live Demo</a>
+            <a id="demo" href="#" class="uk-button uk-text-bold uk-width-1-1 uk-text-bold">Live Demo</a>
             <h3>Features</h3>
             <div class="uk-clearfix">
                 {{ content }}
@@ -18,3 +18,8 @@ layout: default
         </div>
 	</div>
 </div>
+
+
+<script>
+document.getElementById("demo").href = '/demo/?demo-url='+encodeURI('{{page.demo_url}}')+'&buy-url='+encodeURI('{{page.buy_url}}');
+</script>

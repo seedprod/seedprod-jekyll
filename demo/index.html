@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/uikit/css/uikit.custom.css" >
+    <link rel="stylesheet" href="/style.css" >
+    <style>
+    html, body{
+        height:100%;
+    }
+    </style>
+    <script>
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+
+    function resizeIframe(obj) {
+        console.log(obj.contentWindow.document.body.scrollHeight);
+       obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+     }
+
+    </script>
+</head>
+<body>
+    <div id="hd" style="background:#333; border-bottom:1px solid #fff;">
+        <nav class="seed-navbar uk-navbar" style="padding: 5px 0;">
+            <div class="uk-container uk-container-center">
+            <a class="uk-navbar-brand" href="/"><img class="uk-responsive-height" src="/images/seedprod-logo.png" alt="SeedProd Logo"></a>
+            <div class="uk-navbar-flip">
+            <a id="buy-btn" href="#" class="uk-button uk-button-success uk-text-bold uk-text-bold" style="margin-top: 4px;">Buy Now</a>
+
+            </div>
+
+        </div>
+        </nav>
+</div> <!-- /#hd -->
+<iframe id="demo" frameborder="0" style="width:100%;height:100%" scrolling="no" onload='javascript:resizeIframe(this);'></iframe>
+<script>
+
+document.getElementById("demo").src = getParameterByName(decodeURI('demo-url'));
+document.getElementById("buy-btn").href = getParameterByName(decodeURI('buy-url'));
+</script>
+</body>
+</html>
