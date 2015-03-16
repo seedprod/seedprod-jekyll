@@ -42,12 +42,7 @@
             <nav class="seed-navbar uk-navbar uk-margin-large-bottom">
                 <div class="uk-container uk-container-center">
                 <a class="uk-navbar-brand" href="/"><img class="uk-responsive-height" src="/images/seedprod-logo-black.png" alt="SeedProd Logo"></a>
-                <ul class="uk-navbar-nav">
-                    <li><a href="/features/">Features</a></li>
-                    <li><a href="/pricing/">Pricing</a></li>
-                    <li><a href="/showcase/">Showcase</a></li>
-                    <li><a href="/blog/">Blog</a></li>
-                </ul>
+
                 <div class="uk-navbar-flip">
                 <ul class="uk-navbar-nav">
                   <li><a href="/support/">Support</a></li>
@@ -59,9 +54,6 @@
             </nav>
 
 
-                {% if page.slug == 'home' %}
-                    {% include home.html %}
-                {% endif %}
                 {% if page.slug == '404-page-pro' %}
                     {% include 404-page-pro.html %}
                 {% endif %}
