@@ -8,8 +8,10 @@ slug: themes
 
     <h1 class="uk-text-center">Premium Themes</h1>
     <p class="uk-text-center">While our included default theme is highly flexible and customizable, save time and get a jump start on your coming soon page's design with our premium themes. New themes added every week. The <a href="/pricing/">SeedProd Coming Soon Pro</a> plugin is required for themes to work.</p>
-    <div class='uk-grid uk-text-center'>
+
     {% for csp_theme in  site.csp_themes  %}
+    {% cycle '<div class="uk-grid uk-text-center">', '' %}
+
       <div class='uk-width-medium-1-2' >
           <figure class="uk-overlay uk-overlay-hover">
                 <img src="{{csp_theme.thumbnail}}" class="uk-thumbnail">
@@ -22,5 +24,5 @@ slug: themes
                 </figcaption>
           </figure>
       </div>
+      {% cycle '', '</div>' %}
     {% endfor %}
-    </div>
