@@ -360,7 +360,13 @@ h6 {
   display: inline-block;
 }
 .pricing-b #pricing-table {
-  font-size: 13px;
+  font-size: 16px;
+}
+.pricing-b #pricing-table h3 {
+  font-weight: bold;
+}
+.pricing-b #pricing-table h3 span {
+  font-weight: normal;
 }
 .pricing-b #package0 {
   background-color: #6fac34;
@@ -379,6 +385,7 @@ h6 {
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff6fac34', endColorstr='#ff568528', GradientType=0);
   z-index: 99;
+  width: 25%;
 }
 .pricing-b #package2 {
   background-color: #568528;

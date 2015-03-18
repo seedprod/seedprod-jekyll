@@ -400,7 +400,13 @@ background: url(images/ribbons/ribbon_style1_best.png);
 }
 
  #pricing-table {
-font-size: 13px;
+font-size: 16px;
+    h3{
+        font-weight:bold;
+        span{
+            font-weight:normal;
+        }
+    }
 }
 
 @pricing-color: #6fac34;
@@ -414,6 +420,7 @@ font-size: 13px;
 	background-color:@pricing-color;
 	#gradient > .vertical(@pricing-color, darken(@pricing-color, 10%), 0%, 100%);
 	z-index: 99;
+    width: 25%;
 }
 
 #package2{
