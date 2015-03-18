@@ -14,7 +14,6 @@ html {
     background: #fafafa;
 }
 body {
-    -webkit-font-smoothing: antialiased;
     background: #fafafa;
     background: -moz-linear-gradient(top,  #ffffff 0%, #fafafa 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#fafafa)); /* Chrome,Safari4+ */
@@ -25,6 +24,13 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#fafafa',GradientType=0 ); /* IE6-9 */
     background-repeat:no-repeat;
     background-size:100% 400px;
+
+    font-family: "freight-sans-pro-1","freight-sans-pro-2" !important;
+    font-size: 16px;
+}
+
+.uk-button{
+    font-weight:600;
 }
 
 article{
@@ -33,7 +39,9 @@ article{
 }
 
 h1,h2,h3,h4,h5,h6{
-    //font-weight: bold;
+    font-weight: bold;
+    font-family: "freight-sans-pro-1","freight-sans-pro-2" !important;
+
 }
 
 .uk-text-small {
@@ -92,6 +100,10 @@ h1,h2,h3,h4,h5,h6{
 
 #seed-featured-container img{
     width:500px;
+}
+
+#seed-featured h1{
+    font-weight:normal;
 }
 
 #seed-feature-1:before{
