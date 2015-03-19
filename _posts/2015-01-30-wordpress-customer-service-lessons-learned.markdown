@@ -7,20 +7,7 @@ categories:
   - Blog
 ---
 
-<style>
-pre {
-    white-space: pre-wrap;       /* CSS 3 */
-    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: normal;       /* Internet Explorer 5.5+ */
-    word-break: normal;
-}
-</style>
-
 > You can please some of the people all of the time, you can please all of the people some of the time, but you can’t please all of the people all of the time. - John Lydgate
-
-
 
 I have been solo entrepreneur for the past four years with my [Coming Soon Page and Maintenance Mode](http://www.seedprod.com) plugin for WordPress and that means I wear many hats. One of those hats being 'the' customer service rep. With that experience I have some insight that I'd like to share with you and some things I wish I had known before I got started.
 
@@ -158,3 +145,14 @@ Here's the code, just add it to the Custom Code Head field in your HelpScout Doc
 <script src="https://gist.github.com/seedprod/7de2027ad32e1a5ee8d9.js"></script>
 
 The only drawback is that you don't get the built in analytics in the reports on who has clicked on this link.
+
+<style>
+pre {
+    white-space: pre-wrap;       /* CSS 3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: normal;       /* Internet Explorer 5.5+ */
+    word-break: normal;
+}
+</style>
