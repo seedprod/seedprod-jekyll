@@ -6,7 +6,9 @@ permalink: /coming-soon-pro-version-3-5-0-release-with-wysija-integration/
 categories:
   - Release Notes
 ---
-[<img class="size-medium wp-image-292 alignright" title="logo-wysija-600px" src="/wp-content/uploads/2012/10/logo-wysija-600px-300x111.png" alt="" width="300" height="111" />][1]Coming Soon Pro Version 3.5.0 has been released.
+<img class="size-medium wp-image-292 alignright" title="logo-wysija-600px" src="/wp-content/uploads/2012/10/logo-wysija-600px-300x111.png" alt="" width="300" height="111" />
+
+Coming Soon Pro Version 3.5.0 has been released.
 
 &nbsp;
 
