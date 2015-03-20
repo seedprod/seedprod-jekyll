@@ -6,7 +6,7 @@ permalink: /introducing-coming-soon-pro-version-4/
 categories:
   - Release Notes
 ---
-[<img class="alignnone wp-image-778 size-large" src="/wp-content/uploads/2014/08/2014-08-18_17-15-44-600x364.png" alt="Coming Soon Pro Version 4" width="600" height="364" />][1]
+<img class="alignnone wp-image-778 size-large" src="/wp-content/uploads/2014/08/2014-08-18_17-15-44-600x364.png" alt="Coming Soon Pro Version 4" width="600" height="364" />
 
 I&#8217;m proud to announce the latest version the [Coming Soon Pro][2] plugin for WordPress. I have been working on this new version for the past 5 months. The new version is highly extensible which allows for the creation of new 3rd party mail providers and pre made themes. There are also a laundry list of other improvements. See the changelog below.
 
@@ -49,7 +49,6 @@ Changelog:
 
 &nbsp;
 
- [1]: /wp-content/uploads/2014/08/2014-08-18_17-15-44.png
- [2]: http://seedprod.dev:8000
+ [2]: https://www.seedprod.com
  [3]: http://support.seedprod.com/article/81-migrating-from-version-3-to-4
  [4]: https://docs.google.com/forms/d/1bGlpQRG8PJ46jU9c9ioT93ftiqW2ieanrGGoSiH3IoY/viewform
