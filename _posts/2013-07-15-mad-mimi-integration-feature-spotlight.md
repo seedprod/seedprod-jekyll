@@ -8,7 +8,7 @@ categories:
 tags:
   - Mad Mimi
 ---
-[<img class="size-full wp-image-541 aligncenter" alt="Coming Soon Pro with Mad Mimi Integration" src="/wp-content/uploads/2013/07/34dc9c6.png" width="646" height="222" />][1]
+<img class="size-full wp-image-541 aligncenter" alt="Coming Soon Pro with Mad Mimi Integration" src="/wp-content/uploads/2013/07/34dc9c6.png" width="646" height="222" />
 
 <a href="http://madmimi.com" target="_blank">Mad Mimi</a> is the easiest way to create, send, share and track email newsletters online. Mad Mimi is for people who want email marketing to be simple.
 

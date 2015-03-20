@@ -34,16 +34,19 @@ slug: blog
 
 <!-- Pagination links -->
 <ul class="uk-pagination">
-    {% if paginator.previous_page %}
-    <li class="uk-pagination-previous"><a href="{{ paginator.previous_page_path }}" class="previous"><i class="uk-icon-angle-double-left"></i> Prev</a></li>
-    {% else %}
-
-    {% endif %}
 
     {% if paginator.next_page %}
-    <li class="uk-pagination-next"><a href="{{ paginator.next_page_path }}" class="next">Next <i class="uk-icon-angle-double-right"></i></a></li>
+    <li class="uk-pagination-previous"><a href="{{ paginator.next_page_path }}" class="next"><i class="uk-icon-angle-double-left"></i> Older</a></li>
     {% else %}
     {% endif %}
+
+    {% if paginator.previous_page %}
+    <li class="uk-pagination-next"><a href="{{ paginator.previous_page_path }}" class="previous">Newer <i class="uk-icon-angle-double-right"></i></a></li>
+    {% else %}
+
+    {% endif %}
+
+
 </ul>
 
 

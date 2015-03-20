@@ -51,6 +51,9 @@ h6 {
   font-size: 14px;
   line-height: 16px;
 }
+.uk-navbar-nav > li > a {
+  text-shadow: none;
+}
 .seed-button-xlarge {
   min-height: 40px;
   padding: 10px 29px;
@@ -83,11 +86,15 @@ h6 {
   box-shadow: none;
   border: none !important;
 }
-.product-coming-soon-pro #hd {
-  background: linear-gradient(to top, #fcfcfc 0%, #eff2df 25%, #f2e6ca 100%);
+.product-coming-soon-pro #pg {
+  background: linear-gradient(to top, #fafafa 0%, #f0f0ca 25%, #f7dfcd 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 600px;
 }
-.product-404-page-pro #hd {
-  background: linear-gradient(to top, #fcfcfc 0%, #efefde 25%, #d4e6f2 100%);
+.product-404-page-pro #pg {
+  background: linear-gradient(to top, #fafafa 0%, #c9efe5 25%, #d4e6f2 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 800px;
 }
 /*------------------------------------*\
     FRONT PAGE

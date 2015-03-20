@@ -8,7 +8,7 @@ categories:
 tags:
   - Sendy
 ---
-[<img class="size-full wp-image-555 alignright" alt="Coming Soon page Sendy integration" src="/wp-content/uploads/2013/09/sendy-logo.jpg" width="75" height="79" />][1]
+<img class="size-full wp-image-555 alignright" alt="Coming Soon page Sendy integration" src="/wp-content/uploads/2013/09/sendy-logo.jpg" width="75" height="79" />
 
 Coming Soon Pro 3.12.0 has been released and we are proud to announce Sendy integration. Never heard of [Sendy][2]? Sendy is self hosted newsletter software that allows you to send email newsletters 100x cheaper via Amazon SES. In fact it&#8217;s what I use to send SeedProd&#8217;s newsletters.
 
