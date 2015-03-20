@@ -86,16 +86,6 @@ h6 {
   box-shadow: none;
   border: none !important;
 }
-.product-coming-soon-pro #pg {
-  background: linear-gradient(to top, #fafafa 0%, #f0f0ca 25%, #f7dfcd 100%);
-  background-repeat: no-repeat;
-  background-size: 100% 600px;
-}
-.product-404-page-pro #pg {
-  background: linear-gradient(to top, #fafafa 0%, #c9efe5 25%, #d4e6f2 100%);
-  background-repeat: no-repeat;
-  background-size: 100% 800px;
-}
 /*------------------------------------*\
     FRONT PAGE
 \*------------------------------------*/
