@@ -37,27 +37,27 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@seedprod">
-  <meta name="twitter:creator" content="@johnturner">
-  {% if page.title %}
-  <meta name="twitter:title" content="{{ page.title }}">
-  {% else %}
-  <meta name="twitter:title" content="{{ site.title }}">
-  {% endif %}
-  {% if page.url %}
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-  {% endif %}
-  {% if page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
-  {% else %}
-  <meta name="twitter:description" content="{{ site.description }}">
-  {% endif %}
-  {% if page.image %}
-  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
-  {% else %}
-  <meta name="twitter:image:src" content="https://s3.amazonaws.com/static.seedprod.com/press-kit/seedprod-logo-267x88.png">
-  {% endif %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@seedprod">
+    <meta name="twitter:creator" content="@johnturner">
+    {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}">
+    {% else %}
+    <meta name="twitter:title" content="{{ site.title }}">
+    {% endif %}
+    {% if page.url %}
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% endif %}
+    {% if page.description %}
+    <meta name="twitter:description" content="{{ page.description }}">
+    {% else %}
+    <meta name="twitter:description" content="{{ site.description }}">
+    {% endif %}
+    {% if page.image %}
+    <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+    <meta name="twitter:image:src" content="https://s3.amazonaws.com/static.seedprod.com/press-kit/seedprod-logo-267x88.png">
+    {% endif %}
 
 
   </head>
@@ -67,7 +67,13 @@
         <div id="hd">
             <nav class="seed-navbar uk-navbar seed-margin-medium-bottom">
                 <div class="uk-container uk-container-center">
+                {% if page.product == '404-page-pro' %}
                 <a class="uk-navbar-brand" href="/"><img src="/images/coming-soon-pro-logo.png" alt="SeedProd Logo"></a>
+                {% elsif page.product == 'coming-soon-pro'  %}
+                <a class="uk-navbar-brand" href="/"><img src="/images/coming-soon-pro-logo.png" alt="SeedProd Logo"></a>
+                {% else %}
+                <a class="uk-navbar-brand" href="/"><img class="uk-responsive-height" src="/images/seedprod-logo-black.png" alt="SeedProd Logo"></a>
+                {% endif %}
                 <ul class="uk-navbar-nav">
                     <li><a href="/features/">Features</a></li>
                     <li><a href="/pricing/">Pricing</a></li>
