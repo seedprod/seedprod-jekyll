@@ -70,7 +70,8 @@
                 {% if page.product == '404-page-pro' %}
                 <a class="uk-navbar-brand" href="/"><img src="/images/404-page-pro-logo.png" alt="SeedProd Logo"></a>
                 {% elsif page.product == 'coming-soon-pro'  %}
-                <a class="uk-navbar-brand" href="/"><img src="/images/coming-soon-pro-logo.png" alt="SeedProd Logo"></a>
+                <!-- <a class="uk-navbar-brand" href="/"><img src="/images/coming-soon-pro-logo.png" alt="SeedProd Logo"></a> -->
+                <a class="uk-navbar-brand" href="/"><img class="uk-responsive-height" src="/images/seedprod-logo-black.png" alt="SeedProd Logo"></a>
                 {% else %}
                 <a class="uk-navbar-brand" href="/"><img class="uk-responsive-height" src="/images/seedprod-logo-black.png" alt="SeedProd Logo"></a>
                 {% endif %}
@@ -83,8 +84,12 @@
                     <li><a href="/showcase/">Showcase</a></li>
                     <li><a href="/blog/">Blog</a></li>
                     {% else %}
-                    <li><a href="/features/">Plugins</a></li>
+                    <li><a href="/features/">Features</a></li>
+                    <li><a href="/pricing/">Pricing</a></li>
+                    <li><a href="/showcase/">Showcase</a></li>
                     <li><a href="/blog/">Blog</a></li>
+                    <!-- <li><a href="/features/">Plugins</a></li>
+                    <li><a href="/blog/">Blog</a></li> -->
                     {% endif %}
                 </ul>
                 <div class="uk-navbar-flip">
