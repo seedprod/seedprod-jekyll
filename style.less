@@ -43,6 +43,10 @@ h1,h2,h3,h4,h5,h6{
     font-family: "freight-sans-pro-1","freight-sans-pro-2", "Helvetica Neue",Helvetica,Arial,sans-serif ;
 }
 
+.product-404-page-pro p a, .product-404-page-pro p a:hover {
+    color:#08c;
+}
+
 .uk-text-small {
     font-size: 14px;
     line-height: 16px;
@@ -451,6 +455,8 @@ font-size: 16px;
 }
 
 
+
+
 #pricing-table{
     table{
         border:1px solid #ddd;
@@ -521,6 +527,33 @@ font-size: 16px;
 	color:#555;
 }
 
+.product-404-page-pro{
+    @pricing-color: #08c;
+    #package0{
+    	background-color:@pricing-color;
+    	#gradient > .vertical(@pricing-color, darken(@pricing-color, -10%), 0%, 100%);
+    	z-index: 99;
+    }
+
+    #package1{
+    	background-color:@pricing-color;
+    	#gradient > .vertical(@pricing-color, darken(@pricing-color, 10%), 0%, 100%);
+    	z-index: 99;
+        width: 25%;
+    }
+
+    #package2{
+    	background-color:darken(@pricing-color, 10%);
+    	#gradient > .vertical(darken(@pricing-color, 10%), darken(@pricing-color, 20%), 0%, 100%);
+    }
+
+
+    #package3{
+    	background-color:darken(@pricing-color, 20%);
+    	#gradient > .vertical(darken(@pricing-color, 20%), darken(@pricing-color, 30%), 0%, 100%);
+    }
+
+}
 
 /*------------------------------------*\
     RESPONSIVE

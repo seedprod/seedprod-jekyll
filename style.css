@@ -47,6 +47,10 @@ h6 {
   font-weight: bold;
   font-family: "freight-sans-pro-1", "freight-sans-pro-2", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+.product-404-page-pro p a,
+.product-404-page-pro p a:hover {
+  color: #08c;
+}
 .uk-text-small {
   font-size: 14px;
   line-height: 16px;
@@ -461,6 +465,41 @@ h6 {
 #pricing-faqs h3 {
   line-height: 28px;
   color: #555;
+}
+.product-404-page-pro #package0 {
+  background-color: #0088cc;
+  background-image: -webkit-linear-gradient(top, #0088cc 0%, #00aaff 100%);
+  background-image: -o-linear-gradient(top, #0088cc 0%, #00aaff 100%);
+  background-image: linear-gradient(to bottom, #0088cc 0%, #00aaff 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff00aaff', GradientType=0);
+  z-index: 99;
+}
+.product-404-page-pro #package1 {
+  background-color: #0088cc;
+  background-image: -webkit-linear-gradient(top, #0088cc 0%, #006699 100%);
+  background-image: -o-linear-gradient(top, #0088cc 0%, #006699 100%);
+  background-image: linear-gradient(to bottom, #0088cc 0%, #006699 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff006699', GradientType=0);
+  z-index: 99;
+  width: 25%;
+}
+.product-404-page-pro #package2 {
+  background-color: #006699;
+  background-image: -webkit-linear-gradient(top, #006699 0%, #004466 100%);
+  background-image: -o-linear-gradient(top, #006699 0%, #004466 100%);
+  background-image: linear-gradient(to bottom, #006699 0%, #004466 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff006699', endColorstr='#ff004466', GradientType=0);
+}
+.product-404-page-pro #package3 {
+  background-color: #004466;
+  background-image: -webkit-linear-gradient(top, #004466 0%, #002233 100%);
+  background-image: -o-linear-gradient(top, #004466 0%, #002233 100%);
+  background-image: linear-gradient(to bottom, #004466 0%, #002233 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff004466', endColorstr='#ff002233', GradientType=0);
 }
 /*------------------------------------*\
     RESPONSIVE
