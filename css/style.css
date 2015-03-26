@@ -47,6 +47,10 @@ h6 {
   font-weight: bold;
   font-family: "freight-sans-pro-1", "freight-sans-pro-2", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+.product-404-page-pro p a,
+.product-404-page-pro p a:hover {
+  color: #08c;
+}
 .uk-text-small {
   font-size: 14px;
   line-height: 16px;
@@ -190,6 +194,105 @@ h6 {
   width: 320px;
 }
 #seed-feature-6 {
+  position: absolute;
+  top: 175px;
+  right: 20px;
+  width: 180px;
+  text-align: right;
+  padding-top: 10px;
+}
+.product-404-page-pro #seed-feature-1:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  height: 1px;
+  border-top: 1px #ddd solid;
+  width: 300px;
+}
+.product-404-page-pro #seed-feature-1 {
+  position: absolute;
+  top: 68px;
+  left: 20px;
+  width: 180px;
+  text-align: left;
+  padding-top: 10px;
+}
+.product-404-page-pro #seed-feature-2:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 1px;
+  border-top: 1px #ddd solid;
+  width: 325px;
+}
+.product-404-page-pro #seed-feature-2 {
+  position: absolute;
+  top: 272px;
+  right: 20px;
+  width: 180px;
+  text-align: right;
+  padding-top: 10px;
+}
+.product-404-page-pro #seed-feature-3:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  height: 1px;
+  border-top: 1px #ddd solid;
+  width: 370px;
+}
+.product-404-page-pro #seed-feature-3 {
+  position: absolute;
+  top: 204px;
+  left: 20px;
+  width: 180px;
+  text-align: left;
+  padding-top: 10px;
+}
+.product-404-page-pro #seed-feature-4:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  height: 1px;
+  border-top: 1px #ddd solid;
+  width: 350px;
+}
+.product-404-page-pro #seed-feature-4 {
+  position: absolute;
+  top: 298px;
+  left: 20px;
+  width: 180px;
+  text-align: left;
+  padding-top: 10px;
+}
+.product-404-page-pro #seed-feature-5:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 1px;
+  border-top: 1px #ddd solid;
+  width: 320px;
+}
+.product-404-page-pro #seed-feature-5 {
+  position: absolute;
+  top: 90px;
+  right: 20px;
+  width: 180px;
+  text-align: right;
+  padding-top: 10px;
+}
+.product-404-page-pro #seed-feature-6:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 1px;
+  border-top: 1px #ddd solid;
+  width: 320px;
+}
+.product-404-page-pro #seed-feature-6 {
   position: absolute;
   top: 175px;
   right: 20px;
