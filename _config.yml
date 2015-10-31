@@ -17,4 +17,4 @@ collections:
 
 gems:
   - jekyll-sitemap
-  - jekyll-redirect-from
+  - jekyll-paginate
