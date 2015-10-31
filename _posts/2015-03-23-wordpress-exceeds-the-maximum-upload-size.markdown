@@ -1,16 +1,19 @@
 ---
-title:  Solve the Exceeds the Maximum Upload Error in WordPress
+title: Solve the Exceeds the Maximum Upload Error in WordPress
 author: John Turner
 layout: post
-description: "How to increase the maximum upload file size in WordPress"
+description: How to increase the maximum upload file size in WordPress
 date: "2015-03-24"
-permalink: /wordpress-exceeds-the-maximum-upload-size/
-categories:
+permalink: "/wordpress-exceeds-the-maximum-upload-size/"
+categories: 
   - Blog
+published: true
 ---
 
+
 ## The Problem
-Some host set the default upload size for WordPress to 2MB which is extremely low. This can cause an error when you try to upload files that are larger than this size.
+Some hosted![photo-1445251836269-d158eaa028a6.jpg]({{site.baseurl}}/images/photo-1445251836269-d158eaa028a6.jpg)
+ set the default upload size for WordPress to 2MB which is extremely low. This can cause an error when you try to upload files that are larger than this size.
 
 The error would see would be something like:
 
